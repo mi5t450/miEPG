@@ -1,6 +1,6 @@
 La 1 HD,LA 1 ᵁᴴᴰ 3840P
 La 1 HD,LA 1 ᵁᴴᴰ
-LA 1 HEVC,LA 1 HEVC
+LA 1 HD,LA 1 HEVC
 La 2,LA 2 ᵁᴴᴰ
 Antena 3 HD,ANTENA 3 ᵁᴴᴰ
 Cuatro HD,CUATRO ᵁᴴᴰ
