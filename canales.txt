@@ -1,7 +1,112 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
-Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Eleven Sports 1,Eleven Sports 1 Polonia
-Eleven Sports 2,Eleven Sports 2 Polonia
+La 1 HD,LA 1 ᵁᴴᴰ 3840P
+La 1 HD,LA 1 ᵁᴴᴰ
+LA 1 HEVC,LA 1 HEVC
+La 2,LA 2 ᵁᴴᴰ
+Antena 3 HD,ANTENA 3 ᵁᴴᴰ
+Cuatro HD,CUATRO ᵁᴴᴰ
+Telecinco HD,TELECINCO ᵁᴴᴰ
+La Sexta HD,LA SEXTA ᵁᴴᴰ
+Telemadrid,TELEMADRID ᵁᴴᴰ
+REAL MADRID TV ᵁᴴᴰ,REAL MADRID TV ᵁᴴᴰ
+Canal Sur HD,CANAL SUR ᵁᴴᴰ
+CMM TV,CASTILLA LA MANCHA ᵁᴴᴰ
+La Otra,LA OTRA ᵁᴴᴰ
+TRECE,TRECE TV ᵁᴴᴰ
+CMM TV,CMM ᵁᴴᴰ
+Canal Cocina,CANAL COCINA ᵁᴴᴰ 3840p
+Canal Cocina,CANAL COCINA ᵁᴴᴰ
+Decasa,CANAL DECASA ᵁᴴᴰ 3840p
+Decasa,CANAL DECASA ᵁᴴᴰ
+Iberalia TV,IBERALIA TV ᵁᴴᴰ
+Iberalia caza,IBERALIA CAZA ᵁᴴᴰ
+Iberalia pesca,IBERALIA PESCA ᵁᴴᴰ
+Caza y Pesca HD,CAZA Y PESCA ᵁᴴᴰ
+M+ Acción HD,MOVISTAR ACCION ᵁᴴᴰ
+M+ Comedia HD,MOVISTAR COMEDIA ᵁᴴᴰ
+M+ Drama HD,MOVISTAR DRAMA ᵁᴴᴰ
+MOVISTAR ORIGINALES ᵁᴴᴰ
+M+ Clásicos HD,MOVISTAR CLASICOS ᵁᴴᴰ
+M+ Cine HD,MOVISTAR CINE ᵁᴴᴰ
+M+ Cine Español,MOVISTAR CINE Ñ ᵁᴴᴰ
+MOVISTAR CLINT EASTWOOD ᵁᴴᴰ
+M+ Indie HD,MOVISTAR INDIE ᵁᴴᴰ
+Paramount Network,PARAMOUNT CHANNEL ᵁᴴᴰ
+STAR Channel HD,STAR CHANNEL (FOX) ᵁᴴᴰ
+AXN HD,AXN ᵁᴴᴰ
+Warner TV HD,WARNER TV ᵁᴴᴰ
+Comedy Central HD,COMEDY CENTRAL ᵁᴴᴰ
+Calle 13 HD,CALLE 13 ᵁᴴᴰ
+DARK,DARK ᵁᴴᴰ
+XTRM,XTRM ᵁᴴᴰ
+Somos,SOMOS ᵁᴴᴰ
+AXN Movies HD,AXN MOVIES ᵁᴴᴰ
+Cosmo HD,COSMO ᵁᴴᴰ
+AMC HD,AMC ᵁᴴᴰ
+SyFy HD,SYFY ᵁᴴᴰ
+TCM HD,TCM ᵁᴴᴰ
+Hollywood HD,HOLLYWOOD ᵁᴴᴰ
+Sundance TV,SUNDANCE TV ᵁᴴᴰ
+Movistar Plus+ HD,MOVISTAR PLUS+ ᵁᴴᴰ
+Movistar Plus+ 2 HD,MOVISTAR PLUS+ 2 ᵁᴴᴰ
+M+ Series HD,MOVISTAR SERIES ᵁᴴᴰ
+M+ Documentales HD,MOVISTAR DOCUMENTALES ᵁᴴᴰ
+Atreseries,A3SERIES ᵁᴴᴰ
+Mega,MEGA ᵁᴴᴰ
+Neox,NEOX ᵁᴴᴰ
+Be Mad,BEMAD ᵁᴴᴰ
+Factoría de Ficción,FDF ᵁᴴᴰ
+Energy,ENERGY ᵁᴴᴰ
+Divinity,DIVINITY ᵁᴴᴰ
+Ten,TEN ᵁᴴᴰ
+DKISS,DKISS ᵁᴴᴰ
+M+ Copa del Rey,COPA DEL REY HD
+M+ Copa del Rey,COPA DEL REY 4K
+M+ Copa del Rey,COPA DEL REY SD
+M+ LaLiga TV HD,MOVISTAR LA LIGA HEVC
+M+ LaLiga TV HD,MOVISTAR LA LIGA ᵁᴴᴰ
+M+ LaLiga TV 2 HD,MOVISTAR LA LIGA 2 ᵁᴴᴰ (SOLO EVENTOS)
+M+ LaLiga TV 3 HD,M+ LALIGA TV 3 ᵁᴴᴰ
+LaLiga TV BAR HD,LALIGA TV BAR ᵁᴴᴰ
+LaLiga TV Hypermotion HD,LALIGA TV HYPERMOTION ᵁᴴᴰ
+LaLiga TV Hypermotion 2,LALIGA TV HYPERMOTION 2 ᵁᴴᴰ
+LaLiga TV Hypermotion 3,LALIGA TV HYPERMOTION 3 ᵁᴴᴰ
+LALIGA TV HYPERMOTION 4 ᵁᴴᴰ
+LALIGA TV HYPERMOTION 5 ᵁᴴᴰ
+LALIGA TV HYPERMOTION 6 ᵁᴴᴰ
+LALIGA TV HYPERMOTION 7 ᵁᴴᴰ
+M+ Liga de Campeones HD,MOVISTAR LIGA DE CAMPEONES HEVC
+M+ Liga de Campeones HD,MOVISTAR LIGA DE CAMPEONES ᵁᴴᴰ
+M+ Liga de Campeones 2 HD,MOVISTAR LIGA DE CAMPEONES 2 ᵁᴴᴰ (SOLO EVENTOS)
+M+ Liga de Campeones 3 HD,MOVISTAR LIGA DE CAMPEONES 3 ᵁᴴᴰ (SOLO EVENTOS)
+DAZN LaLiga HD,DAZN LALIGA HEVC
+DAZN LaLiga HD,DAZN LA LIGA ᵁᴴᴰ
+DAZN LaLiga 2 HD,DAZN LA LIGA 2 ᵁᴴᴰ
+DAZN F1 HD,DAZN F1 HEVC
+DAZN F1 HD,DAZN F1 ᵁᴴᴰ
+DAZN 1 HD,DAZN 1 ᵁᴴᴰ
+DAZN 2 HD,DAZN 2 ᵁᴴᴰ
+DAZN 3 HD,DAZN 3 ᵁᴴᴰ
+DAZN 4 HD,DAZN 4 ᵁᴴᴰ
+M+ Deportes HD,MOVISTAR DEPORTES HEVC
+M+ Deportes HD,MOVISTAR DEPORTES ᵁᴴᴰ
+M+ Deportes 2 HD,MOVISTAR DEPORTES 2 ᵁᴴᴰ (SOLO EVENTOS)
+M+ Deportes 3,MOVISTAR DEPORTES 3 SD (SOLO EVENTOS)
+M+ Deportes 4,MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)
+M+ Deportes 5,MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)
+M+ Deportes 6,MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)
+M+ Deportes 7,MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)
+GOL PLAY,GOL PLAY ᵁᴴᴰ
+M+ Copa del Rey,MOVISTAR COPA DEL REY ᵁᴴᴰ
+M+ Golf HD,MOVISTAR GOLF ᵁᴴᴰ
+Eurosport 1 HD,EUROSPORT 1 ᵁᴴᴰ
+Eurosport 2,EUROSPORT 2 ᵁᴴᴰ
+Teledeporte,TELEDEPORTE ᵁᴴᴰ
+M+ Vamos HD,#VAMOS HEVC
+M+ Vamos HD,#VAMOS ᵁᴴᴰ
+M+ Ellas Vamos HD,ELLAS #V ᵁᴴᴰ
+Clásicos atresplayer,ATRESPLAYER CLÁSICOS ᵁᴴᴰ
+Comedia atresplayer,ATRESPLAYER COMEDIA ᵁᴴᴰ
+Inquietos atresplayer,ATRESPLAYER MENTES INQUIETAS ᵁᴴᴰ
+El Hormiguero,EL HORMIGUERO ᵁᴴᴰ
+Equipo de investigación,EQUIPO DE INVESTIGACION ᵁᴴᴰ
+FoQ,FÍSICA O QUÍMICA ᵁᴴᴰ
