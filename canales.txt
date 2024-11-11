@@ -6,7 +6,7 @@ Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
 Cuatro HD,ES: CUATRO ᵁᴴᴰ
 Telecinco HD,ES: TELECINCO ᵁᴴᴰ
 La Sexta HD,ES: LA SEXTA ᵁᴴᴰ
-Telemadrid,ES: TELEMADRID ᵁᴴᴰ
+Telemadrid,ES: TELE MADRID ᵁᴴᴰ
 REAL MADRID TV ᵁᴴᴰ,ES: REAL MADRID TV ᵁᴴᴰ
 Canal Sur HD,ES: CANAL SUR ᵁᴴᴰ
 CMM TV,ES: CASTILLA LA MANCHA ᵁᴴᴰ
@@ -46,10 +46,10 @@ SyFy HD,SYFY ᵁᴴᴰ
 TCM HD,TCM ᵁᴴᴰ
 Hollywood HD,HOLLYWOOD ᵁᴴᴰ
 Sundance TV,SUNDANCE TV ᵁᴴᴰ
-Movistar Plus+ HD,MOVISTAR PLUS+ ᵁᴴᴰ
-Movistar Plus+ 2 HD,MOVISTAR PLUS+ 2 ᵁᴴᴰ
-M+ Series HD,MOVISTAR SERIES ᵁᴴᴰ
-M+ Documentales HD,MOVISTAR DOCUMENTALES ᵁᴴᴰ
+Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᵁᴴᴰ
+Movistar Plus+ 2 HD,ES: MOVISTAR PLUS+ 2 ᵁᴴᴰ
+M+ Series HD,ES: MOVISTAR SERIES ᵁᴴᴰ
+M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᵁᴴᴰ
 Atreseries,A3SERIES ᵁᴴᴰ
 Mega,MEGA ᵁᴴᴰ
 Neox,NEOX ᵁᴴᴰ
