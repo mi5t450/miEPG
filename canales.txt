@@ -1,18 +1,18 @@
-La 1 HD,LA 1 ᵁᴴᴰ 3840P
-La 1 HD,LA 1 ᵁᴴᴰ
-LA 1 HD,LA 1 HEVC
-La 2,LA 2 ᵁᴴᴰ
-Antena 3 HD,ANTENA 3 ᵁᴴᴰ
-Cuatro HD,CUATRO ᵁᴴᴰ
-Telecinco HD,TELECINCO ᵁᴴᴰ
-La Sexta HD,LA SEXTA ᵁᴴᴰ
-Telemadrid,TELEMADRID ᵁᴴᴰ
-REAL MADRID TV ᵁᴴᴰ,REAL MADRID TV ᵁᴴᴰ
-Canal Sur HD,CANAL SUR ᵁᴴᴰ
-CMM TV,CASTILLA LA MANCHA ᵁᴴᴰ
-La Otra,LA OTRA ᵁᴴᴰ
-TRECE,TRECE TV ᵁᴴᴰ
-CMM TV,CMM ᵁᴴᴰ
+La 1 HD,ES: LA 1 ᵁᴴᴰ 3840P
+La 1 HD,ES: LA 1 ᵁᴴᴰ
+LA 1 HD,ES: LA 1 HEVC
+La 2,ES: LA 2 ᵁᴴᴰ
+Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
+Cuatro HD,ES: CUATRO ᵁᴴᴰ
+Telecinco HD,ES: TELECINCO ᵁᴴᴰ
+La Sexta HD,ES: LA SEXTA ᵁᴴᴰ
+Telemadrid,ES: TELEMADRID ᵁᴴᴰ
+REAL MADRID TV ᵁᴴᴰ,ES: REAL MADRID TV ᵁᴴᴰ
+Canal Sur HD,ES: CANAL SUR ᵁᴴᴰ
+CMM TV,ES: CASTILLA LA MANCHA ᵁᴴᴰ
+La Otra,ES: LA OTRA ᵁᴴᴰ
+TRECE,ES: TRECE TV ᵁᴴᴰ
+CMM TV,ES: CMM ᵁᴴᴰ
 Canal Cocina,CANAL COCINA ᵁᴴᴰ 3840P
 Canal Cocina,CANAL COCINA ᵁᴴᴰ
 Decasa,CANAL DECASA ᵁᴴᴰ 3840P
