@@ -59,9 +59,9 @@ Energy,ENERGY ᵁᴴᴰ
 Divinity,DIVINITY ᵁᴴᴰ
 Ten,TEN ᵁᴴᴰ
 DKISS,DKISS ᵁᴴᴰ
-M+ Copa del Rey,COPA DEL REY HD
-M+ Copa del Rey,COPA DEL REY 4K
-M+ Copa del Rey,COPA DEL REY SD
+M+ Copa del Rey,ES: COPA DEL REY HD
+M+ Copa del Rey,ES: COPA DEL REY 4K
+M+ Copa del Rey,ES: COPA DEL REY SD
 M+ LaLiga TV HD,MOVISTAR LA LIGA HEVC
 M+ LaLiga TV HD,MOVISTAR LA LIGA ᵁᴴᴰ
 M+ LaLiga TV 2 HD,MOVISTAR LA LIGA 2 ᵁᴴᴰ (SOLO EVENTOS)
