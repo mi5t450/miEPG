@@ -13,9 +13,9 @@ CMM TV,CASTILLA LA MANCHA ᵁᴴᴰ
 La Otra,LA OTRA ᵁᴴᴰ
 TRECE,TRECE TV ᵁᴴᴰ
 CMM TV,CMM ᵁᴴᴰ
-Canal Cocina,CANAL COCINA ᵁᴴᴰ 3840p
+Canal Cocina,CANAL COCINA ᵁᴴᴰ 3840P
 Canal Cocina,CANAL COCINA ᵁᴴᴰ
-Decasa,CANAL DECASA ᵁᴴᴰ 3840p
+Decasa,CANAL DECASA ᵁᴴᴰ 3840P
 Decasa,CANAL DECASA ᵁᴴᴰ
 Iberalia TV,IBERALIA TV ᵁᴴᴰ
 Iberalia caza,IBERALIA CAZA ᵁᴴᴰ
