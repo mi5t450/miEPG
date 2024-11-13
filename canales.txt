@@ -9,7 +9,7 @@ La 2,ES: LA 2 SD
 Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
 Antena 3 HD,ES: ANTENA 3 ᴴᴰ
 Antena 3 HD,ES: ANTENA 3 SD
-Cuatro HD,ES: CUATRO 
+Cuatro HD,ES: CUATRO ᵁᴴᴰ 
 Cuatro HD,ES: CUATRO ᴴᴰ
 Cuatro HD,ES: CUATRO SD
 Telecinco HD,ES: TELECINCO ᵁᴴᴰ
