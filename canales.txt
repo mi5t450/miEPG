@@ -65,8 +65,8 @@ Iberalia caza,ES: IBERALIA CAZA ᵁᴴᴰ
 Iberalia caza,ES: IBERALIA CAZA ᴴᴰ
 Iberalia caza,ES: IBERALIA CAZA SD
 Iberalia pesca,ES: IBERALIA PESCA SD
-Iberalia pesca,IBERALIA PESCA ᵁᴴᴰ
-Iberalia pesca,IBERALIA PESCA ᴴᴰ
+Iberalia pesca,ES: IBERALIA PESCA ᵁᴴᴰ
+Iberalia pesca,ES: IBERALIA PESCA ᴴᴰ
 Caza y Pesca HD,ES: CAZA Y PESCA ᵁᴴᴰ
 Caza y Pesca HD,ES: CAZA Y PESCA ᴴᴰ
 Caza y Pesca HD,ES: CAZA Y PESCA SD
