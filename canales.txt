@@ -136,9 +136,9 @@ TCM HD,ES: TCM SD
 Cosmo HD,ES: COSMO ᴴᴰ
 Cosmo HD,ES: COSMO SD
 Cosmo HD,ES: COSMO ᵁᴴᴰ
-Hollywood HD,ES: HOLLYWOOD ᵁᴴᴰ
-Hollywood HD,ES: HOLLYWOOD ᴴᴰ
-Hollywood HD,ES: HOLLYWOOD SD
+Canal Hollywood HD,ES: HOLLYWOOD ᵁᴴᴰ
+Canal Hollywood HD,ES: HOLLYWOOD ᴴᴰ
+Canal Hollywood HD,ES: HOLLYWOOD SD
 Sundance TV,ES: SUNDANCE TV ᵁᴴᴰ
 Sundance TV,ES: SUNDANCE TV ᴴᴰ
 Sundance TV,ES: SUNDANCE TV SD
