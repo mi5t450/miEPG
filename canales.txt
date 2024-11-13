@@ -39,10 +39,12 @@ TRECE,ES: TRECE TV SD
 El club de la comedia,ES: EL CLUB DE LA COMEDIA SD
 24 Horas,ES: 24H TVE SD
 24 Horas,ES: 24H TVE ᵁᴴᴰ
+24 Horas,ES: 24H TVE ᴴᴰ
 ETB1,ES: ETB 1 ᴴᴰ
 ETB2,ES: ETB 2 ᴴᴰ
 TV3 Catalunya,ES: TV3 CATALUÑA SD
 TV3 Catalunya,ES: TV3 CATALUÑA ᵁᴴᴰ
+TV3 Catalunya,ES: TV3 CATALUÑA ᴴᴰ
 Negocios TV,ES: NEGOCIOS TV ᴴᴰ
 DBike,ES: DBIKE ᴴᴰ
 DBike,ES: DBIKE SD
