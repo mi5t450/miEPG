@@ -72,6 +72,7 @@ Caza y Pesca HD,ES: CAZA Y PESCA ᴴᴰ
 Caza y Pesca HD,ES: CAZA Y PESCA SD
 Cazavisión,ES: CAZAVISION ᴴᴰ
 Cazavisión,ES: CAZAVISION SD
+Cazavisión,ES: CAZAVISION ᵁᴴᴰ
 M+ Acción HD,ES: MOVISTAR ACCION ᵁᴴᴰ
 M+ Acción HD,ES: MOVISTAR ACCION ᴴᴰ
 M+ Acción HD,ES: MOVISTAR ACCION SD
