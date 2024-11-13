@@ -33,10 +33,21 @@ CMM TV,ES: CMM SD
 La Otra,ES: LA OTRA ᵁᴴᴰ
 La Otra,ES: LA OTRA ᴴᴰ
 La Otra,ES: LA OTRA SD
-TRECE,ES: TRECE TV 
+TRECE,ES: TRECE TV ᵁᴴᴰ 
 TRECE,ES: TRECE TV ᴴᴰ
 TRECE,ES: TRECE TV SD
 El club de la comedia,ES: EL CLUB DE LA COMEDIA SD
+24 Horas,ES: 24H TVE SD
+24 Horas,ES: 24H TVE ᵁᴴᴰ
+ETB1,ES: ETB 1 ᴴᴰ
+ETB2,ES: ETB 2 ᴴᴰ
+TV3 Catalunya,ES: TV3 CATALUÑA SD
+TV3 Catalunya,ES: TV3 CATALUÑA ᵁᴴᴰ
+Negocios TV,ES: NEGOCIOS TV ᴴᴰ
+DBike,ES: DBIKE ᴴᴰ
+DBike,ES: DBIKE SD
+DBike,ES: DBIKE ᵁᴴᴰ
+Canal Extremadura SAT,ES: EXTREMADURA SAT ᵁᴴᴰ
 Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ 3840P
 Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ
 Canal Cocina,ES: CANAL COCINA ᴴᴰ
