@@ -213,20 +213,36 @@ LaLiga TV Hypermotion 4,LALIGA TV HYPERMOTION 4 ᵁᴴᴰ
 LaLiga TV Hypermotion 5,LALIGA TV HYPERMOTION 5 ᵁᴴᴰ
 LaLiga TV Hypermotion 6,LALIGA TV HYPERMOTION 6 ᵁᴴᴰ
 LaLiga TV Hypermotion 7,LALIGA TV HYPERMOTION 7 ᵁᴴᴰ
-M+ Liga de Campeones HD,ES: MOVISTAR LIGA DE CAMPEONES ʰᵉᵛᶜ
-M+ Liga de Campeones HD,ES: MOVISTAR LIGA DE CAMPEONES ᵁᴴᴰ
-M+ Liga de Campeones HD,ES: MOVISTAR LIGA DE CAMPEONES ᴴᴰ
-M+ Liga de Campeones HD,ES: MOVISTAR LIGA DE CAMPEONES SD
-M+ Liga de Campeones 2 HD,ES: MOVISTAR LIGA DE CAMPEONES 2 ᴴᴰ
-M+ Liga de Campeones 2 HD,ES: MOVISTAR LIGA DE CAMPEONES 2 ᵁᴴᴰ (SOLO EVENTOS)
-M+ Liga de Campeones 2 HD,ES: MOVISTAR LIGA DE CAMPEONES 2 SD (SOLO EVENTOS)
-M+ Liga de Campeones 3 HD,ES: MOVISTAR LIGA DE CAMPEONES 3 ᵁᴴᴰ (SOLO EVENTOS)
-M+ Liga de Campeones 3 HD,ES: MOVISTAR LIGA DE CAMPEONES 3 SD (SOLO EVENTOS)
-M+ Liga de Campeones 4,ES: MOVISTAR LIGA DE CAMPEONES 4 SD (SOLO EVENTOS)
-M+ Liga de Campeones 5,ES: MOVISTAR LIGA DE CAMPEONES 5 SD (SOLO EVENTOS)
-M+ Liga de Campeones 6,ES: MOVISTAR LIGA DE CAMPEONES 6 SD (SOLO EVENTOS)
-M+ Liga de Campeones 7,ES: MOVISTAR LIGA DE CAMPEONES 7 SD (SOLO EVENTOS)
-M+ Liga de Campeones 8,ES: MOVISTAR LIGA DE CAMPEONES 8 SD (SOLO EVENTOS)
+M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᴴᴰ
+M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴴᴰ
+M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᴸᴼᵂ
+M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴸᴼᵂ
+M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 SD
+M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 SD
+M+ Liga de Campeones 3 HD,ES: M. LIGA DE CAMPEONES 3 ᴴᴰ
+M+ Liga de Campeones 4,ES: M. LIGA DE CAMPEONES 4 ᴴᴰ
+M+ Liga de Campeones 5,ES: M. LIGA DE CAMPEONES 5 ᴴᴰ
+M+ Liga de Campeones 6,ES: M. LIGA DE CAMPEONES 6 ᴴᴰ
+M+ Liga de Campeones 7,ES: M. LIGA DE CAMPEONES 7 ᴴᴰ
+M+ Liga de Campeones 8,ES: M. LIGA DE CAMPEONES 8 ᴴᴰ
+M+ Liga de Campeones 9,ES: M. LIGA DE CAMPEONES 9 ᴴᴰ
+M+ Liga de Campeones 10,ES: M. LIGA DE CAMPEONES 10 ᴴᴰ
+M+ Liga de Campeones 11,ES: M. LIGA DE CAMPEONES 11 ᴴᴰ
+M+ Liga de Campeones 12,ES: M. LIGA DE CAMPEONES 12 ᴴᴰ
+M+ Liga de Campeones 13,ES: M. LIGA DE CAMPEONES 13 ᴴᴰ
+M+ Liga de Campeones 14,ES: M. LIGA DE CAMPEONES 14 ᴴᴰ
+M+ Liga de Campeones 15,ES: M. LIGA DE CAMPEONES 15 ᴴᴰ
+M+ Liga de Campeones 16,ES: M. LIGA DE CAMPEONES 16 ᴴᴰ
+M+ Liga de Campeones 17,ES: M. LIGA DE CAMPEONES 17 ᴴᴰ
+M+ Liga de Campeones 18,ES: M. LIGA DE CAMPEONES 18 ᴴᴰ
+M+ Liga de Campeones 19,ES: M. LIGA DE CAMPEONES 19 ᴴᴰ
+M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᵁᴴᴰ
+M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ʰᵉᵛᶜ
+M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᴿᴬᵂ
+M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴿᴬᵂ
+M+ Liga de Campeones 3 HD,ES: M. LIGA DE CAMPEONES 3 ᴿᴬᵂ
+M+ Liga de Campeones 4,ES: M. LIGA DE CAMPEONES 4 ᴿᴬᵂ
+M+ Liga de Campeones 5,ES: M. LIGA DE CAMPEONES 5 ᴿᴬᵂ
 DAZN LaLiga HD,ES: ES: DAZN LA LIGA ʰᵉᵛᶜ
 DAZN LaLiga HD,ES: DAZN LA LIGA ᵁᴴᴰ
 DAZN LaLiga HD,ES: DAZN LA LIGA ᴴᴰ
