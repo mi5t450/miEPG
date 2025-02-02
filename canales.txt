@@ -243,7 +243,7 @@ M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴿᴬᵂ
 M+ Liga de Campeones 3 HD,ES: M. LIGA DE CAMPEONES 3 ᴿᴬᵂ
 M+ Liga de Campeones 4,ES: M. LIGA DE CAMPEONES 4 ᴿᴬᵂ
 M+ Liga de Campeones 5,ES: M. LIGA DE CAMPEONES 5 ᴿᴬᵂ
-DAZN LaLiga HD,ES: ES: DAZN LA LIGA ʰᵉᵛᶜ
+DAZN LaLiga HD,ES: DAZN LA LIGA ʰᵉᵛᶜ
 DAZN LaLiga HD,ES: DAZN LA LIGA ᵁᴴᴰ
 DAZN LaLiga HD,ES: DAZN LA LIGA ᴴᴰ
 DAZN LaLiga HD,ES: DAZN LA LIGA SD
