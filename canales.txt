@@ -54,10 +54,13 @@ El club de la comedia,ES: EL CLUB DE LA COMEDIA SD
 24 Horas,ES: 24H TVE SD
 24 Horas,ES: 24H TVE ᵁᴴᴰ
 24 Horas,ES: 24H TVE ᴴᴰ
+24 Horas,M+: CANAL 24 H ᴿᴬᵂ
 ETB1,ES: ETB 1 ᴴᴰ
 ETB1,+: ETB 1 ᴿᴬᵂ
 ETB2,ES: ETB 2 ᴴᴰ
 ETB2,M+: ETB 2 ᴿᴬᵂ
+ETB3,M+: ETB 3 ᴿᴬᵂ
+ETB4,M+: ETB 4 ᴿᴬᵂ
 TV3 Catalunya,ES: TV3 CATALUÑA SD
 TV3 Catalunya,ES: TV3 CATALUÑA ᵁᴴᴰ
 TV3 Catalunya,ES: TV3 CATALUÑA ᴴᴰ
@@ -123,6 +126,7 @@ Paramount Network,ES: PARAMOUNT CHANNEL ᵁᴴᴰ
 Paramount Network,ES: PARAMOUNT CHANNEL SD
 BOM Cine,ES: BOM CINE ᴴᴰ
 BOM Cine,M+: BOM CINE ᴿᴬᵂ
+Squirrel TV,M+: SQUIRREL ᴿᴬᵂ
 STAR Channel HD,ES: STAR CHANNEL (FOX) ᵁᴴᴰ
 STAR Channel HD,ES: STAR CHANNEL (FOX) ᴴᴰ
 STAR Channel HD,ES: STAR CHANNEL (FOX) SD
@@ -235,6 +239,7 @@ M+ LaLiga TV 4 HD,ES: M+ LALIGA TV 4 SD
 M+ LaLiga TV 5 HD,ES: M+ LALIGA TV 5 SD
 M+ LaLiga TV 6 HD,ES: M+ LALIGA TV 6 SD
 LaLiga TV BAR HD,ES: LALIGA TV BAR ᵁᴴᴰ
+LALIGA Inside,M+: LALIGA INSIDE ᴿᴬᵂ
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᵁᴴᴰ
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᴴᴰ
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION SD
@@ -431,6 +436,7 @@ ES: ¡HOLA! PLAY SD
 Flooxer,ES: FLOOXER ᴴᴰ
 Flooxer,ES: FLOOXER SD
 Flooxer,ES: FLOOXER ᵁᴴᴰ
+MTV Hits HD,M+: WM HITS ᴿᴬᵂ
 ES: MC VIDEO | 90'S  SD
 ES: MC VIDEO | ALTERNATIVE SD
 ES: MC VIDEO | DANCE/ EDM SD
@@ -462,3 +468,4 @@ ES: MTV 00S SD
 ES: MTV ᴴᴰ
 ES: MTV SD
 ES: MTV ᵁᴴᴰ
+HIT TV,M+: HIT TV ᴿᴬᵂ
