@@ -3,26 +3,36 @@ La 1 HD,ES: LA 1 ᵁᴴᴰ
 LA 1 HD,ES: LA 1 HEVC
 La 1 HD,ES: LA 1 ᴴᴰ
 La 1 HD,ES: LA 1 SD
+La 1 HD,M+: La 1 ᴿᴬᵂ
 La 2,ES: LA 2 ᵁᴴᴰ
 La 2,ES: LA 2 ᴴᴰ
 La 2,ES: LA 2 SD
+La 2,M+: La 2 ᴿᴬᵂ
 Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
 Antena 3 HD,ES: ANTENA 3 ᴴᴰ
 Antena 3 HD,ES: ANTENA 3 SD
+Antena 3 HD,M+: ANTENA 3 ᴿᴬᵂ
+Antena 3 HD,M+: ANTENA 3 ᴿᴬᵂ
 Cuatro HD,ES: CUATRO ᵁᴴᴰ 
 Cuatro HD,ES: CUATRO ᴴᴰ
 Cuatro HD,ES: CUATRO SD
+Cuatro HD,M+: CUATRO ᴿᴬᵂ
 Telecinco HD,ES: TELECINCO ᵁᴴᴰ
 Telecinco HD,ES: TELECINCO ᴴᴰ
 Telecinco HD,ES: TELECINCO SD
+Telecinco HD,M+: TELECINCO ᴿᴬᵂ
 La Sexta HD,ES: LA SEXTA ᴴᴰ
 La Sexta HD,ES: LA SEXTA ᵁᴴᴰ
 La Sexta HD,ES: LA SEXTA SD
+La Sexta HD,M+: LA SEXTA ᴿᴬᵂ
 Telemadrid,ES: TELE MADRID ᵁᴴᴰ
+Telemadrid,M+: TELE MADRID ᴿᴬᵂ
 Real Madrid TV,ES: REAL MADRID TV ᵁᴴᴰ
 Real Madrid TV,ES: REAL MADRID TV ᴴᴰ
 Real Madrid TV,ES: REAL MADRID TV SD
+Real Madrid TV,M+: REAL MADRID TV ᴿᴬᵂ
 Canal Sur HD,ES: CANAL SUR ᵁᴴᴰ
+Canal Sur HD,M+: CANAL SUR ᴿᴬᵂ
 Canal Sur Andalucía,ES: CANAL SUR ANDALUCIA SD
 ES: CANAL SUR ANDALUCIA 2 ᴴᴰ
 CMM TV,ES: CASTILLA LA MANCHA ᵁᴴᴰ
@@ -30,18 +40,24 @@ CMM TV,ES: CASTILLA LA MANCHA ᴴᴰ
 CMM TV,ES: CMM ᴴᴰ
 CMM TV,ES: CMM ᵁᴴᴰ
 CMM TV,ES: CMM SD
+CMM TV,M+: CASTILLA - LA MANCHA TV ᴿᴬᵂ
 La Otra,ES: LA OTRA ᵁᴴᴰ
 La Otra,ES: LA OTRA ᴴᴰ
 La Otra,ES: LA OTRA SD
+La Otra,M+: LA OTRA ᴿᴬᵂ
 TRECE,ES: TRECE TV ᵁᴴᴰ 
 TRECE,ES: TRECE TV ᴴᴰ
 TRECE,ES: TRECE TV SD
+TRECE,M+: EL TRECE ᴿᴬᵂ
+TRECE,M+: TRECE ᴿᴬᵂ
 El club de la comedia,ES: EL CLUB DE LA COMEDIA SD
 24 Horas,ES: 24H TVE SD
 24 Horas,ES: 24H TVE ᵁᴴᴰ
 24 Horas,ES: 24H TVE ᴴᴰ
 ETB1,ES: ETB 1 ᴴᴰ
+ETB1,+: ETB 1 ᴿᴬᵂ
 ETB2,ES: ETB 2 ᴴᴰ
+ETB2,M+: ETB 2 ᴿᴬᵂ
 TV3 Catalunya,ES: TV3 CATALUÑA SD
 TV3 Catalunya,ES: TV3 CATALUÑA ᵁᴴᴰ
 TV3 Catalunya,ES: TV3 CATALUÑA ᴴᴰ
@@ -49,6 +65,7 @@ Negocios TV,ES: NEGOCIOS TV ᴴᴰ
 DBike,ES: DBIKE ᴴᴰ
 DBike,ES: DBIKE SD
 DBike,ES: DBIKE ᵁᴴᴰ
+DBike,M+: DBIKE ᴿᴬᵂ
 Canal Extremadura SAT,ES: EXTREMADURA SAT ᵁᴴᴰ
 Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ 3840P
 Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ
@@ -61,18 +78,22 @@ Decasa,ES: CANAL DECASA SD
 Iberalia TV,ES: IBERALIA TV ᵁᴴᴰ
 Iberalia TV,ES: IBERALIA TV ᴴᴰ
 Iberalia TV,ES: IBERALIA TV SD
+Iberalia TV,M+: IBERALIA ᴿᴬᵂ
 Iberalia caza,ES: IBERALIA CAZA ᵁᴴᴰ
 Iberalia caza,ES: IBERALIA CAZA ᴴᴰ
+Iberalia caza,M+: IBERALIA CAZA ᴿᴬᵂ
 Iberalia caza,ES: IBERALIA CAZA SD
 Iberalia pesca,ES: IBERALIA PESCA SD
 Iberalia pesca,ES: IBERALIA PESCA ᵁᴴᴰ
 Iberalia pesca,ES: IBERALIA PESCA ᴴᴰ
+Iberalia pesca,M+: IBERALIA PESCA ᴿᴬᵂ
 Caza y Pesca HD,ES: CAZA Y PESCA ᵁᴴᴰ
 Caza y Pesca HD,ES: CAZA Y PESCA ᴴᴰ
 Caza y Pesca HD,ES: CAZA Y PESCA SD
 Cazavisión,ES: CAZAVISION ᴴᴰ
 Cazavisión,ES: CAZAVISION SD
 Cazavisión,ES: CAZAVISION ᵁᴴᴰ
+Cazavisión,M+: CAZAVISION ᴿᴬᵂ
 M+ Acción HD,ES: MOVISTAR ACCION ᵁᴴᴰ
 M+ Acción HD,ES: MOVISTAR ACCION ᴴᴰ
 M+ Acción HD,ES: MOVISTAR ACCION SD
@@ -101,6 +122,7 @@ M+ Indie HD,ES: MOVISTAR INDIE SD
 Paramount Network,ES: PARAMOUNT CHANNEL ᵁᴴᴰ
 Paramount Network,ES: PARAMOUNT CHANNEL SD
 BOM Cine,ES: BOM CINE ᴴᴰ
+BOM Cine,M+: BOM CINE ᴿᴬᵂ
 STAR Channel HD,ES: STAR CHANNEL (FOX) ᵁᴴᴰ
 STAR Channel HD,ES: STAR CHANNEL (FOX) ᴴᴰ
 STAR Channel HD,ES: STAR CHANNEL (FOX) SD
@@ -164,31 +186,41 @@ La Resistencia 24H,ES: MOVISTAR LA RESISTENCIA SD
 Atreseries,ES: A3SERIES ᵁᴴᴰ
 Atreseries,ES: A3SERIES ᴴᴰ
 Atreseries,ES: A3SERIES SD
+Atreseries,M+: A3 SERIES ᴿᴬᵂ
 Mega,ES: MEGA ᵁᴴᴰ
 Mega,ES: MEGA ᴴᴰ
 Mega,ES: MEGA SD
+Mega,M+: MEGA ᴿᴬᵂ
 Neox,ES: NEOX ᵁᴴᴰ
 Neox,ES: NEOX ᴴᴰ
 Neox,ES: NEOX SD
+Neox,M+: NEOX ᴿᴬᵂ
 Nova,ES: NOVA ᴴᴰ
 Nova,ES: NOVA SD
 Nova,ES: NOVA ᵁᴴᴰ
+Nova,M+: NOVA ᴿᴬᵂ
 Be Mad,ES: BEMAD ᵁᴴᴰ
 Be Mad,ES: BEMAD ᴴᴰ
 Be Mad,ES: BEMAD SD
+Be Mad,M+: BE MAD ᴿᴬᵂ
 Factoría de Ficción,ES: FDF ᵁᴴᴰ
 Factoría de Ficción,ES: FDF ᴴᴰ
 Factoría de Ficción,ES: FDF SD
+Factoría de Ficción,M+: FDF ᴿᴬᵂ
 Energy,ES: ENERGY ᵁᴴᴰ
 Energy,ES: ENERGY ᴴᴰ
 Energy,ES: ENERGY SD
+Energy,M+: ENERGY ᴿᴬᵂ
 Divinity,ES: DIVINITY ᵁᴴᴰ
 Divinity,ES: DIVINITY ᴴᴰ
 Divinity,ES: DIVINITY SD
+Divinity,M+: DIVINITY ᴿᴬᵂ
 Ten,ES: TEN ᵁᴴᴰ
 Ten,ES: TEN SD
+Ten,M+: TEN ᴿᴬᵂ
 DKISS,ES: DKISS ᵁᴴᴰ
 DKISS,ES: DKISS SD
+DKISS,M+: DKISS ᴿᴬᵂ
 M+ Copa del Rey,ES: COPA DEL REY HD
 M+ Copa del Rey,ES: COPA DEL REY 4K
 M+ Copa del Rey,ES: COPA DEL REY SD
@@ -206,10 +238,13 @@ LaLiga TV BAR HD,ES: LALIGA TV BAR ᵁᴴᴰ
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᵁᴴᴰ
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᴴᴰ
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION SD
+LaLiga TV Hypermotion HD,M+: LALIGA TV HYPERMOTION ᴿᴬᵂ
 LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2 ᵁᴴᴰ
 LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2 SD
+LaLiga TV Hypermotion 2,M+: LALIGA HYPERMOTION TV M2 ᴿᴬᵂ
 LaLiga TV Hypermotion 3,ES: LALIGA TV HYPERMOTION 3 ᵁᴴᴰ
 LaLiga TV Hypermotion 3,ES: LALIGA TV HYPERMOTION 3 ᴴᴰ
+LaLiga TV Hypermotion 3,M+: LALIGA TV HYPERMOTION M3 ᴿᴬᵂ
 LaLiga TV Hypermotion 4,LALIGA TV HYPERMOTION 4 ᵁᴴᴰ
 LaLiga TV Hypermotion 5,LALIGA TV HYPERMOTION 5 ᵁᴴᴰ
 LaLiga TV Hypermotion 6,LALIGA TV HYPERMOTION 6 ᵁᴴᴰ
@@ -293,12 +328,15 @@ M+ Golf 2 HD,ES: MOVISTAR GOLF 2 SD
 Eurosport 1 HD,ES: EUROSPORT 1 ᵁᴴᴰ
 Eurosport 1 HD,ES: EUROSPORT 1 ᴴᴰ
 Eurosport 1 HD,ES: EUROSPORT 1 SD
+Eurosport 1 HD,M+: EUROSPORT 1 ᴿᴬᵂ
 Eurosport 2,ES: EUROSPORT 2 ᵁᴴᴰ
 Eurosport 2,ES: EUROSPORT 2 ᴴᴰ
 Eurosport 2,ES: EUROSPORT 2 SD
+Eurosport 2,M+: EUROSPORT 2 ᴿᴬᵂ
 Teledeporte,ES: TELEDEPORTE ᵁᴴᴰ
 Teledeporte,ES: TELEDEPORTE ᴴᴰ
 Teledeporte,ES: TELEDEPORTE SD
+Teledeporte,M+: TDP ᴿᴬᵂ
 Esport 3,ES: ESPORT 3 ᴴᴰ
 M+ Vamos HD,ES: #VAMOS ʰᵉᵛᶜ
 M+ Vamos HD,ES: #VAMOS ᵁᴴᴰ
@@ -328,9 +366,11 @@ FoQ,ES: FÍSICA O QUÍMICA SD
 Baby TV,ES: BABY TV SD
 Boing,ES: BOING SD
 Boing,ES: BOING ᵁᴴᴰ
+Boing,M+: BOING ᴿᴬᵂ
 Clan,ES: CLAN TVE ᴴᴰ
 Clan,ES: CLAN TVE SD
 Clan,ES: CLAN TVE ᵁᴴᴰ
+Clan,M+: CLAN ᴿᴬᵂ
 Disney Channel HD,ES: DISNEY CHANNEL ᴴᴰ
 Disney Channel HD,ES: DISNEY CHANNEL SD
 Disney Junior,ES: DISNEY JUNIOR SD
@@ -360,6 +400,7 @@ BuenViaje,ES: BUENVIAJE ᵁᴴᴰ
 Discovery,ES: DISCOVERY CHANNEL ᴴᴰ
 Discovery,ES: DISCOVERY CHANNEL SD
 Discovery,ES: DISCOVERY CHANNEL ᵁᴴᴰ
+Discovery,M+: DISCOVERY CHANNEL ᴿᴬᵂ
 DMAX,ES: DMAX ᴴᴰ
 DMAX,ES: DMAX SD
 DMAX,ES: DMAX ᵁᴴᴰ
@@ -377,12 +418,14 @@ Odisea,ES: ODISEA SD
 Odisea,ES: ODISEA ᵁᴴᴰ
 Odisea,ES: ODISEA ᵁᴴᴰ 3840P
 El Toro TV,ES: EL TORO TV ᴴᴰ
+El Toro TV,M+: EL TORO TV ᴿᴬᵂ
 Onetoro,ES: ONETORO ᴴᴰ
 Onetoro,ES: ONETORO SD
 Onetoro,ES: ONETORO ᵁᴴᴰ
 Torolé TV,ES: TOROLE ᴴᴰ
 Torolé TV,ES: TOROLE SD
 Torolé TV,ES: TOROLE ᵁᴴᴰ
+Torolé TV,M+: TOROLE TV ᴿᴬᵂ
 ES: ¡HOLA! PLAY ᴴᴰ
 ES: ¡HOLA! PLAY SD
 Flooxer,ES: FLOOXER ᴴᴰ
