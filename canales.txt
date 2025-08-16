@@ -228,10 +228,12 @@ DKISS,M+: DKISS ᴿᴬᵂ
 M+ Copa del Rey,ES: COPA DEL REY HD
 M+ Copa del Rey,ES: COPA DEL REY 4K
 M+ Copa del Rey,ES: COPA DEL REY SD
+M+ LaLiga HDR,
 M+ LaLiga TV HD,ES: MOVISTAR LA LIGA ᵁᴴᴰ
 M+ LaLiga TV HD,ES: MOVISTAR LA LIGA ᴴᴰ
 M+ LaLiga TV HD,ES: MOVISTAR LA LIGA ʰᵉᵛᶜ
 M+ LaLiga TV HD,ES: MOVISTAR LA LIGA SD
+M+ LaLiga 2 HDR,
 M+ LaLiga TV 2 HD,ES: MOVISTAR LA LIGA 2 ᵁᴴᴰ (SOLO EVENTOS)
 M+ LaLiga TV 2 HD,ES: MOVISTAR LA LIGA 2 SD (SOLO EVENTOS)
 M+ LaLiga TV 3 HD,ES: M+ LALIGA TV 3 ᵁᴴᴰ
@@ -277,10 +279,12 @@ M+ Liga de Campeones 16,ES: M. LIGA DE CAMPEONES 16 ᴴᴰ
 M+ Liga de Campeones 17,ES: M. LIGA DE CAMPEONES 17 ᴴᴰ
 M+ Liga de Campeones 18,ES: M. LIGA DE CAMPEONES 18 ᴴᴰ
 M+ Liga de Campeones 19,ES: M. LIGA DE CAMPEONES 19 ᴴᴰ
+M+ Liga de Campeones HDR,
 M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᵁᴴᴰ
 M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ʰᵉᵛᶜ
 M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᴿᴬᵂ
 M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴿᴬᵂ
+M+ Liga de Campeones 2 HDR,
 M+ Liga de Campeones 3 HD,ES: M. LIGA DE CAMPEONES 3 ᴿᴬᵂ
 M+ Liga de Campeones 4,ES: M. LIGA DE CAMPEONES 4 ᴿᴬᵂ
 M+ Liga de Campeones 5,ES: M. LIGA DE CAMPEONES 5 ᴿᴬᵂ
