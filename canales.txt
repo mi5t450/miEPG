@@ -228,7 +228,7 @@ DKISS,M+: DKISS ᴿᴬᵂ
 M+ Copa del Rey,ES: COPA DEL REY HD
 M+ Copa del Rey,ES: COPA DEL REY 4K
 M+ Copa del Rey,ES: COPA DEL REY SD
-M+ LaLiga HDR,
+M+ LaLiga HDR,ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ
 M+ LaLiga HD,ES: MOVISTAR LA LIGA ᵁᴴᴰ
 M+ LaLiga HD,ES: MOVISTAR LA LIGA ᴴᴰ
 M+ LaLiga HD,ES: MOVISTAR LA LIGA ʰᵉᵛᶜ
