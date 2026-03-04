@@ -8,11 +8,14 @@ Be Mad,PRIME: BE MAD ᴿᴬᵂ
 Boing,PRIME: BOING ᴿᴬᵂ
 Canal Cocina,PRIME: CANAL COCINA ᴿᴬᵂ
 Canal Hollywood HD,PRIME: CANAL HOLLYWOOD ᴿᴬᵂ
+CNN en Español,PRIME: CNN ᴿᴬᵂ
 Cuatro HD,PRIME: CUATRO ᴿᴬᵂ
 DARK,PRIME: DARK ᴿᴬᵂ
+AMC Living,PRIME: DECASA ᴿᴬᵂ
 Divinity,PRIME: DIVINITY ᴿᴬᵂ
 Energy,PRIME: E.ENERGY ᴿᴬᵂ
 Eurosport 1 HD,PRIME: EUROSPORT 1 ᴿᴬᵂ
+Factoría de Ficción,PRIME: FDF ᴿᴬᵂ
 Historia,PRIME: HISTORIA ᴿᴬᵂ
 LaLiga TV Hypermotion HD,PRIME: LALIGA HYPERMOTION TV ᴿᴬᵂ
 LaLiga TV Hypermotion 2,PRIME: LALIGA HYPERMOTION TV 2 ᴿᴬᵂ
