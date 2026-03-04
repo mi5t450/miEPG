@@ -113,6 +113,8 @@ Baby TV,GO: BABY TV ᴿᴬᵂ
 Bloomberg TV Europe,GO: BLOOMBERG ᴿᴬᵂ
 Boing,GO: BOING ᴿᴬᵂ
 CGTN Español,GO: CGTN ESPAÑOL ᴿᴬᵂ
+CNBC Europe HD,GO: CNBC ᴿᴬᵂ
+CNN International Europe,GO: CNN INT ᴿᴬᵂ
 Cosmo HD,GO: COSMO ᴿᴬᵂ
 Calle 13 HD,GO: CALLE 13 ᴿᴬᵂ
 Canal Extremadura,GO: CANAL EXTREMADURA ᴿᴬᵂ
@@ -138,6 +140,7 @@ El Toro TV,GO: EL TORO TV ᴿᴬᵂ
 Energy,GO: ENERGY ᴿᴬᵂ
 EuroNews,GO: EURO NEWS ᴿᴬᵂ
 France 24,GO: FRANCE24 (FR) ᴿᴬᵂ
+GO: IB 3 ᴿᴬᵂ
 MTV España,GO: MTV ᴿᴬᵂ
 HBO Max Avances,GO: MAX AVANCES ᴿᴬᵂ
 Mega,GO: MEGA ᴿᴬᵂ
@@ -160,6 +163,7 @@ TV Canaria,GO: TV CANARIA ᴿᴬᵂ
 TV3,GO: TV3 ᴿᴬᵂ
 TV3 Catalunya,GO: TV3 CAT ᴿᴬᵂ
 TV5 Monde Europe HD,GO: TV5 MONDE ᴿᴬᵂ
+TVG,GO: TVG TV GALICIA ᴿᴬᵂ
 TVG Europa HD,GO: TVG EUROPA ᴿᴬᵂ
 Telecinco HD,GO: TELECINCO ᴿᴬᵂ
 Teledeporte,GO: TELEDEPORTE ᴿᴬᵂ
