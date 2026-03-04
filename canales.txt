@@ -226,6 +226,7 @@ Fight Time,GO: FIGHT TIME ᴿᴬᵂ
 Eurosport 1 HD,GO: EURO SPORT 1 ᴿᴬᵂ
 Eurosport 2,GO: EURO SPORT 2 ᴿᴬᵂ
 
+##### VODAFONE #####
 La 1 HD,VO: LA 1 ᴿᴬᵂ
 La 1 HD,VO: LA 1 ᴴᴰ
 La 2,VO: LA 2 ᴿᴬᵂ
@@ -396,6 +397,8 @@ FOX SPORTS 3,VO: FOX SPORTS 3 MX ᴴᴰ
 FOX SPORTS,VO: FOX SPORTS 1 ARG ᴴᴰ
 ,VO: AYM SPORTS MX ᴴᴰ
 ,VO: TNT SPORTS ARG ᴴᴰ
+
+
 ,#### MOVISTAR ᴿᴬᵂ ####
 La 1 HD,M+: LA 1 ᴿᴬᵂ
 La 2,M+: LA 2 ᴿᴬᵂ
@@ -408,6 +411,7 @@ BOM Cine,M+: BOM CINE ᴿᴬᵂ
 Telecinco HD,M+: TELECINCO ᴿᴬᵂ
 RunTime Familia,M+: EN FAMILIA ᴿᴬᵂ
 La Sexta HD,M+: LA SEXTA ᴿᴬᵂ
+Factoría de Ficción,M+: FDF ᴿᴬᵂ
 Energy,M+: ENERGY ᴿᴬᵂ
 DMAX,M+: DMAX ᴿᴬᵂ
 Divinity,M+: DIVINITY ᴿᴬᵂ
@@ -422,13 +426,13 @@ TRECE,M+: TRECE ᴿᴬᵂ
 Ten,M+: TEN ᴿᴬᵂ
 TV3,M+: TV3 ᴿᴬᵂ
 Telemadrid,M+: TELEMADRID ᴿᴬᵂ
-,M+: GALICIA TV ᴿᴬᵂ
+TVG,M+: GALICIA TV ᴿᴬᵂ
 ETB1,M+: ETB 1 ᴿᴬᵂ
 Dreamworks HD,M+: DREAM WORKS ᴿᴬᵂ
 ETB2,M+: ETB 2 ᴿᴬᵂ
 ETB3,M+: ETB 3 ᴿᴬᵂ
 M+ Golf HD,M+: GOL ᴿᴬᵂ
-,M+: TV GALICIA 2 ᴿᴬᵂ
+TVG2,M+: TV GALICIA 2 ᴿᴬᵂ
 M+ Documentales HD,M+: M.DOCUMENTALES ᴿᴬᵂ
 M+ Hits HD,M+: HIT TV  ᴿᴬᵂ
 Náutica TV,M+: NAUTICA ᴿᴬᵂ
@@ -469,6 +473,7 @@ Baby TV,M+: BABY TV ᴿᴬᵂ
 Moto ADV,M+: MOTO ADV ᴿᴬᵂ
 Negocios TV,M+: NEGOCIOS TV ᴿᴬᵂ
 M+ Originales HD,M+: M.ORIGINALES ᴿᴬᵂ
+AMC Living,M+: CANAL DECASA ᴿᴬᵂ
 Canal Cocina,M+: CANAL COCINA ᴿᴬᵂ
 AMC HD,M+: AMC ᴿᴬᵂ
 AMC Break,M+: AMC BREAK ᴿᴬᵂ
@@ -488,6 +493,8 @@ MTV España,M+: MTV ESPANA ᴿᴬᵂ
 À Punt,M+: A PUNT ᴿᴬᵂ
 Canal de las Estrellas,M+: CANAL ESTRELLAS ᴿᴬᵂ
 AMC Western,M+: BUEN VIAJE ᴿᴬᵂ
+
+
 ,#### MOVISTAR SPORT ᴿᴬᵂ ####
 DAZN LaLiga HD,M+: DAZN LA LIGA ᴿᴬᵂ
 DAZN LaLiga 2 HD,M+: DAZN LA LIGA 2 ᴿᴬᵂ
