@@ -633,6 +633,8 @@ Vivir con perros,TY: VIVIR CON PERROS ᴿᴬᵂ
 ,TY: ALCARRIA TV ᴿᴬᵂ
 Aragón TV,TY: ARAGÓN TV INT ᴿᴬᵂ
 ,TY: ARIRANG INTERNACIONAL ᴿᴬᵂ
+
+
 ,#### ES| TDT ESPAÑA VIP ᴴᴰ ####
 24 Horas,ES: 24H TVE ᴴᴰ
 La 1 HD,ES: LA 1 ᴴᴰ
@@ -670,6 +672,7 @@ DBike,ES: DBIKE SD
 PTV Granada,ES: PTV GRANADA SD
 PTV Córdoba,ES: PTV CORDOBA SD
 ,#### ES| TDT ESPAÑA VIP ᵁᴴᴰ ####
+La 1 HD,ES: LA 1 ᵁᴴᴰ 3840P
 24 Horas,ES: 24H TVE ᵁᴴᴰ
 La 1 HD,ES: LA 1 ᵁᴴᴰ
 La 2,ES: LA 2 ᵁᴴᴰ
@@ -692,24 +695,30 @@ France 24,ES: FRANCE 24 ES ᵁᴴᴰ
 DBike,ES: DBIKE ᵁᴴᴰ
 PTV Granada,ES: PTV GRANADA ᵁᴴᴰ
 PTV Córdoba,ES: PTV CORDOBA ᵁᴴᴰ
+
+#### TDT PREMIUM ####
 Iberalia TV,ES: IBERALIA TV ᴴᴰ
 Iberalia caza,ES: IBERALIA CAZA ᴴᴰ
 Iberalia pesca,ES: IBERALIA PESCA ᴴᴰ
 Caza y Pesca HD,ES: CAZA Y PESCA ᴴᴰ
 Cazavisión,ES: CAZAVISION ᴴᴰ
 Canal Cocina,ES: CANAL COCINA ᴴᴰ
+AMC Living,ES: CANAL DECASA ᴴᴰ
 Iberalia TV,ES: IBERALIA TV SD
 Iberalia caza,ES: IBERALIA CAZA SD
 Iberalia pesca,ES: IBERALIA PESCA SD
 Caza y Pesca HD,ES: CAZA Y PESCA SD
 Cazavisión,ES: CAZAVISION SD
 Canal Cocina,ES: CANAL COCINA SD
+AMC Living,ES: CANAL DECASA SD
 Iberalia TV,ES: IBERALIA TV ᵁᴴᴰ
 Iberalia caza,ES: IBERALIA CAZA ᵁᴴᴰ
 Iberalia pesca,ES: IBERALIA PESCA ᵁᴴᴰ
 Caza y Pesca HD,ES: CAZA Y PESCA ᵁᴴᴰ
 Cazavisión,ES: CAZAVISION ᵁᴴᴰ
 Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ
+AMC Living,ES: CANAL DECASA ᵁᴴᴰ 3840P
+
 ,##### ES| M+ CINE VIP ᴴᴰ #####
 M+ Acción HD,ES: MOVISTAR ACCION ᴴᴰ
 M+ Drama HD,ES: MOVISTAR DRAMA ᴴᴰ
@@ -797,6 +806,7 @@ Veo7,ES: VEO7 ᵁᴴᴰ
 Canal Hollywood HD,ES: HOLLYWOOD ᵁᴴᴰ
 Sundance TV,ES: SUNDANCE TV ᵁᴴᴰ
 M+ Oscars,ES: MOVISTAR EN JUEGO ᵁᴴᴰ
+
 ,#### ES| MOVISTAR PLUS+ VIP ᴴᴰ ####
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᴴᴰ
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ 2 ᴴᴰ
@@ -812,12 +822,14 @@ Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᵁᴴᴰ
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ 2 ᵁᴴᴰ
 M+ Hits HD,ES: MOVISTAR HITS ᵁᴴᴰ
 M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᵁᴴᴰ
+
 ,#### TDT SERIES VIP ᴴᴰ ####
 Atreseries,ES: A3SERIES ᴴᴰ
 Mega,ES: MEGA ᴴᴰ
 Neox,ES: NEOX ᴴᴰ
 Nova,ES: NOVA ᴴᴰ
 Be Mad,ES: BEMAD ᴴᴰ
+Factoría de Ficción,ES: FDF ᴴᴰ
 Energy,ES: ENERGY ᴴᴰ
 Divinity,ES: DIVINITY ᴴᴰ
 TVG,ES: TV GALICIA ᴴᴰ
@@ -827,6 +839,7 @@ Mega,ES: MEGA SD
 Neox,ES: NEOX SD
 Nova,ES: NOVA SD
 Be Mad,ES: BEMAD SD
+Factoría de Ficción,ES: FDF SD
 Energy,ES: ENERGY SD
 Divinity,ES: DIVINITY SD
 Ten,ES: TEN SD
@@ -837,6 +850,7 @@ Mega,ES: MEGA ᵁᴴᴰ
 Neox,ES: NEOX ᵁᴴᴰ
 Nova,ES: NOVA ᵁᴴᴰ
 Be Mad,ES: BEMAD ᵁᴴᴰ
+Factoría de Ficción,ES: FDF ᵁᴴᴰ
 Energy,ES: ENERGY ᵁᴴᴰ
 Divinity,ES: DIVINITY ᵁᴴᴰ
 Ten,ES: TEN ᵁᴴᴰ
@@ -919,6 +933,18 @@ Crimen (Rakuten TV),ES: RAKUTEN TV CRIME SERIES ᴿᴬᵂ
 Películas Románticas (Rakuten TV),ES: RAKUTEN TV ROMANCE MOVIES ᴿᴬᵂ
 Thrillers (Rakuten TV),ES: RAKUTEN TV THRILLER MOVIES ᴿᴬᵂ
 Pelis Top (Rakuten TV),ES: RAKUTEN TV TOP MOVIES ᴿᴬᵂ
+ES: RAKUTEN TV ACCION ᴿᴬᵂ
+ES: RAKUTEN TV CINE ESPANOL ᴿᴬᵂ
+ES: RAKUTEN TV CRIME SERIES ᴿᴬᵂ
+ES: RAKUTEN TV DRAMA MOVIES ᴿᴬᵂ
+ES: RAKUTEN TV FAMILY MOVIES ᴿᴬᵂ
+ES: RAKUTEN TV ROMANCE MOVIES ᴿᴬᵂ
+ES: RAKUTEN TV SCI-FI MOVIES ᴿᴬᵂ
+ES: RAKUTEN TV THRILLER MOVIES ᴿᴬᵂ
+ES: RAKUTEN TV TOP MOVIES ᴿᴬᵂ
+
+
+#### INFANTIL VIP####
 Clan,ES: CLAN TVE ᴴᴰ
 Dreamworks HD,ES: DREAMWORKS ᴴᴰ
 Nickelodeon HD,ES: NICKELODEON ᴴᴰ
@@ -935,18 +961,22 @@ Boing,ES: BOING ᵁᴴᴰ
 Dreamworks HD,ES: DREAMWORKS ᵁᴴᴰ
 Nickelodeon HD,ES: NICKELODEON ᵁᴴᴰ
 Nick JR,ES: NICK JUNIOR ᵁᴴᴰ
+
+
 ,#### ES| M+ LALIGA VIP ᴴᴰ ####
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᴴᴰ
 M+ LaLiga HD,ES: MOVISTAR LA LIGA ᴴᴰ
 LaLiga TV Hypermotion 3,ES: LALIGA TV HYPERMOTION 3 ᴴᴰ
 ,#### ES| M+ LALIGA VIP SD ####
 M+ LaLiga HD,ES: MOVISTAR LA LIGA SD
+M+ LaLiga 2 HD,ES: MOVISTAR LA LIGA 2 SD (SOLO EVENTOS)
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION SD
 LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2 SD
 ,#### ES| M+ LALIGA VIP ᵁᴴᴰ ####
 M+ LaLiga HD,ES: MOVISTAR LA LIGA ʰᵉᵛᶜ
 M+ LaLiga HD,ES: MOVISTAR LA LIGA ᵁᴴᴰ
 M+ LaLiga HD,ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ
+M+ LaLiga 2 HD,ES: MOVISTAR LA LIGA 2 ᵁᴴᴰ (SOLO EVENTOS)
 M+ LaLiga 3,ES: M+ LALIGA TV 3 ᵁᴴᴰ
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᵁᴴᴰ
 LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2 ᵁᴴᴰ
@@ -1238,6 +1268,7 @@ Primera Federación,ES: 1° FEDERACION ᴴᴰ
 Primera Federación,ES: 1° FEDERACION SD
 Primera Federación,ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)
 Primera Federación,ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)
+
 ,#### ES| MOVISTAR DEPORTES VIP ᴴᴰ ####
 M+ Deportes HD,ES: MOVISTAR DEPORTES ᴴᴰ
 ,#### ES| MOVISTAR DEPORTES VIP  SD ####
@@ -1245,19 +1276,34 @@ M+ Deportes HD,ES: MOVISTAR DEPORTES SD
 ,#### ES| MOVISTAR DEPORTES VIP ᵁᴴᴰ ####
 M+ Deportes HD,ES: MOVISTAR DEPORTES ʰᵉᵛᶜ
 M+ Deportes HD,ES: MOVISTAR DEPORTES ᵁᴴᴰ
+M+ Deportes 2 HD,ES: MOVISTAR DEPORTES 2 ᵁᴴᴰ (SOLO EVENTOS)
+M+ Deportes 2 HD,ES: MOVISTAR DEPORTES 2 SD (SOLO EVENTOS)
+M+ Deportes 3,ES: MOVISTAR DEPORTES 3 SD (SOLO EVENTOS)
+M+ Deportes 4,ES: MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)
+M+ Deportes 5,ES: MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)
+M+ Deportes 6,ES: MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)
+M+ Deportes 7,ES: MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)
+
 ,#### ES| OTROS DEPORTES VIP ᴴᴰ ####
+GOL,ES: GOL PLAY ᴴᴰ
+ES: COPA DEL REY ᴴᴰ
 M+ Golf HD,ES: MOVISTAR GOLF ᴴᴰ
 Eurosport 1 HD,ES: EUROSPORT 1 ᴴᴰ
 Eurosport 2,ES: EUROSPORT 2 ᴴᴰ
 Esport 3,ES: ESPORT 3 ᴴᴰ
 Teledeporte,ES: TELEDEPORTE ᴴᴰ
 ,#### ES| OTROS DEPORTES VIP SD ####
+GOL,ES: GOL PLAY SD
+ES: COPA DEL REY SD
 M+ Golf HD,ES: MOVISTAR GOLF SD
 M+ Golf 2 HD,ES: MOVISTAR GOLF 2 SD
 Eurosport 1 HD,ES: EUROSPORT 1 SD
 Eurosport 2,ES: EUROSPORT 2 SD
 Teledeporte,ES: TELEDEPORTE SD
 ,#### ES| OTROS DEPORTES VIP ᵁᴴᴰ ####
+GOL,ES: GOL PLAY ᵁᴴᴰ
+ES: COPA DEL REY ʰᵉᵛᶜ
+ES: COPA DEL REY ᵁᴴᴰ
 M+ Golf HD,ES: MOVISTAR GOLF ᵁᴴᴰ
 Eurosport 1 HD,ES: EUROSPORT 1 ᵁᴴᴰ
 Eurosport 2,ES: EUROSPORT 2 ᵁᴴᴰ
