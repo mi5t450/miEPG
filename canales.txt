@@ -1,271 +1,925 @@
-La 1 HD,ES: LA 1 ᵁᴴᴰ 3840P
-La 1 HD,ES: LA 1 ᵁᴴᴰ
-LA 1 HD,ES: LA 1 HEVC
-La 1 HD,ES: LA 1 ᴴᴰ
-La 1 HD,ES: LA 1 SD
-La 1 HD,M+: La 1 ᴿᴬᵂ
-La 2,ES: LA 2 ᵁᴴᴰ
-La 2,ES: LA 2 ᴴᴰ
-La 2,ES: LA 2 SD
-La 2,M+: La 2 ᴿᴬᵂ
-Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
-Antena 3 HD,ES: ANTENA 3 ᴴᴰ
-Antena 3 HD,ES: ANTENA 3 SD
+acontra+,PRIME: ACONTRA+ CINE ᴿᴬᵂ
+AMC HD,PRIME: AMC ᴿᴬᵂ
+AMC Break,PRIME: AMC BREAK ᴿᴬᵂ
+AMC Crime,PRIME: AMC CRIME ᴿᴬᵂ
+Antena 3 HD,PRIME: ANTENA 3 ᴿᴬᵂ
+Atreseries,PRIME: ATRESERIES ᴿᴬᵂ
+Be Mad,PRIME: BE MAD ᴿᴬᵂ
+Boing,PRIME: BOING ᴿᴬᵂ
+Canal Cocina,PRIME: CANAL COCINA ᴿᴬᵂ
+Canal Hollywood HD,PRIME: CANAL HOLLYWOOD ᴿᴬᵂ
+Cuatro HD,PRIME: CUATRO ᴿᴬᵂ
+DARK,PRIME: DARK ᴿᴬᵂ
+Divinity,PRIME: DIVINITY ᴿᴬᵂ
+Energy,PRIME: E.ENERGY ᴿᴬᵂ
+Eurosport 1 HD,PRIME: EUROSPORT 1 ᴿᴬᵂ
+Historia,PRIME: HISTORIA ᴿᴬᵂ
+LaLiga TV Hypermotion HD,PRIME: LALIGA HYPERMOTION TV ᴿᴬᵂ
+LaLiga TV Hypermotion 2,PRIME: LALIGA HYPERMOTION TV 2 ᴿᴬᵂ
+LaLiga TV Hypermotion 3,PRIME: LALIGA HYPERMOTION TV 3 ᴿᴬᵂ
+La Sexta HD,PRIME: LASEXTA ᴿᴬᵂ
+Mega,PRIME: MEGA ᴿᴬᵂ
+Mezzo,PRIME: MEZZO ᴿᴬᵂ
+Mezzo Live HD,PRIME: MEZZO LIVE ᴿᴬᵂ
+ESPN International,PRIME: NBA TV INTERNATIONAL ᴿᴬᵂ
+Negocios TV,PRIME: NEGOCIOS TV ᴿᴬᵂ
+Neox,PRIME: NEOX ᴿᴬᵂ
+NFL Network,PRIME: NFL NETWORK ᴿᴬᵂ
+Nova,PRIME: NOVA ᴿᴬᵂ
+Odisea,PRIME: ODISEA ᴿᴬᵂ
+Red Bull TV,PRIME: RED BULL TV ᴿᴬᵂ
+Somos,PRIME: SOMOS ᴿᴬᵂ
+Sundance TV,PRIME: SUNDANCE TV ᴿᴬᵂ
+Telecinco HD,PRIME: TELECINCO ᴿᴬᵂ
+VinTV,PRIME: VINTV ᴿᴬᵂ
+VinTV,PRIME: VIZNER TV ᴿᴬᵂ
+XTRM,PRIME: XTRM ᴿᴬᵂ
+AMC Western,PRIME: �AMC WESTRN ᴿᴬᵂ
+,#### ATRES PLAYER ᴿᴬᵂ ####
+Aquí no hay quién viva,PLAYER: DIRECTO AQUÍ NO HAY QUIÉN VIVA ᴿᴬᵂ
+ATRESplayer PREMIUM,PLAYER: DIRECTO ATRESPLAYER PREMIUM ᴿᴬᵂ
+Comedia atresplayer,PLAYER: DIRECTO COMEDIA ᴿᴬᵂ
+El club de la comedia,PLAYER: DIRECTO EL CLUB DE LA COMEDIA ᴿᴬᵂ
+Equipo de investigación,PLAYER: DIRECTO EQUIPO DE INVESTIGACIÓN ᴿᴬᵂ
+,##### TELEFÓNICA ᴿᴬᵂ #####
+Telecinco HD,TF: TELECINCO ᴿᴬᵂ
+Cuatro HD,TF: CUATRO ᴿᴬᵂ
+Divinity,TF: DIVINITY ᴿᴬᵂ
+Factoría de Ficción,TF: FACTOR A DE FICCIN  ᴿᴬᵂ
+Energy,TF: ENERGY ᴿᴬᵂ
+Be Mad,TF: BEDMAD ᴿᴬᵂ
+Boing,TF: BOING ᴿᴬᵂ
+Infinity En la calle,TF: EN LA CALLE ᴿᴬᵂ
+Infinity Viajes,TF: VIAJES ᴿᴬᵂ
+Infinity+ LQSA,TF: LQSA ᴿᴬᵂ
+M+ Comedia HD,TF: COMEDIA ᴿᴬᵂ
+Infinity Top Series,TF: TOP SERIES ᴿᴬᵂ
+,#### ORANGE ᴿᴬᵂ ####
+La 1 HD,GO: LA 1 ᴿᴬᵂ
+La 2,GO: LA 2 ᴿᴬᵂ
+La Sexta HD,GO: LA SEXTA
+M+ Acción HD,GO: M+ ACCIÓN ᴿᴬᵂ
+M+ Cine Español,GO: M+ CINE ESPANOL ᴿᴬᵂ
+M+ Clásicos HD,GO: M+ CLASICOS ᴿᴬᵂ
+M+ Comedia HD,GO: M+ COMEDIA ᴿᴬᵂ
+M+ Documentales HD,GO: M+ DOCUMENTALES ᴿᴬᵂ
+M+ Drama HD,GO: M+ DRAMA ᴿᴬᵂ
+M+ Hits HD,GO: M+ HITS ᴿᴬᵂ
+M+ Indie HD,GO: M+ INDIE ᴿᴬᵂ
+M+ Los Goya,GO: M+ LOS GOYA ᴿᴬᵂ
+M+ Originales HD,GO: M+ ORIGINALES ᴿᴬᵂ
+M+ Oscars,GO: M+ DEMI MOORE ᴿᴬᵂ
+Movistar Plus+ HD,GO: MOVISTAR PLUS+ ᴿᴬᵂ
+Movistar Plus+ HD,GO: MOVISTAR PLUS+ 2 ᴿᴬᵂ
+1+1 International,GO: 1+1 INTERNACIONAL ᴿᴬᵂ
+24 Horas,GO: 24 HORAS ᴿᴬᵂ
+Popular TV Región de Murcia,GO: 7 TV REGIÓN MURCIA ᴿᴬᵂ
+AXN HD,GO: AXN ᴿᴬᵂ
+AXN Movies HD,GO: AXN MOVIES ᴿᴬᵂ
+Al Jazeera English HD,GO: AL JAZEERA ENGLISH
+Antena 3 HD,GO: ANTENA 3 ᴿᴬᵂ
+Aragón TV,GO: ARAGÓN TV ᴿᴬᵂ
+Aragón TV,GO: ARAGÓN TV INT ᴿᴬᵂ
+Atreseries,GO: ATRESERIES ᴿᴬᵂ
+BBC Food,GO: BBC FOOD ᴿᴬᵂ
+BBC History,GO: BBC HISTORY ᴿᴬᵂ
+BBC Top Gear,GO: BBC TOP GEAR ᴿᴬᵂ
+BBC Food,GO: BBC WORLD ᴿᴬᵂ
+Be Mad,GO: BE MAD ᴿᴬᵂ
+Baby TV,GO: BABY TV ᴿᴬᵂ
+Bloomberg TV Europe,GO: BLOOMBERG ᴿᴬᵂ
+Boing,GO: BOING ᴿᴬᵂ
+CGTN Español,GO: CGTN ESPAÑOL ᴿᴬᵂ
+Cosmo HD,GO: COSMO ᴿᴬᵂ
+Calle 13 HD,GO: CALLE 13 ᴿᴬᵂ
+Canal Extremadura,GO: CANAL EXTREMADURA ᴿᴬᵂ
+Canal Extremadura SAT,GO: CANAL EXTREMADURA SAT ᴿᴬᵂ
+Canal Sur HD,GO: CANAL SUR ᴿᴬᵂ
+Canal Sur Andalucía,GO: CANAL SUR ANDALUCIA ᴿᴬᵂ
+CMM TV,GO: CASTILLA LA MANCHA TV ᴿᴬᵂ
+Caza y Pesca HD,GO: CAZA Y PESCA ᴿᴬᵂ
+Clan,GO: CLAN TVE ᴿᴬᵂ
+Classica HD,GO: CLASSICA ᴿᴬᵂ
+Comedy Central HD,GO: COMEDY CENTRAL ᴿᴬᵂ
+Cuatro HD,GO: CUATRO ᴿᴬᵂ
+DKISS,GO: DKISS ᴿᴬᵂ
+DMAX,GO: DMAX ᴿᴬᵂ
+Discovery,GO: DISCOVERY ᴿᴬᵂ
+Disney Junior,GO: DISNEY JUNIOR ᴿᴬᵂ
+Divinity,GO: DIVINITY ᴿᴬᵂ
+Dreamworks HD,GO: DREAM WORK ᴿᴬᵂ
+EITB Basque,GO: EITB BASQUE ᴿᴬᵂ
+ETB1,GO: ETB 1 ᴿᴬᵂ
+Garage TV,GO: EL GARAGE TV ᴿᴬᵂ
+El Toro TV,GO: EL TORO TV ᴿᴬᵂ
+Energy,GO: ENERGY ᴿᴬᵂ
+EuroNews,GO: EURO NEWS ᴿᴬᵂ
+France 24,GO: FRANCE24 (FR) ᴿᴬᵂ
+MTV España,GO: MTV ᴿᴬᵂ
+HBO Max Avances,GO: MAX AVANCES ᴿᴬᵂ
+Mega,GO: MEGA ᴿᴬᵂ
+Mezzo,GO: MEZZO ᴿᴬᵂ
+Mezzo Live HD,GO: MEZZO LIVE ᴿᴬᵂ
+Nick JR,GO: NICK JR ᴿᴬᵂ
+Nat Geo Wild HD,GO: NAT GEO WILD ᴿᴬᵂ
+National Geographic HD,GO: NATIONAL GEOGRAPHIC ᴿᴬᵂ
+Navarra TV,GO: NAVARRA TV ᴿᴬᵂ
+Negocios TV,GO: NEGOCIOS TV ᴿᴬᵂ
+Neox,GO: NEOX ᴿᴬᵂ
+Nickelodeon HD,GO: NICKELODEON ᴿᴬᵂ
+Nova,GO: NOVA ᴿᴬᵂ
+Squirrel 2,GO: PARAMOUNT NETWORK ᴿᴬᵂ
+STAR Channel HD,GO: STAR CHANNEL ᴿᴬᵂ
+SyFy HD,GO: SYFY ᴿᴬᵂ
+SkyShowtime,GO: SKY SHOWTIME 1 ᴿᴬᵂ
+TRECE,GO: TRECE ᴿᴬᵂ
+TV Canaria,GO: TV CANARIA ᴿᴬᵂ
+TV3,GO: TV3 ᴿᴬᵂ
+TV3 Catalunya,GO: TV3 CAT ᴿᴬᵂ
+TV5 Monde Europe HD,GO: TV5 MONDE ᴿᴬᵂ
+TVG Europa HD,GO: TVG EUROPA ᴿᴬᵂ
+Telecinco HD,GO: TELECINCO ᴿᴬᵂ
+Teledeporte,GO: TELEDEPORTE ᴿᴬᵂ
+Telemadrid,GO: TELEMADRID ᴿᴬᵂ
+Telemadrid Internacional,GO: TELEMADRID INT. ᴿᴬᵂ
+Ten,GO: TEN ᴿᴬᵂ
+UBEAT,GO: UBEAT ᴿᴬᵂ
+Warner TV HD,GO: WARNER TV ᴿᴬᵂ
+À Punt,GO: À PUNT ᴿᴬᵂ
+Veo7,GO: VEO 7 ᴿᴬᵂ
+,#### ORANGE SPORTS ᴿᴬᵂ ####
+M+ LaLiga HDR,GO: M+ LALIGA ᴴᴰᴿ ³⁸⁴⁰ᴾ
+M+ LaLiga HDR,GO: M+ LALIGA TV ᴴᴰᴿ ³⁸⁴⁰ᴾ
+M+ LaLiga 2 HD,GO: M+ LALIGA TV 2 ᴴᴰᴿ ³⁸⁴⁰ᴾ
+DAZN LaLiga HD,GO: DAZN LA LIGA 1 ᴿᴬᵂ
+DAZN LaLiga 2 HD,OR: DAZN LA LIGA 2 ᴿᴬᵂ
+DAZN F1 HD,GO: DAZN F1 ᴿᴬᵂ
+DAZN 1 HD,GO: DAZN 1 ᴿᴬᵂ
+DAZN 2 HD,GO: DAZN 2 ᴿᴬᵂ
+M+ LaLiga HD,GO: M+ LALIGA TV ᴿᴬᵂ
+M+ LaLiga 2 HD,GO: M+ LALIGA TV 2 ᴿᴬᵂ
+M+ LaLiga 3 HD,GO: M+ LALIGA TV 3 ᴿᴬᵂ
+M+ LaLiga 4,GO: M+ LALIGA TV 4 ᴿᴬᵂ
+LaLiga TV Hypermotion HD,GO: LIGA SMARTBANK 1 ᴿᴬᵂ
+LaLiga TV Hypermotion 2,GO: LIGA SMARTBANK 2 ᴿᴬᵂ
+LaLiga TV Hypermotion 3,GO: LIGA SMARTBANK 3 ᴿᴬᵂ
+LaLiga TV Hypermotion HD,GO: LALIGATV HYPERMOTION ᴿᴬᵂ
+LaLiga TV Hypermotion 2,GO: LALIGATV HYPERMOTION 2 ᴿᴬᵂ
+LaLiga TV Hypermotion 3,GO: LALIGATV HYPERMOTION 3 ᴿᴬᵂ
+M+ Liga de Campeones HD,GO: M+ LALIGA DE CAMPEONES 1 ᴿᴬᵂ
+M+ Liga de Campeones 2 HD,GO: M+ LALIGA DE CAMPEONES 2 ᴿᴬᵂ
+M+ Liga de Campeones 3 HD,GO: M+ LALIGA DE CAMPEONES 3 ᴿᴬᵂ
+M+ Liga de Campeones 4,GO: M+ LALIGA DE CAMPEONES 4 ᴿᴬᵂ
+M+ Liga de Campeones 5,GO: M+ LALIGA DE CAMPEONES 5 ᴿᴬᵂ
+M+ Liga de Campeones 6,GO: M+ LALIGA DE CAMPEONES 6 ᴿᴬᵂ
+M+ Liga de Campeones 7,GO: M+ LALIGA DE CAMPEONES 7 ᴿᴬᵂ
+M+ Liga de Campeones 8,GO: M+ LALIGA DE CAMPEONES 8 ᴿᴬᵂ
+M+ Liga de Campeones 9,GO: M+ LALIGA DE CAMPEONES 9 ᴿᴬᵂ
+M+ Liga de Campeones 10,GO: M+ LALIGA DE CAMPEONES 10 ᴿᴬᵂ
+M+ Liga de Campeones 11,GO: M+ LALIGA DE CAMPEONES 11 ᴿᴬᵂ
+M+ Liga de Campeones 12,GO: M+ LALIGA DE CAMPEONES 12 ᴿᴬᵂ
+M+ Liga de Campeones 13,GO: M+ LALIGA DE CAMPEONES 13 ᴿᴬᵂ
+M+ Golf HD,GO: M+ MOVISTAR GOLF ᴿᴬᵂ
+M+ Golf 2 HD,GO: M+ MOVISTAR GOLF 2 ᴿᴬᵂ
+M+ Deportes HD,GO: M+ DEPORTES 1 ᴿᴬᵂ
+M+ Deportes 2 HD,GO: M+ DEPORTES 2 ᴿᴬᵂ
+M+ Deportes 3,GO: M+ DEPORTES 3 ᴿᴬᵂ
+M+ Deportes 4,GO: M+ DEPORTES 4 ᴿᴬᵂ
+M+ Deportes 5,GO: M+ DEPORTES 5 ᴿᴬᵂ
+M+ Deportes 6,GO: M+ DEPORTES 6 ᴿᴬᵂ
+M+ Vamos HD,GO: M+ VAMOS ᴿᴬᵂ
+M+ Vamos HD,GO: M+ ELLAS VAMOS ᴿᴬᵂ
+Real Madrid TV,GO: REAL MADRID ᴿᴬᵂ
+FOX SPORTS,GO: FOX SPORT 1 ᴿᴬᵂ
+FOX SPORTS 2,GO: FOX SPORT 2 ᴿᴬᵂ
+FOX SPORTS 3,GO: FOX SPORT 3 ᴿᴬᵂ
+,GO: FOX SPORT PREMIUM ᴿᴬᵂ
+Fight Time,GO: FIGHT TIME ᴿᴬᵂ
+Eurosport 1 HD,GO: EURO SPORT 1 ᴿᴬᵂ
+Eurosport 2,GO: EURO SPORT 2 ᴿᴬᵂ
+La 2,VO: LA 2 ᴿᴬᵂ
+La 2,VO: LA 2 ᴴᴰ
+Antena 3 HD,VO: ANTENA 3 ᴿᴬᵂ
+Antena 3 HD,VO: ANTENA 3 ᴴᴰ
+Cuatro HD,VO: CUATRO ᴿᴬᵂ
+Cuatro HD,VO: CUATRO ᴴᴰ
+Telecinco HD,VO: TELECINCO ᴿᴬᵂ
+Telecinco HD,VO: TELECINCO ᴴᴰ
+La Sexta HD,VO: LA SEXTA ᴿᴬᵂ
+La Sexta HD,VO: LA SEXTA ᴴᴰ
+Neox,VO: NEOX ᴴᴰ
+Divinity,VO: DIVINITY ᴴᴰ
+Energy,VO: ENERGY ᴴᴰ
+Clan,VO: CLAN TVE ᴿᴬᵂ
+Clan,VO: CLAN TV ᴴᴰ
+Mega,VO: MEGA ᴴᴰ
+TV Canaria,VO: CANAL SUR A. ᴴᴰ
+24 Horas,VO: 24 HORAS ᴴᴰ
+Telemadrid,VO: TELE MADRID ᴿᴬᵂ
+Aragón TV,VO: ARAGON TV ᴴᴰ
+Be Mad,VO: BE MAD ᴴᴰ
+ETB1,VO: ETB 1 ᴴᴰ
+TRECE,VO: TRECE ᴴᴰ
+Onetoro,VO: EL TORO TV ᴴᴰ
+AMC HD,VO: AMC ᴿᴬᵂ
+AMC Crime,VO: AMC CRIME ᴿᴬᵂ
+AMC Break,VO: AMC BREAK ᴿᴬᵂ
+M+ Acción HD,VO: M.ACCI©N ᴿᴬᵂ
+M+ Acción HD,VO: M.ACCI©N ᴴᴰ
+M+ Estrenos HD,VO: M.ESTRENOS ᴿᴬᵂ
+M+ Estrenos HD,VO: M.ESTRENOS ᴴᴰ
+M+ Drama HD,VO: M.DRAMA ᴿᴬᵂ
+M+ Drama HD,VO: M.DRAMA ᴴᴰ
+M+ Comedia HD,VO: M.COMEDIA ᴿᴬᵂ
+M+ Comedia HD,VO: M.COMEDIA ᴴᴰ
+BBC Series,VO: M.SERIES ᴿᴬᵂ
+BBC Series,VO: M.SERIES ᴴᴰ
+Gol Classics,VO: M.CLASSICOS ᴿᴬᵂ
+Gol Classics,VO: M.CLASSICOS ᴴᴰ
+AXN HD,VO: AXN ᴿᴬᵂ
+AXN HD,VO: AXN ᴴᴰ
+Cosmo HD,VO: COSMO ᴿᴬᵂ
+Cosmo HD,VO: COSMO ᴴᴰ
+,VO: TNT ᴿᴬᵂ
+,VO: TNT ᴴᴰ
+SyFy HD,VO: SYFY ᴿᴬᵂ
+SyFy HD,VO: SYFY ᴴᴰ
+Calle 13 HD,VO: CALLE 13 ᴿᴬᵂ
+Calle 13 HD,VO: CALLE 13 ᴴᴰ
+Sundance TV,VO: SUNDANCE TV ᴴᴰ
+Canal Hollywood HD,VO: HOLLYWOOD ᴿᴬᵂ
+Canal Hollywood HD,VO: HOLLYWOOD ᴴᴰ
+Comedy Central HD,VO: COMEDY CENTRAL ᴿᴬᵂ
+Comedy Central HD,VO: COMEDY CENTRAL ᴴᴰ
+TCM HD,VO: TCM ᴴᴰ
+TCM HD,VO: TCM ᴴᴰ
+DARK,VO: DARK TV ᴴᴰ
+Somos,VO: SOMOS ᴴᴰ
+XTRM,VO: XTRM ᴿᴬᵂ
+BBC History,VO: HBO 2 ᴴᴰ
+Alquiler 1,VO: ALQUILER 1 ᴿᴬᵂ
+,VO: ALQUILER 2 ᴿᴬᵂ
+,VO: ALQUILER 3 ᴿᴬᵂ
+,VO: ALQUILER 5 ᴿᴬᵂ
+Dreamworks HD,VO: DREAM WORKS ᴴᴰ
+Disney Junior,VO: DISNEY CHANNEL ᴿᴬᵂ
+Disney Junior,VO: DISNEY CHANNEL ᴴᴰ
+Disney Junior,VO: DISNEY JR ᴴᴰ
+Nickelodeon HD,VO: NICKELODEON ᴿᴬᵂ
+Nickelodeon HD,VO: NICKELODEON ᴴᴰ
+Dreamworks HD,VO: DREAM WORK ᴿᴬᵂ
+,VO: PANDA ᴴᴰ
+Boing,VO: BOING ᴴᴰ
+Baby TV,VO: BABY TV ᴴᴰ
+National Geographic HD,VO: NAT GEO GEOGRAPHIC ᴿᴬᵂ
+National Geographic HD,VO: NAT GEO GEOGRAPHIC ᴴᴰ
+Nat Geo Wild HD,VO: NAT GEO WILD ᴿᴬᵂ
+Nat Geo Wild HD,VO: NAT GEO WILD ᴴᴰ
+Caza y Pesca HD,VO: CAZA Y PESCA ᴿᴬᵂ
+Caza y Pesca HD,VO: CAZA Y PESCA ᴴᴰ
+DMAX,VO: DMAX ᴴᴰ
+TV Canaria,VO: CANAL COCINA ᴴᴰ
+Historia,VO: HISTORIA ᴴᴰ
+Iberalia TV,VO: IBERALIA TV ᴴᴰ
+Discovery,VO: DISCOVERY CHANNEL ᴴᴰ
+Odisea,VO: OD!SEA ᴴᴰ
+TCM HD,VO: TCM ᴴᴰ
+,VO: TELECINE PREMIUM ᴴᴰ
+,VO: ANTENA 3 ARG ᴴᴰ
+,VO: ANTENA 3 MX ᴴᴰ
+,### VODAFONE SPORTS ᴿᴬᵂ ###
+DAZN LaLiga HD,VO: DAZN LALIGA ᴿᴬᵂ
+DAZN LaLiga HD,VO: DAZN LALIGA ᴴᴰ
+DAZN LaLiga 2 HD,VO: DAZN LALIGA 2 ᴿᴬᵂ
+DAZN LaLiga 2 HD,VO: DAZN LALIGA 2 ᴴᴰ
+DAZN F1 HD,VO: DAZN F1 ᴿᴬᵂ
+DAZN F1 HD,VO: DAZN F1 ᴴᴰ
+DAZN 1 HD,VO: DAZN 1 ᴿᴬᵂ
+DAZN 1 HD,VO: DAZN 1 ᴴᴰ
+DAZN 2 HD,VO: DAZN 2 ᴿᴬᵂ
+DAZN 2 HD,VO: DAZN 2 ᴴᴰ
+DAZN 3 HD,VO: DAZN 3 ᴿᴬᵂ
+DAZN 3 HD,VO: DAZN 3 ᴴᴰ
+DAZN 4 HD,VO: DAZN 4 ᴿᴬᵂ
+DAZN 4 HD,VO: DAZN 4 ᴴᴰ
+M+ Deportes HD,VO: MOVISTAR DEPORTES 1 ᴴᴰ
+M+ Deportes 2 HD,VO: MOVISTAR DEPORTES 2 ᴴᴰ
+M+ Deportes 3,VO: MOVISTAR DEPORTES 3 ᴴᴰ
+M+ Deportes 4,VO: MOVISTAR DEPORTES 4 ᴴᴰ
+M+ LaLiga HD,VO: MOVISTAR LALIGA ᴿᴬᵂ
+M+ LaLiga HD,VO: MOVISTAR LALIGA ᴴᴰ
+M+ LaLiga HD,VO: MOVISTAR LALIGA 1 ᴿᴬᵂ
+M+ LaLiga HD,VO: MOVISTAR LALIGA 1 ᴴᴰ
+M+ LaLiga 2 HD,VO: MOVISTAR LALIGA 2 ᴿᴬᵂ
+M+ LaLiga 2 HD,VO: MOVISTAR LALIGA 2 ᴴᴰ
+M+ LaLiga 3 HD,VO: MOVISTAR LALIGA 3 ᴿᴬᵂ
+M+ LaLiga 4,VO: MOVISTAR LALIGA 4 ᴴᴰ
+M+ LaLiga 5,VO: MOVISTAR LALIGA 5 ᴴᴰ
+M+ LaLiga 6,VO: MOVISTAR LALIGA 6 ᴴᴰ
+M+ Deportes HD,VO: M+ DEPORTES ᴿᴬᵂ
+M+ Deportes HD,VO: M+ DEPORTES ᴴᴰ
+LaLiga TV Hypermotion HD,VO: M+LIGA HYPERMOTIONV TV ᴴᴰ
+LaLiga TV Hypermotion 2,VO: M+LIGA HYPERMOTIONV TV 2 ᴴᴰ
+M+ Liga de Campeones HD,VO: M.LIGA CAMPEONES ᴿᴬᵂ
+M+ Liga de Campeones HD,VO: M.LIGA CAMPEONES ᴴᴰ
+M+ Liga de Campeones HD,VO: M.LIGA CAMPEONES1 ᴿᴬᵂ
+M+ Liga de Campeones HD,VO: M.LIGA CAMPEONES1 ᴴᴰ
+M+ Liga de Campeones 2 HD,VO: M.LIGA CAMPEONES2 ᴿᴬᵂ
+M+ Liga de Campeones 2 HD,VO: M.LIGA CAMPEONES 2 ᴴᴰ
+M+ Liga de Campeones 3 HD,VO: M.LIGA CAMPEONES 3 ᴴᴰ
+M+ Liga de Campeones 4,VO: M.LIGA CAMPEONES 4 ᴴᴰ
+M+ Liga de Campeones 6,VO: M.LIGA CAMPEONES 6 ᴴᴰ
+M+ Liga de Campeones 5,VO: M.LIGA CAMPEONES 5 ᴴᴰ
+M+ Liga de Campeones 7,VO: M.LIGA CAMPEONES 7 ᴴᴰ
+M+ Liga de Campeones 8,VO: M.LIGA CAMPEONES 8 ᴴᴰ
+M+ Golf HD,VO: GOL TV ᴿᴬᵂ
+M+ Golf HD,VO: GOL TV ᴴᴰ
+M+ Vamos HD,VO: #VAMOS ᴿᴬᵂ
+M+ Vamos HD,VO: #VAMOS ᴴᴰ
+Real Madrid TV,VO: REAL MADRID ᴴᴰ
+Top Barça,VO: BARÇA TV ᴴᴰ
+Eurosport 1 HD,VO: EURO SPORT 1 ᴿᴬᵂ
+Eurosport 1 HD,VO: EURO SPORT 1 ᴴᴰ
+Eurosport 2,VO: EURO SPORT 2ᴴᴰ
+Teledeporte,VO: TELEDEPORTE ᴿᴬᵂ
+Teledeporte,VO: TELEDEPORTE ᴴᴰ
+El Toro TV,VO: TOROS ᴿᴬᵂ
+El Toro TV,VO: TOROS TV ᴴᴰ
+,VO: FOX SPORTS PREMIUM ARG ᴴᴰ
+FOX SPORTS,VO: FOX SPORTS 1 MX ᴴᴰ
+FOX SPORTS,VO: FOX SPORTS 1 MX ᴴᴰ
+FOX SPORTS 2,VO: FOX SPORTS 2 MX ᴴᴰ
+FOX SPORTS 2,VO: FOX SPORTS 2 MX ᴴᴰ
+FOX SPORTS 3,VO: FOX SPORTS 3 MX ᴴᴰ
+FOX SPORTS 3,VO: FOX SPORTS 3 MX ᴴᴰ
+,VO: AYM SPORTS MX ᴴᴰ
+FOX SPORTS,VO: FOX SPORTS 1 ARG ᴴᴰ
+,VO: AYM SPORTS MX ᴴᴰ
+,VO: TNT SPORTS ARG ᴴᴰ
+,#### MOVISTAR ᴿᴬᵂ ####
+La 1 HD,M+: LA 1 ᴿᴬᵂ
+La 2,M+: LA 2 ᴿᴬᵂ
+,M+: LA 7 ᴿᴬᵂ
+Canal Sur Andalucía,M+: CANAL SUR ANDALUCIA ᴿᴬᵂ
 Antena 3 HD,M+: ANTENA 3 ᴿᴬᵂ
-Antena 3 HD,M+: ANTENA 3 ᴿᴬᵂ
-Cuatro HD,ES: CUATRO ᵁᴴᴰ 
-Cuatro HD,ES: CUATRO ᴴᴰ
-Cuatro HD,ES: CUATRO SD
+SELEKT,M+: SELEKT ᴿᴬᵂ
 Cuatro HD,M+: CUATRO ᴿᴬᵂ
-Telecinco HD,ES: TELECINCO ᵁᴴᴰ
-Telecinco HD,ES: TELECINCO ᴴᴰ
-Telecinco HD,ES: TELECINCO SD
+BOM Cine,M+: BOM CINE ᴿᴬᵂ
 Telecinco HD,M+: TELECINCO ᴿᴬᵂ
-La Sexta HD,ES: LA SEXTA ᴴᴰ
-La Sexta HD,ES: LA SEXTA ᵁᴴᴰ
-La Sexta HD,ES: LA SEXTA SD
+RunTime Familia,M+: EN FAMILIA ᴿᴬᵂ
 La Sexta HD,M+: LA SEXTA ᴿᴬᵂ
-Telemadrid,ES: TELE MADRID ᵁᴴᴰ
-Telemadrid,M+: TELE MADRID ᴿᴬᵂ
-Real Madrid TV,ES: REAL MADRID TV ᵁᴴᴰ
-Real Madrid TV,ES: REAL MADRID TV ᴴᴰ
-Real Madrid TV,ES: REAL MADRID TV SD
-Real Madrid TV,M+: REAL MADRID TV ᴿᴬᵂ
-Canal Sur HD,ES: CANAL SUR ᵁᴴᴰ
-Canal Sur HD,M+: CANAL SUR ᴿᴬᵂ
-Canal Sur Andalucía,ES: CANAL SUR ANDALUCIA SD
-ES: CANAL SUR ANDALUCIA 2 ᴴᴰ
-CMM TV,ES: CASTILLA LA MANCHA ᵁᴴᴰ
-CMM TV,ES: CASTILLA LA MANCHA ᴴᴰ
-CMM TV,ES: CMM ᴴᴰ
-CMM TV,ES: CMM ᵁᴴᴰ
-CMM TV,ES: CMM SD
-CMM TV,M+: CASTILLA - LA MANCHA TV ᴿᴬᵂ
-La Otra,ES: LA OTRA ᵁᴴᴰ
-La Otra,ES: LA OTRA ᴴᴰ
-La Otra,ES: LA OTRA SD
-La Otra,M+: LA OTRA ᴿᴬᵂ
-TRECE,ES: TRECE TV ᵁᴴᴰ 
-TRECE,ES: TRECE TV ᴴᴰ
-TRECE,ES: TRECE TV SD
-TRECE,M+: EL TRECE ᴿᴬᵂ
+Energy,M+: ENERGY ᴿᴬᵂ
+DMAX,M+: DMAX ᴿᴬᵂ
+Divinity,M+: DIVINITY ᴿᴬᵂ
+Nova,M+: NOVA ᴿᴬᵂ
+Neox,M+: NEOX ᴿᴬᵂ
+Mega,M+: MEGA ᴿᴬᵂ
+Be Mad,M+: BE MAD ᴿᴬᵂ
+Atreseries,M+: A3SERIES ᴿᴬᵂ
+DKISS,M+: DKISS TV ᴿᴬᵂ
+24 Horas,M+: 24 HORAS ᴿᴬᵂ
 TRECE,M+: TRECE ᴿᴬᵂ
-El club de la comedia,ES: EL CLUB DE LA COMEDIA SD
-24 Horas,ES: 24H TVE SD
-24 Horas,ES: 24H TVE ᵁᴴᴰ
-24 Horas,ES: 24H TVE ᴴᴰ
-24 Horas,M+: CANAL 24 H ᴿᴬᵂ
-ETB1,ES: ETB 1 ᴴᴰ
-ETB1,+: ETB 1 ᴿᴬᵂ
-ETB2,ES: ETB 2 ᴴᴰ
+Ten,M+: TEN ᴿᴬᵂ
+TV3,M+: TV3 ᴿᴬᵂ
+Telemadrid,M+: TELEMADRID ᴿᴬᵂ
+,M+: GALICIA TV ᴿᴬᵂ
+ETB1,M+: ETB 1 ᴿᴬᵂ
+Dreamworks HD,M+: DREAM WORKS ᴿᴬᵂ
 ETB2,M+: ETB 2 ᴿᴬᵂ
 ETB3,M+: ETB 3 ᴿᴬᵂ
-ETB4,M+: ETB 4 ᴿᴬᵂ
-TV3 Catalunya,ES: TV3 CATALUÑA SD
-TV3 Catalunya,ES: TV3 CATALUÑA ᵁᴴᴰ
-TV3 Catalunya,ES: TV3 CATALUÑA ᴴᴰ
+M+ Golf HD,M+: GOL ᴿᴬᵂ
+,M+: TV GALICIA 2 ᴿᴬᵂ
+M+ Documentales HD,M+: M.DOCUMENTALES ᴿᴬᵂ
+M+ Hits HD,M+: HIT TV  ᴿᴬᵂ
+Náutica TV,M+: NAUTICA ᴿᴬᵂ
+M+ Deportes HD,M+: M.DEPORTES ᴿᴬᵂ
+Warner TV HD,M+: WARNER TV ᴿᴬᵂ
+Teledeporte,M+: TELEDEPORTE ᴿᴬᵂ
+M+ Estrenos HD,M+: M.CINE ᴿᴬᵂ
+M+ Estrenos HD,M+: M.CINE ᴴᴰ
+Movistar Plus+ HD,M+: M.PLUS ᴿᴬᵂ
+Movistar Plus+ HD,M+: M.PLUS ᴴᴰ
+M+ Acción HD,M+: M.ACCION ᴿᴬᵂ
+M+ Comedia HD,M+: M.COMEDIA ᴿᴬᵂ
+M+ Comedia HD,M+: M.COMEDIA ᴴᴰ
+M+ Drama HD,M+: M.DRAMA ᴿᴬᵂ
+M+ Cine Español,M+: M.CINE Ñ ᴿᴬᵂ
+Canal Hollywood HD,M+: HOLLYWOOD ᴿᴬᵂ
+CMM TV,M+: CMM TV ᴿᴬᵂ
+TCM HD,M+: TCM ᴿᴬᵂ
+Squirrel 2,M+: PARAMOUNT ᴿᴬᵂ
+TRACE Latina,M+: TRACE LATINA ᴿᴬᵂ
+Sundance TV,M+: SUNDANCE ᴿᴬᵂ
+M+ Hits HD,M+: M.HITS ᴿᴬᵂ
+STAR Channel HD,M+: STAR CHANNEL ᴿᴬᵂ
+AXN HD,M+: AXN ᴿᴬᵂ
+El Toro TV,M+: EL TORO  ᴿᴬᵂ
+AXN Movies HD,M+: AXN MOVIES ᴿᴬᵂ
+Sol Música,M+: SOL MUSICA ᴿᴬᵂ
+Calle 13 HD,M+: CALLE 13 ᴿᴬᵂ
+Comedy Central HD,M+: COMEDY CENTRAL ᴿᴬᵂ
+SyFy HD,M+: SYFY ᴿᴬᵂ
+Nickelodeon HD,M+: NICKELODEON ᴿᴬᵂ
+Nick JR,M+: NICK JR ᴿᴬᵂ
+Disney Junior,M+: DISNEY JR ᴿᴬᵂ
+Clan,M+: CLAN TVE ᴿᴬᵂ
+Fight Time,M+: FIGHT TIME ᴿᴬᵂ
+Boing,M+: BOING ᴿᴬᵂ
+Baby TV,M+: BABY TV ᴿᴬᵂ
+Moto ADV,M+: MOTO ADV ᴿᴬᵂ
+Negocios TV,M+: NEGOCIOS TV ᴿᴬᵂ
+M+ Originales HD,M+: M.ORIGINALES ᴿᴬᵂ
+Canal Cocina,M+: CANAL COCINA ᴿᴬᵂ
+AMC HD,M+: AMC ᴿᴬᵂ
+AMC Break,M+: AMC BREAK ᴿᴬᵂ
+AMC Crime,M+: AMC CRIME ᴿᴬᵂ
+La Otra,M+: LA OTRA ᴿᴬᵂ
+Iberalia TV,M+: IBERALIA ᴿᴬᵂ
+Iberalia pesca,M+: IBERALIA PESCA ᴿᴬᵂ
+Caza y Pesca HD,M+: CAZA Y PESCA ᴿᴬᵂ
+Cosmo HD,M+: COSMO ᴿᴬᵂ
+National Geographic HD,M+: NAT GEOGRAPHIC ᴿᴬᵂ
+Nat Geo Wild HD,M+: NAT GEO WILD ᴿᴬᵂ
+Historia,M+: HISTORIA ᴿᴬᵂ
+Discovery,M+: DISCOVERY CHANEL ᴿᴬᵂ
+Canal Extremadura,M+: CANAL EXTREMADURA
+Odisea,M+: ODISEA ᴿᴬᵂ
+MTV España,M+: MTV ESPANA ᴿᴬᵂ
+À Punt,M+: A PUNT ᴿᴬᵂ
+Canal de las Estrellas,M+: CANAL ESTRELLAS ᴿᴬᵂ
+AMC Western,M+: BUEN VIAJE ᴿᴬᵂ
+,#### MOVISTAR SPORT ᴿᴬᵂ ####
+DAZN LaLiga HD,M+: DAZN LA LIGA ᴿᴬᵂ
+DAZN LaLiga 2 HD,M+: DAZN LA LIGA 2 ᴿᴬᵂ
+DAZN F1 HD,M+: DAZN F1 ᴿᴬᵂ
+DAZN 1 HD,M+: DAZN 1 ᴿᴬᵂ
+DAZN 2 HD,M+: DAZN 2 ᴿᴬᵂ
+DAZN 3 HD,M+: DAZN 3 ᴿᴬᵂ
+DAZN 4 HD,M+: DAZN 4 ᴿᴬᵂ
+M+ LaLiga HD,M+: M.LALIGA ᴿᴬᵂ
+M+ LaLiga 2 HD,M+: M.LALIGA 2 ᴿᴬᵂ
+M+ LaLiga 3 HD,M+: M.LALIGA 3 ᴿᴬᵂ
+M+ LaLiga 4,M+: M. LALIGA 4 ᴿᴬᵂ
+M+ LaLiga 4,M+: M. LALIGA 4 ᴴᴰ
+M+ LaLiga 4,M+: M. LALIGA 4 SD
+M+ LaLiga 5,M+: M. LALIGA 5 ᴿᴬᵂ
+M+ LaLiga 5,M+: M. LALIGA 5 ᴴᴰ
+M+ LaLiga 5,M+: M. LALIGA 5 SD
+M+ Deportes HD,M+: M.DEPORTES 1 ᴿᴬᵂ
+M+ Deportes 2 HD,M+: M.DEPORTES 2 ᴿᴬᵂ
+M+ Deportes 3,M+: M.DEPORTES 3 ᴿᴬᵂ
+M+ Deportes 4,M+: M.DEPORTES 4 ᴿᴬᵂ
+M+ Deportes 5,M+: M.DEPORTES 5 ᴿᴬᵂ
+M+ Liga de Campeones HD,M+: M.LCAMPEONES ᴿᴬᵂ
+M+ Liga de Campeones 2 HD,M+: M.LCAMPEONES 2 ᴿᴬᵂ
+M+ Liga de Campeones 3 HD,M+: M.LCAMPEONES 3 ᴿᴬᵂ
+M+ Golf HD,M+: M.GOLF ᴿᴬᵂ
+M+ Vamos HD,M+: #VAMOS ᴿᴬᵂ
+Eurosport 1 HD,M+: EUROSPORT 1 ᴿᴬᵂ
+Eurosport 2,M+: EUROSPORT 2 ᴿᴬᵂ
+Eurosport 1 HD,M+: EUROSPORT 1 ᴴᴰ
+Eurosport 2,M+: EUROSPORT 2 ᴴᴰ
+Real Madrid TV,M+: REAL MADRID TV ᴿᴬᵂ
+La 2,ES: LA 2 ᴴᴰ
+La Sexta HD,ES: LA SEXTA ᴴᴰ
+,ES: ALCARRIA TV ᴴᴰ
+AMC HD,ES: AMC ᴴᴰ
+Antena 3 HD,ES: ANTENA 3 ᴴᴰ
+Aragón TV,ES: ARAGON TV INT ᴴᴰ
+AXN HD,ES: AXN ᴴᴰ
+,ES: BBC NEWS ᴴᴰ
+Be Mad,ES: BE MAD ᴴᴰ
+Betevé,ES: BETEVÉ ᴴᴰ
+Betis TV,ES: BETIS TV ᴴᴰ
+,ES: BLAZE ᴴᴰ
+Boing,ES: BOING ᴴᴰ
+Calle 13 HD,ES: CALLE 13 ᴴᴰ
+Canal Extremadura,ES: CANAL EXTREMADURA ᴴᴰ
+Canal Extremadura,ES: CANAL EXTREMADURA ᴴᴰ
+,ES: CANAL MALAGA ᴴᴰ
+Canal Sur HD,ES: CANAL SUR ᴴᴰ
+,ES: CINEAR ᴴᴰ
+,ES: CINEMAX ᴴᴰ
+Clan,ES: CLAN ᴴᴰ
+Comedy Central HD,ES: COMEDY CENTRAL ᴴᴰ
+Cuatro HD,ES: CUATRO ᴴᴰ
+,ES: DISCOVERY H&H ᴴᴰ
+,ES: DISCOVERY KIDS ᴴᴰ
+,ES: DISCOVERY KIDS ᴴᴰ
+Discovery Turbo,ES: DISCOVERY TURBO ᴴᴰ
+Discovery Turbo,ES: DISCOVERY TURBO ᴴᴰ
+,ES: DISNEY CHANNEL ᴴᴰ
+Divinity,ES: DIVINITY ᴴᴰ
+DKISS,ES: DKISS ᴴᴰ
+El Toro TV,ES: ELTORO TV ᴴᴰ
+Energy,ES: ENERGY ᴴᴰ
+ETB1,ES: ETB 1 ᴴᴰ
+ETB2,ES: ETB 2 ᴴᴰ
+Flamenco Auditorio,ES: FLAMENCO AUDITORIO ᴴᴰ
+,ES: FOOD NETWORK ᴴᴰ
+,ES: HOME & HEALTH DISCOVERY ᴴᴰ
+Iberalia TV,ES: IBERALIA ᴴᴰ
+M+ LaLiga HD,ES: LA LIGA 1 ᴴᴰ
+M+ LaLiga 2 HD,ES: LA LIGA 2 ᴴᴰ
+La Otra,ES: LA OTRA ᴴᴰ
+,ES: LAS SIETE ᴴᴰ
+Mega,ES: MEGA ᴴᴰ
+Movistar Plus+ HD,ES: MOVISTAR PLUS +2 ᴴᴰ
+MTV España,ES: MTV ᴴᴰ
+,ES: MUNDO SERIES ᴴᴰ
+Negocios TV,ES: NEGOCIOS TV ᴴᴰ
+Nick JR,ES: NICK JR ᴴᴰ
+Nickelodeon HD,ES: NICKELODEON ᴴᴰ
+Odisea,ES: ODISEA ᴴᴰ
+Real Madrid TV,ES: REAL MADRID TV ᴴᴰ
+Somos,ES: SOMOS ᴴᴰ
+,ES: SONY CHANNEL ᴴᴰ
+,ES: SONY MOVIES ᴴᴰ
+Sundance TV,ES: SUNDANCE TV ᴴᴰ
+SyFy HD,ES: SYFY ᴴᴰ
+TCM HD,ES: TCM ᴴᴰ
+Telecinco HD,ES: TELE CINCO ᴴᴰ
+Teledeporte,ES: TELE DEPORTE ᴴᴰ
+Telemadrid,ES: TELE MADRID ᴴᴰ
+Telemadrid Internacional,ES: TELE MADRID INTERNACIONAL ᴴᴰ
+,ES: THEATER DISCOVERY ᴴᴰ
+tlnovelas,ES: TL NOVELAS ᴴᴰ
+,ES: TLC ᴴᴰ
+,ES: TNT NOVELAS ᴴᴰ
+,ES: TNT NOVELAS ᴴᴰ
+,ES: TNT SERIES ᴴᴰ
+,ES: TNT SERIES ᴴᴰ
+TRECE,ES: TRECE TV ᴴᴰ
+TV Canaria,ES: TV CANARIA ᴴᴰ
+TV3 Catalunya,ES: TV3 CAT ᴴᴰ
+Ten,ES: TVE INT ᴴᴰ
+TVG2,ES: TVG 2 ᴴᴰ
+Atreseries,ES: A TRES SERIES ᴴᴰ
+PTV Málaga,TY: CANAL MÁLAGA ᴿᴬᵂ
+,TY: CANAL PARLAMENTO ᴿᴬᵂ
+CGTN Español,TY: CGTN ESPAÑOL ᴿᴬᵂ
+Cine Feel Good,TY: CINE FEEL GOOD VERDI TV ᴿᴬᵂ
+Cines Verdi TV,TY: CINES VERDI TV ᴿᴬᵂ
+CNN en Español,TY: DW EN ESPAÑOL ᴿᴬᵂ
+,TY: ESTEPONA TV ᴿᴬᵂ
+EITB Basque,TY: ETB BASQUE ᴿᴬᵂ
+EuroNews,TY: EURONEWS ᴿᴬᵂ
+DE | Motorvision TV,TY: MOTORVISION TV ᴿᴬᵂ
+Onda Algeciras TV,TY: ONDA ALGECIRAS ᴿᴬᵂ
+Red Bull TV,TY: RED BULL TV ᴿᴬᵂ
+,TY: RUNTIME ᴿᴬᵂ
+Runtime Acción,TY: RUNTIME ACCIÓN ᴿᴬᵂ
+RunTime Clásicos,TY: RUNTIME CLÁSICOS ᴿᴬᵂ
+Runtime Comedia,TY: RUNTIME COMEDIA ᴿᴬᵂ
+Runtime Crimen,TY: RUNTIME CRIMEN ᴿᴬᵂ
+Runtime Romance,TY: RUNTIME ROMANCE ᴿᴬᵂ
+Runtime Thriller-Terror,TY: RUNTIME THRILLER + TERROR ᴿᴬᵂ
+,TY: SIC INTERNACIONAL ᴿᴬᵂ
+Telesur HD,TY: TELESUR ᴿᴬᵂ
+,TY: TEST 2 INTERCOMERCAL TV ᴿᴬᵂ
+,TY: TEST 6 VIVIR CON GATOS ᴿᴬᵂ
+,TY: TEVE.CAT ᴿᴬᵂ
+TV Melilla,TY: TV MELILLA ᴿᴬᵂ
+,TY: VIVA RTV ᴿᴬᵂ
+Vivir con gatos,TY: VIVIR CON GATOS ᴿᴬᵂ
+Vivir con perros,TY: VIVIR CON PERROS ᴿᴬᵂ
+,TY: ALCARRIA TV ᴿᴬᵂ
+Aragón TV,TY: ARAGÓN TV INT ᴿᴬᵂ
+,TY: ARIRANG INTERNACIONAL ᴿᴬᵂ
+,#### ES| TDT ESPAÑA VIP ᴴᴰ ####
+24 Horas,ES: 24H TVE ᴴᴰ
+La 1 HD,ES: LA 1 ᴴᴰ
+La 2,ES: LA 2 ᴴᴰ
+Antena 3 HD,ES: ANTENA 3 ᴴᴰ
+Cuatro HD,ES: CUATRO ᴴᴰ
+Telecinco HD,ES: TELECINCO ᴴᴰ
+La Sexta HD,ES: LA SEXTA ᴴᴰ
+Real Madrid TV,ES: REAL MADRID TV ᴴᴰ
+ETB2,ES: ETB 2 ᴴᴰ
+Canal Sur Andalucía,ES: CANAL SUR ANDALUCIA 2 ᴴᴰ
+La Otra,ES: LA OTRA ᴴᴰ
+TRECE,ES: TRECE TV ᴴᴰ
+CMM TV,ES: CMM ᴴᴰ
 Negocios TV,ES: NEGOCIOS TV ᴴᴰ
 DBike,ES: DBIKE ᴴᴰ
+PTV Granada,ES: PTV GRANADA ᴴᴰ
+PTV Córdoba,ES: PTV CORDOBA ᴴᴰ
+,#### ES| TDT ESPAÑA VIP SD ####
+La 1 HD,ES: LA 1 SD
+La 2,ES: LA 2 SD
+Antena 3 HD,ES: ANTENA 3 SD
+Cuatro HD,ES: CUATRO SD
+Telecinco HD,ES: TELECINCO SD
+La Sexta HD,ES: LA SEXTA SD
+Real Madrid TV,ES: REAL MADRID TV SD
+Canal Sur Andalucía,ES: CANAL SUR ANDALUCIA SD
+Aragón TV,ES: ARAGON TV INT SD
+Cazavisión,ES: CUBAVISION SD
+La Otra,ES: LA OTRA SD
+TRECE,ES: TRECE TV SD
+TV3 Catalunya,ES: TV3 CATALUÑA SD
+CMM TV,ES: CMM SD
 DBike,ES: DBIKE SD
-DBike,ES: DBIKE ᵁᴴᴰ
-DBike,M+: DBIKE ᴿᴬᵂ
+PTV Granada,ES: PTV GRANADA SD
+PTV Córdoba,ES: PTV CORDOBA SD
+,#### ES| TDT ESPAÑA VIP ᵁᴴᴰ ####
+24 Horas,ES: 24H TVE ᵁᴴᴰ
+La 1 HD,ES: LA 1 ᵁᴴᴰ
+La 2,ES: LA 2 ᵁᴴᴰ
+Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
+Cuatro HD,ES: CUATRO ᵁᴴᴰ
+Telecinco HD,ES: TELECINCO ᵁᴴᴰ
+La Sexta HD,ES: LA SEXTA ᵁᴴᴰ
+Telemadrid,ES: TELE MADRID ᵁᴴᴰ
+Real Madrid TV,ES: REAL MADRID TV ᵁᴴᴰ
+UBEAT,ES: U-BEAT ᵁᴴᴰ
+Canal Sur HD,ES: CANAL SUR ᵁᴴᴰ
 Canal Extremadura SAT,ES: EXTREMADURA SAT ᵁᴴᴰ
-Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ 3840P
-Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ
-Canal Cocina,ES: CANAL COCINA ᴴᴰ
-Canal Cocina,ES: CANAL COCINA SD
-Decasa,ES: CANAL DECASA ᵁᴴᴰ 3840P
-Decasa,ES: CANAL DECASA ᵁᴴᴰ
-Decasa,ES: CANAL DECASA ᴴᴰ
-Decasa,ES: CANAL DECASA SD
-Iberalia TV,ES: IBERALIA TV ᵁᴴᴰ
+La Otra,ES: LA OTRA ᵁᴴᴰ
+TRECE,ES: TRECE TV ᵁᴴᴰ
+CMM TV,ES: CMM ᵁᴴᴰ
+CNN en Español,ES: DW EN ESPAÑOL ᵁᴴᴰ
+France 24,ES: FRANCE 24 ES ᵁᴴᴰ
+,ES: EL PAIS TV ᵁᴴᴰ
+,ES: EL CONFEDENCIAL TV ᵁᴴᴰ
+DBike,ES: DBIKE ᵁᴴᴰ
+PTV Granada,ES: PTV GRANADA ᵁᴴᴰ
+PTV Córdoba,ES: PTV CORDOBA ᵁᴴᴰ
 Iberalia TV,ES: IBERALIA TV ᴴᴰ
-Iberalia TV,ES: IBERALIA TV SD
-Iberalia TV,M+: IBERALIA ᴿᴬᵂ
-Iberalia caza,ES: IBERALIA CAZA ᵁᴴᴰ
 Iberalia caza,ES: IBERALIA CAZA ᴴᴰ
-Iberalia caza,M+: IBERALIA CAZA ᴿᴬᵂ
+Iberalia pesca,ES: IBERALIA PESCA ᴴᴰ
+Caza y Pesca HD,ES: CAZA Y PESCA ᴴᴰ
+Cazavisión,ES: CAZAVISION ᴴᴰ
+Canal Cocina,ES: CANAL COCINA ᴴᴰ
+Iberalia TV,ES: IBERALIA TV SD
 Iberalia caza,ES: IBERALIA CAZA SD
 Iberalia pesca,ES: IBERALIA PESCA SD
-Iberalia pesca,ES: IBERALIA PESCA ᵁᴴᴰ
-Iberalia pesca,ES: IBERALIA PESCA ᴴᴰ
-Iberalia pesca,M+: IBERALIA PESCA ᴿᴬᵂ
-Caza y Pesca HD,ES: CAZA Y PESCA ᵁᴴᴰ
-Caza y Pesca HD,ES: CAZA Y PESCA ᴴᴰ
 Caza y Pesca HD,ES: CAZA Y PESCA SD
-Cazavisión,ES: CAZAVISION ᴴᴰ
 Cazavisión,ES: CAZAVISION SD
+Canal Cocina,ES: CANAL COCINA SD
+Iberalia TV,ES: IBERALIA TV ᵁᴴᴰ
+Iberalia caza,ES: IBERALIA CAZA ᵁᴴᴰ
+Iberalia pesca,ES: IBERALIA PESCA ᵁᴴᴰ
+Caza y Pesca HD,ES: CAZA Y PESCA ᵁᴴᴰ
 Cazavisión,ES: CAZAVISION ᵁᴴᴰ
-Cazavisión,M+: CAZAVISION ᴿᴬᵂ
-M+ Acción HD,ES: MOVISTAR ACCION ᵁᴴᴰ
+Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ
+,##### ES| M+ CINE VIP ᴴᴰ #####
 M+ Acción HD,ES: MOVISTAR ACCION ᴴᴰ
-M+ Acción HD,ES: MOVISTAR ACCION SD
-M+ Comedia HD,ES: MOVISTAR COMEDIA ᵁᴴᴰ
-M+ Comedia HD,ES: MOVISTAR COMEDIA ᴴᴰ
-M+ Comedia HD,ES: MOVISTAR COMEDIA SD
-M+ Drama HD,ES: MOVISTAR DRAMA ᵁᴴᴰ
 M+ Drama HD,ES: MOVISTAR DRAMA ᴴᴰ
-M+ Drama HD,ES: MOVISTAR DRAMA SD
-M+ Clásicos HD,ES: MOVISTAR CLASICOS ᵁᴴᴰ
+M+ Comedia HD,ES: MOVISTAR COMEDIA ᴴᴰ
+M+ Originales HD,ES: MOVISTAR ORIGINALES ᴴᴰ
 M+ Clásicos HD,ES: MOVISTAR CLASICOS ᴴᴰ
-M+ Clásicos HD,ES: MOVISTAR CLASICOS SD
-M+ Estrenos HD,ES: MOVISTAR ESTRENOSE ᵁᴴᴰ
 M+ Estrenos HD,ES: MOVISTAR ESTRENOS ᴴᴰ
-M+ Estrenos HD,ES: MOVISTAR ESTRENOS SD
-M+ Cine Español,ES: MOVISTAR CINE ESPAÑOL ᵁᴴᴰ
 M+ Cine Español,ES: MOVISTAR CINE ESPAÑOL  ᴴᴰ
-M+ Cine Español,ES: MOVISTAR CINE ESPAÑOL SD
-M+ Los Goya,ES: MOVISTAR LOS GOYA ᵁᴴᴰ
-M+ Los Goya,ES: MOVISTAR LOS GOYA ᴴᴰ
-M+ Los Goya,ES: MOVISTAR LOS GOYA SD
-M+ Navidad,M+ BBC EARTH
-M+ Indie HD,ES: MOVISTAR INDIE ᵁᴴᴰ
+M+ Oscars,ES: MOVISTAR EN JUEGO ᴴᴰ
 M+ Indie HD,ES: MOVISTAR INDIE ᴴᴰ
-M+ Indie HD,ES: MOVISTAR INDIE SD
-Paramount Network,ES: PARAMOUNT CHANNEL ᵁᴴᴰ
-Paramount Network,ES: PARAMOUNT CHANNEL SD
+SkyShowtime,ES: SKY SHOW TIME ᴴᴰ
 BOM Cine,ES: BOM CINE ᴴᴰ
-BOM Cine,M+: BOM CINE ᴿᴬᵂ
-Squirrel TV,M+: SQUIRREL ᴿᴬᵂ
-STAR Channel HD,ES: STAR CHANNEL (FOX) ᵁᴴᴰ
-STAR Channel HD,ES: STAR CHANNEL (FOX) ᴴᴰ
-STAR Channel HD,ES: STAR CHANNEL (FOX) SD
-AXN HD,ES: AXN ᵁᴴᴰ
 AXN HD,ES: AXN ᴴᴰ
-AXN HD,ES: AXN SD
-Warner TV HD,ES: WARNER TV ᵁᴴᴰ
 Warner TV HD,ES: WARNER TV ᴴᴰ
-Warner TV HD,ES: WARNER TV SD
-Comedy Central HD,ES: COMEDY CENTRAL ᵁᴴᴰ
 Comedy Central HD,ES: COMEDY CENTRAL ᴴᴰ
-Comedy Central HD,ES: COMEDY CENTRAL SD
-Calle 13 HD,ES: CALLE 13 ᵁᴴᴰ
 Calle 13 HD,ES: CALLE 13 ᴴᴰ
-Calle 13 HD,ES: CALLE 13 SD
-DARK,ES: DARK ᵁᴴᴰ
+Canal FlixOlé 1,ES: CANAL FLIXOLé 1 ᴴᴰ
+Canal FlixOlé 2,ES: CANAL FLIXOLé 2 ᴴᴰ
 DARK,ES: DARK ᴴᴰ
-DARK,ES: DARK SD
-XTRM,ES: XTRM ᵁᴴᴰ
 XTRM,ES: XTRM ᴴᴰ
-XTRM,ES: XTRM SD
-Somos,ES: SOMOS ᵁᴴᴰ
 Somos,ES: SOMOS ᴴᴰ
-Somos,ES: SOMOS SD
-AXN Movies HD,ES: AXN MOVIES ᵁᴴᴰ
 AXN Movies HD,ES: AXN MOVIES ᴴᴰ
-AXN Movies HD,ES: AXN MOVIES SD
-AMC HD,ES: AMC ᵁᴴᴰ
+Cosmo HD,ES: COSMO ᴴᴰ
 AMC HD,ES: AMC ᴴᴰ
+TCM HD,ES: TCM ᴴᴰ
+Sundance TV,ES: SUNDANCE TV ᴴᴰ
+Canal Hollywood HD,ES: HOLLYWOOD ᴴᴰ
+BBC Series,ES: BBC SERIES ᴴᴰ
+Veo7,ES: VEO7 ᴴᴰ
+,##### ES| M+ CINE VIP SD #####
+M+ Acción HD,ES: MOVISTAR ACCION SD
+M+ Comedia HD,ES: MOVISTAR COMEDIA SD
+M+ Drama HD,ES: MOVISTAR DRAMA SD
+M+ Originales HD,ES: MOVISTAR ORIGINALES SD
+M+ Clásicos HD,ES: MOVISTAR CLASICOS SD
+M+ Estrenos HD,ES: MOVISTAR ESTRENOS SD
+M+ Indie HD,ES: MOVISTAR INDIE SD
+Squirrel 2,ES: PARAMOUNT CHANNEL SD
+AXN HD,ES: AXN SD
+Warner TV HD,ES: WARNER TV SD
+Comedy Central HD,ES: COMEDY CENTRAL SD
+Calle 13 HD,ES: CALLE 13 SD
+Canal FlixOlé 1,ES: CANAL FLIXOLé 1 SD
+Canal FlixOlé 2,ES: CANAL FLIXOLé 2 SD
+DARK,ES: DARK SD
+XTRM,ES: XTRM SD
+Somos,ES: SOMOS SD
+AXN Movies HD,ES: AXN MOVIES SD
+Cosmo HD,ES: COSMO SD
 AMC HD,ES: AMC SD
+Veo7,ES: VEO7 SD
+TCM HD,ES: TCM SD
+Canal Hollywood HD,ES: HOLLYWOOD SD
+Sundance TV,ES: SUNDANCE TV SD
+BBC Series,ES: BBC SERIES SD
+M+ Oscars,ES: MOVISTAR EN JUEGO SD
+,##### ES| M+ CINE VIP ᵁᴴᴰ #####
+M+ Acción HD,ES: MOVISTAR ACCION ᵁᴴᴰ
+M+ Comedia HD,ES: MOVISTAR COMEDIA ᵁᴴᴰ
+M+ Drama HD,ES: MOVISTAR DRAMA ᵁᴴᴰ
+M+ Originales HD,ES: MOVISTAR ORIGINALES ᵁᴴᴰ
+M+ Clásicos HD,ES: MOVISTAR CLASICOS ᵁᴴᴰ
+M+ Cine Español,ES: MOVISTAR CINE ESPAÑOL ᵁᴴᴰ
+M+ Indie HD,ES: MOVISTAR INDIE ᵁᴴᴰ
+Squirrel 2,ES: PARAMOUNT CHANNEL ᵁᴴᴰ
+M+ Estrenos HD,ES: MOVISTAR ESTRENOS ᵁᴴᴰ
+SkyShowtime,ES: SKY SHOW TIME ᵁᴴᴰ
+STAR Channel HD,ES: STAR CHANNEL (FOX) ᵁᴴᴰ
+AXN HD,ES: AXN ᵁᴴᴰ
+Warner TV HD,ES: WARNER TV ᵁᴴᴰ
+Comedy Central HD,ES: COMEDY CENTRAL ᵁᴴᴰ
+Calle 13 HD,ES: CALLE 13 ᵁᴴᴰ
+Canal FlixOlé 1,ES: CANAL FLIXOLé 1 ᵁᴴᴰ
+Canal FlixOlé 2,ES: CANAL FLIXOLé 2 ᵁᴴᴰ
+DARK,ES: DARK ᵁᴴᴰ
+XTRM,ES: XTRM ᵁᴴᴰ
+Somos,ES: SOMOS ᵁᴴᴰ
+AXN Movies HD,ES: AXN MOVIES ᵁᴴᴰ
+Cosmo HD,ES: COSMO ᵁᴴᴰ
+BBC Series,ES: BBC SERIES ᵁᴴᴰ
+SyFy HD,ES: SYFY ᵁᴴᴰ VOS
 SyFy HD,ES: SYFY ᵁᴴᴰ
 TCM HD,ES: TCM ᵁᴴᴰ
-TCM HD,ES: TCM ᴴᴰ
-TCM HD,ES: TCM SD
-Cosmo HD,ES: COSMO ᴴᴰ
-Cosmo HD,ES: COSMO SD
-Cosmo HD,ES: COSMO ᵁᴴᴰ
+Veo7,ES: VEO7 ᵁᴴᴰ
 Canal Hollywood HD,ES: HOLLYWOOD ᵁᴴᴰ
-Canal Hollywood HD,ES: HOLLYWOOD ᴴᴰ
-Canal Hollywood HD,ES: HOLLYWOOD SD
 Sundance TV,ES: SUNDANCE TV ᵁᴴᴰ
-Sundance TV,ES: SUNDANCE TV ᴴᴰ
-Sundance TV,ES: SUNDANCE TV SD
-SkyShowtime,ES: SKY SHOWTIME 1 ᴴᴰ
-SkyShowtime,ES: SKY SHOWTIME 1 ᴿᴬᵂ
-Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᵁᴴᴰ
+M+ Oscars,ES: MOVISTAR EN JUEGO ᵁᴴᴰ
+,#### ES| MOVISTAR PLUS+ VIP ᴴᴰ ####
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᴴᴰ
-Movistar Plus+ HD,ES: MOVISTAR PLUS+ SD
-Movistar Plus+ 2 HD,ES: MOVISTAR PLUS+ 2 ᵁᴴᴰ
-Movistar Plus+ 2 HD,ES: MOVISTAR PLUS+ 2 ᴴᴰ
-Movistar Plus+ 2 HD,ES: MOVISTAR PLUS+ 2 SD
-M+ Hits HD,ES: MOVISTAR HIT ᵁᴴᴰ
+Movistar Plus+ HD,ES: MOVISTAR PLUS+ 2 ᴴᴰ
 M+ Hits HD,ES: MOVISTAR HITS ᴴᴰ
-M+ Hits HD,ES: MOVISTAR HITS SD
-M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᵁᴴᴰ
 M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᴴᴰ
+,#### ES| MOVISTAR PLUS+ VIP SD ####
+Movistar Plus+ HD,ES: MOVISTAR PLUS+ SD
+Movistar Plus+ HD,ES: MOVISTAR PLUS+ 2 SD
+M+ Hits HD,ES: MOVISTAR HITS SD
 M+ Documentales HD,ES: MOVISTAR DOCUMENTALES SD
-M+ Originales HD,ES: MOVISTAR ORIGINALES ᴴᴰ
-M+ Originales HD,ES: MOVISTAR ORIGINALES SD
-M+ Originales HD,ES: MOVISTAR ORIGINALES ᵁᴴᴰ
-La Resistencia 24H,ES: MOVISTAR LA RESISTENCIA ᴴᴰ
-La Resistencia 24H,ES: MOVISTAR LA RESISTENCIA SD
-Atreseries,ES: A3SERIES ᵁᴴᴰ
+,#### ES| MOVISTAR PLUS+ VIP ᵁᴴᴰ ####
+Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᵁᴴᴰ
+Movistar Plus+ HD,ES: MOVISTAR PLUS+ 2 ᵁᴴᴰ
+M+ Hits HD,ES: MOVISTAR HITS ᵁᴴᴰ
+M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᵁᴴᴰ
+,#### TDT SERIES VIP ᴴᴰ ####
 Atreseries,ES: A3SERIES ᴴᴰ
-Atreseries,ES: A3SERIES SD
-Atreseries,M+: A3 SERIES ᴿᴬᵂ
-Mega,ES: MEGA ᵁᴴᴰ
 Mega,ES: MEGA ᴴᴰ
-Mega,ES: MEGA SD
-Mega,M+: MEGA ᴿᴬᵂ
-Neox,ES: NEOX ᵁᴴᴰ
 Neox,ES: NEOX ᴴᴰ
-Neox,ES: NEOX SD
-Neox,M+: NEOX ᴿᴬᵂ
 Nova,ES: NOVA ᴴᴰ
-Nova,ES: NOVA SD
-Nova,ES: NOVA ᵁᴴᴰ
-Nova,M+: NOVA ᴿᴬᵂ
-Be Mad,ES: BEMAD ᵁᴴᴰ
 Be Mad,ES: BEMAD ᴴᴰ
-Be Mad,ES: BEMAD SD
-Be Mad,M+: BE MAD ᴿᴬᵂ
-Factoría de Ficción,ES: FDF ᵁᴴᴰ
-Factoría de Ficción,ES: FDF ᴴᴰ
-Factoría de Ficción,ES: FDF SD
-Factoría de Ficción,M+: FDF ᴿᴬᵂ
-Energy,ES: ENERGY ᵁᴴᴰ
 Energy,ES: ENERGY ᴴᴰ
-Energy,ES: ENERGY SD
-Energy,M+: ENERGY ᴿᴬᵂ
-Divinity,ES: DIVINITY ᵁᴴᴰ
 Divinity,ES: DIVINITY ᴴᴰ
+TVG,ES: TV GALICIA ᴴᴰ
+,#### TDT SERIES VIP SD ####
+Atreseries,ES: A3SERIES SD
+Mega,ES: MEGA SD
+Neox,ES: NEOX SD
+Nova,ES: NOVA SD
+Be Mad,ES: BEMAD SD
+Energy,ES: ENERGY SD
 Divinity,ES: DIVINITY SD
-Divinity,M+: DIVINITY ᴿᴬᵂ
-Ten,ES: TEN ᵁᴴᴰ
 Ten,ES: TEN SD
-Ten,M+: TEN ᴿᴬᵂ
-DKISS,ES: DKISS ᵁᴴᴰ
 DKISS,ES: DKISS SD
-DKISS,M+: DKISS ᴿᴬᵂ
-M+ Copa del Rey,ES: COPA DEL REY HD
-M+ Copa del Rey,ES: COPA DEL REY 4K
-M+ Copa del Rey,ES: COPA DEL REY SD
-M+ LaLiga HDR,ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ
-M+ LaLiga HD,ES: MOVISTAR LA LIGA ᵁᴴᴰ
-M+ LaLiga HD,ES: MOVISTAR LA LIGA ᴴᴰ
-M+ LaLiga HD,ES: MOVISTAR LA LIGA ʰᵉᵛᶜ
-M+ LaLiga HD,ES: MOVISTAR LA LIGA SD
-M+ LaLiga 2 HDR,
-M+ LaLiga 2 HD,ES: MOVISTAR LA LIGA 2 ᵁᴴᴰ (SOLO EVENTOS)
-M+ LaLiga 2 HD,ES: MOVISTAR LA LIGA 2 SD (SOLO EVENTOS)
-M+ LaLiga 3 HD,ES: M+ LALIGA TV 3 ᵁᴴᴰ
-M+ LaLiga 4,ES: M+ LALIGA TV 4 SD
-M+ LaLiga 5,ES: M+ LALIGA TV 5 SD
-M+ LaLiga 6,ES: M+ LALIGA TV 6 SD
-LaLiga TV BAR HD,ES: LALIGA TV BAR ᵁᴴᴰ
-LALIGA Inside,M+: LALIGA INSIDE ᴿᴬᵂ
-LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᵁᴴᴰ
+,#### TDT SERIES VIP ᵁᴴᴰ ####
+Atreseries,ES: A3SERIES ᵁᴴᴰ
+Mega,ES: MEGA ᵁᴴᴰ
+Neox,ES: NEOX ᵁᴴᴰ
+Nova,ES: NOVA ᵁᴴᴰ
+Be Mad,ES: BEMAD ᵁᴴᴰ
+Energy,ES: ENERGY ᵁᴴᴰ
+Divinity,ES: DIVINITY ᵁᴴᴰ
+Ten,ES: TEN ᵁᴴᴰ
+DKISS,ES: DKISS ᵁᴴᴰ
+,##### 24/7 ESPAÑA #####
+,ES: NETFLIX ACCIÓN ᴿᴬᵂ
+,ES: NETFLIX COMEDIA ᴿᴬᵂ
+,ES: NETFLIX FAMILIA ᴿᴬᵂ
+,ES: NETFLIX ROMANCE ᴿᴬᵂ
+,ES: NETFLIX THRILLER ᴿᴬᵂ
+Alquiler 1,ES: ALQUILER 1 ᴿᴬᵂ
+Alquiler 1,ES: ALQUILER 2 ᴿᴬᵂ
+,ES: NETFLIX DRAMA ᴿᴬᵂ
+,ES: NETFLIX ESPAÑOL ᴿᴬᵂ
+,ES: NETFLIX HISTORIA ᴿᴬᵂ
+,ES: NETFLIX PELÍCULAS ᴿᴬᵂ
+,ES: NETFLIX TELEVISION ᴿᴬᵂ
+,##### NETFLIX ESTRENOS ᴿᴬᵂ #####
+,ES: NETFLIX ESTRENOS 1 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 2 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 3 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 4 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 5 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 6 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 7 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 8 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 9 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 10 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 11 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 12 ᴿᴬᵂ
+,ES: NETFLIX ESTRENOS 13 ᴿᴬᵂ
+,##### NETFLIX SERIES ᴿᴬᵂ #####
+,ES: NETFLIX SERIES INFO ᴿᴬᵂ
+,ES: NETFLIX SERIES 1 ᴿᴬᵂ
+,ES: NETFLIX SERIES 2 ᴿᴬᵂ
+,ES: NETFLIX SERIES 3 ᴿᴬᵂ
+,ES: NETFLIX SERIES 4 ᴿᴬᵂ
+,ES: NETFLIX SERIES 5 ᴿᴬᵂ
+,ES: NETFLIX SERIES 6 ᴿᴬᵂ
+,ES: NETFLIX SERIES 7 ᴿᴬᵂ
+,ES: NETFLIX SERIES 8 ᴿᴬᵂ
+,ES: NETFLIX SERIES 9 ᴿᴬᵂ
+,ES: NETFLIX SERIES 10 ᴿᴬᵂ
+,### MOVISTAR+ ESTRENOS ᴿᴬᵂ ###
+,ES: ESTRENOS M+ INFO ᴿᴬᵂ
+,ES: ESTRENOS M+ 1 ᴿᴬᵂ
+,ES: ESTRENOS M+ 2 ᴿᴬᵂ
+,ES: ESTRENOS M+ 3 ᴿᴬᵂ
+,ES: ESTRENOS M+ 4 ᴿᴬᵂ
+,ES: ESTRENOS M+ 5 ᴿᴬᵂ
+,ES: ESTRENOS M+ 6 ᴿᴬᵂ
+,ES: ESTRENOS M+ 7 ᴿᴬᵂ
+,ES: ESTRENOS M+ 8 ᴿᴬᵂ
+,ES: ESTRENOS M+ 9 ᴿᴬᵂ
+,ES: ESTRENOS M+ 10 ᴿᴬᵂ
+,ES: ESTRENOS M+ 11 ᴿᴬᵂ
+,ES: ESTRENOS M+ 12 ᴿᴬᵂ
+,ES: ESTRENOS M+ 13 ᴿᴬᵂ
+,ES: ESTRENOS M+ 14 ᴿᴬᵂ
+,ES: ESTRENOS M+ 15 ᴿᴬᵂ
+,ES: ESTRENOS M+ 16 ᴿᴬᵂ
+,ES: ESTRENOS M+ 17 ᴿᴬᵂ
+,ES: ESTRENOS M+ 19 ᴿᴬᵂ
+,### MOVISTAR+ SERIES ᴿᴬᵂ ###
+,ES: M+ SERIES INFO ᴿᴬᵂ
+,ES: M+ SERIES 1 ᴿᴬᵂ
+,ES: M+ SERIES 2 ᴿᴬᵂ
+,ES: M+ SERIES 3 ᴿᴬᵂ
+,ES: M+ SERIES 4 ᴿᴬᵂ
+,ES: M+ SERIES 5 ᴿᴬᵂ
+,ES: M+ SERIES 6 ᴿᴬᵂ
+,ES: M+ SERIES 7 ᴿᴬᵂ
+,ES: M+ SERIES 8 ᴿᴬᵂ
+,ES: M+ SERIES 9 ᴿᴬᵂ
+,ES: M+ SERIES 10 ᴿᴬᵂ
+,#### RAKUTEN TV ᴿᴬᵂ ####
+Acción (Rakuten TV),ES: RAKUTEN TV ACCION ᴿᴬᵂ
+Cine Español (Rakuten TV),ES: RAKUTEN TV CINE ESPANOL ᴿᴬᵂ
+Crimen (Rakuten TV),ES: RAKUTEN TV CRIME SERIES ᴿᴬᵂ
+Películas Románticas (Rakuten TV),ES: RAKUTEN TV ROMANCE MOVIES ᴿᴬᵂ
+Thrillers (Rakuten TV),ES: RAKUTEN TV THRILLER MOVIES ᴿᴬᵂ
+Pelis Top (Rakuten TV),ES: RAKUTEN TV TOP MOVIES ᴿᴬᵂ
+Clan,ES: CLAN TVE ᴴᴰ
+Dreamworks HD,ES: DREAMWORKS ᴴᴰ
+Nickelodeon HD,ES: NICKELODEON ᴴᴰ
+Nick JR,ES: NICK JUNIOR ᴴᴰ
+Clan,ES: CLAN TVE SD
+Boing,ES: BOING SD
+Dreamworks HD,ES: DREAMWORKS SD
+Nickelodeon HD,ES: NICKELODEON SD
+Disney Junior,ES: DISNEY JUNIOR SD
+Nick JR,ES: NICK JUNIOR SD
+Baby TV,ES: BABY TV SD
+Clan,ES: CLAN TVE ᵁᴴᴰ
+Boing,ES: BOING ᵁᴴᴰ
+Dreamworks HD,ES: DREAMWORKS ᵁᴴᴰ
+Nickelodeon HD,ES: NICKELODEON ᵁᴴᴰ
+Nick JR,ES: NICK JUNIOR ᵁᴴᴰ
+,#### ES| M+ LALIGA VIP ᴴᴰ ####
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᴴᴰ
-LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION SD
-LaLiga TV Hypermotion HD,M+: LALIGA TV HYPERMOTION ᴿᴬᵂ
-LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2 ᵁᴴᴰ
-LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2 SD
-LaLiga TV Hypermotion 2,M+: LALIGA HYPERMOTION TV M2 ᴿᴬᵂ
-LaLiga TV Hypermotion 3,ES: LALIGA TV HYPERMOTION 3 ᵁᴴᴰ
+M+ LaLiga HD,ES: MOVISTAR LA LIGA ᴴᴰ
 LaLiga TV Hypermotion 3,ES: LALIGA TV HYPERMOTION 3 ᴴᴰ
-LaLiga TV Hypermotion 3,M+: LALIGA TV HYPERMOTION M3 ᴿᴬᵂ
-LaLiga TV Hypermotion 4,LALIGA TV HYPERMOTION 4 ᵁᴴᴰ
-LaLiga TV Hypermotion 5,LALIGA TV HYPERMOTION 5 ᵁᴴᴰ
-LaLiga TV Hypermotion 6,LALIGA TV HYPERMOTION 6 ᵁᴴᴰ
-LaLiga TV Hypermotion 7,LALIGA TV HYPERMOTION 7 ᵁᴴᴰ
-M+ Liga de Campeones HDR,
-M+ Liga de Campeones 2 HDR,
+,#### ES| M+ LALIGA VIP SD ####
+M+ LaLiga HD,ES: MOVISTAR LA LIGA SD
+LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION SD
+LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2 SD
+,#### ES| M+ LALIGA VIP ᵁᴴᴰ ####
+M+ LaLiga HD,ES: MOVISTAR LA LIGA ʰᵉᵛᶜ
+M+ LaLiga HD,ES: MOVISTAR LA LIGA ᵁᴴᴰ
+M+ LaLiga HD,ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ
+M+ LaLiga 3,ES: M+ LALIGA TV 3 ᵁᴴᴰ
+LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᵁᴴᴰ
+LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2 ᵁᴴᴰ
+LaLiga TV Hypermotion 3,ES: LALIGA TV HYPERMOTION 3 ᵁᴴᴰ
+LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 4 ᵁᴴᴰ
+LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 5 ᵁᴴᴰ
+LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 6 ᵁᴴᴰ
+LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 7 ᵁᴴᴰ
+,####### VIX PPV ⁸ᴷ #######
+,##### VIX PPV #####
+,### M. LIGA DE CAMPEONES ᴴᴰ ###
 M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᴴᴰ
 M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴴᴰ
+,### M. LIGA DE CAMPEONES ᴸᴼᵂ ###
 M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᴸᴼᵂ
 M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴸᴼᵂ
+,### M. LIGA DE CAMPEONES SD ###
 M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 SD
 M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 SD
+,### M. LIGA DE CAMPEONES ᴴᴰ ###
 M+ Liga de Campeones 3 HD,ES: M. LIGA DE CAMPEONES 3 ᴴᴰ
 M+ Liga de Campeones 4,ES: M. LIGA DE CAMPEONES 4 ᴴᴰ
 M+ Liga de Campeones 5,ES: M. LIGA DE CAMPEONES 5 ᴴᴰ
@@ -283,209 +937,351 @@ M+ Liga de Campeones 16,ES: M. LIGA DE CAMPEONES 16 ᴴᴰ
 M+ Liga de Campeones 17,ES: M. LIGA DE CAMPEONES 17 ᴴᴰ
 M+ Liga de Campeones 18,ES: M. LIGA DE CAMPEONES 18 ᴴᴰ
 M+ Liga de Campeones 19,ES: M. LIGA DE CAMPEONES 19 ᴴᴰ
-M+ Liga de Campeones HDR,
+,### M. LIGA DE CAMPEONES ᵁᴴᴰ ###
 M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᵁᴴᴰ
+,### M. LIGA DE CAMPEONES ʰᵉᵛᶜ ###
 M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ʰᵉᵛᶜ
+,### M. LIGA DE CAMPEONES ᴿᴬᵂ ###
 M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᴿᴬᵂ
-M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴿᴬᵂ
-M+ Liga de Campeones 2 HDR,
+M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴿᴬᵂ 
 M+ Liga de Campeones 3 HD,ES: M. LIGA DE CAMPEONES 3 ᴿᴬᵂ
 M+ Liga de Campeones 4,ES: M. LIGA DE CAMPEONES 4 ᴿᴬᵂ
 M+ Liga de Campeones 5,ES: M. LIGA DE CAMPEONES 5 ᴿᴬᵂ
-DAZN LaLiga HD,ES: DAZN LALIGA ᴿᴬᵂ
-DAZN LaLiga HD,ES: DAZN LALIGA ᴴᴰ
-DAZN LaLiga HD,ES: DAZN LA LIGA ʰᵉᵛᶜ
-DAZN LaLiga HD,ES: DAZN LA LIGA ᵁᴴᴰ
-DAZN LaLiga HD,ES: DAZN LA LIGA ᴴᴰ
-DAZN LaLiga HD,ES: DAZN LA LIGA SD
-DAZN LaLiga HD,ES: DAZN LALIGA SD
-DAZN LaLiga 2 HD,ES: DAZN LA LIGA 2 ᵁᴴᴰ
-DAZN LaLiga 2 HD,ES: DAZN LA LIGA 2 ᴴᴰ
-DAZN LaLiga 2 HD,ES: DAZN LA LIGA 2 SD
-ES: DAZN LALIGA 3 SD
-ES: DAZN LALIGA 4 SD
-ES: DAZN LALIGA 5 SD
-DAZN F1 HD,ES: DAZN F1® ᴿᴬᵂ
+,### M. LIGA DE CAMPEONES ᴴᴰ/ᴿᴬᵂ ###
+M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones HD,ES: M. LIGA DE CAMPEONES 1 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 2 HD,ES: M. LIGA DE CAMPEONES 2 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 3 HD,ES: M. LIGA DE CAMPEONES 3 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 3 HD,ES: M. LIGA DE CAMPEONES 3 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 4,ES: M. LIGA DE CAMPEONES 4 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 4,ES: M. LIGA DE CAMPEONES 4 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 5,ES: M. LIGA DE CAMPEONES 5 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 5,ES: M. LIGA DE CAMPEONES 5 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 6,ES: M. LIGA DE CAMPEONES 6 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 6,ES: M. LIGA DE CAMPEONES 6 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 7,ES: M. LIGA DE CAMPEONES 7 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 7,ES: M. LIGA DE CAMPEONES 7 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 8,ES: M. LIGA DE CAMPEONES 8 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 8,ES: M. LIGA DE CAMPEONES 8 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 9,ES: M. LIGA DE CAMPEONES 9 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 9,ES: M. LIGA DE CAMPEONES 9 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 10,ES: M. LIGA DE CAMPEONES 10 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 10,ES: M. LIGA DE CAMPEONES 10 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 11,ES: M. LIGA DE CAMPEONES 11 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 11,ES: M. LIGA DE CAMPEONES 11 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 12,ES: M. LIGA DE CAMPEONES 12 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 12,ES: M. LIGA DE CAMPEONES 12 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 13,ES: M. LIGA DE CAMPEONES 13 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 13,ES: M. LIGA DE CAMPEONES 13 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 14,ES: M. LIGA DE CAMPEONES 14 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 14,ES: M. LIGA DE CAMPEONES 14 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 15,ES: M. LIGA DE CAMPEONES 15 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 15,ES: M. LIGA DE CAMPEONES 15 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 16,ES: M. LIGA DE CAMPEONES 16 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 16,ES: M. LIGA DE CAMPEONES 16 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 17,ES: M. LIGA DE CAMPEONES 17 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 17,ES: M. LIGA DE CAMPEONES 17 ᴿᴬᵂ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 18,ES: M. LIGA DE CAMPEONES 18 ᴴᴰ ⁽ᴮᴷ⁾
+M+ Liga de Campeones 18,ES: M. LIGA DE CAMPEONES 18 ᴿᴬᵂ ⁽ᴮᴷ⁾
+,ES: LALIGA REPLAY 2 HD
+,ES: LALIGA REPLAY 3 HD
+,ES: LALIGA REPLAY 4 HD
+,ES: LALIGA REPLAY 5 HD
+,ES: LALIGA REPLAY 6 HD
+,ES: LALIGA REPLAY ENGLISH 1 HD
+,ES: LALIGA REPLAY ENGLISH 2 HD
+,#### DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ #####
+DAZN 1 HD,ES: DAZN 1 ᴴᴰ
+DAZN 2 HD,ES: DAZN 2 ᴴᴰ
 DAZN F1 HD,ES: DAZN F1® ᴴᴰ
-DAZN F1 HD,ES: DAZN F1 ʰᵉᵛᶜ
-DAZN F1 HD,ES: DAZN F1 ᵁᴴᴰ
-DAZN F1 HD,ES: DAZN F1 ᴴᴰ
-DAZN F1 HD,ES: DAZN F1 SD
+DAZN LaLiga HD,ES: DAZN LALIGA ᴴᴰ
+DAZN 1 HD,ES: DAZN 1 SD
+DAZN 2 HD,ES: DAZN 2 SD
 DAZN F1 HD,ES: DAZN F1® SD
 DAZN 1 HD,ES: DAZN 1 ᴿᴬᵂ
-DAZN 1 HD,ES:DAZN 1 ᴴᴰ
-DAZN 1 HD,ES: DAZN 1 ᵁᴴᴰ
-DAZN 1 HD,ES: DAZN 1 ᴴᴰ
-DAZN 1 HD,ES: DAZN 1 SD
-DAZN 1 HD,ES: DAZN 1 SD
+DAZN LaLiga HD,ES: DAZN LALIGA SD
 DAZN 2 HD,ES: DAZN 2 ᴿᴬᵂ
-DAZN 2 HD,DAZN 2 ᴴᴰ
-DAZN 2 HD,ES: DAZN 2 ᵁᴴᴰ
+DAZN F1 HD,ES: DAZN F1® ᴿᴬᵂ
+DAZN LaLiga HD,ES: DAZN LALIGA ᴿᴬᵂ
+,#### ES| DAZN LALIGA VIP ᴴᴰ ####
+DAZN LaLiga HD,ES: DAZN LA LIGA ᴴᴰ
+DAZN LaLiga 2 HD,ES: DAZN LA LIGA 2 ᴴᴰ
+,#### ES| DAZN LALIGA VIP SD ####
+DAZN LaLiga HD,ES: DAZN LA LIGA SD
+DAZN LaLiga 2 HD,ES: DAZN LA LIGA 2 SD
+,#### ES| DAZN LALIGA VIP ᵁᴴᴰ ####
+DAZN LaLiga HD,ES: DAZN LA LIGA ʰᵉᵛᶜ
+DAZN LaLiga HD,ES: DAZN LA LIGA ᵁᴴᴰ
+DAZN LaLiga 2 HD,ES: DAZN LA LIGA 2 ᵁᴴᴰ
+,#### DAZN ESPAÑA VIP ᴴᴰ ####
+DAZN F1 HD,ES: DAZN F1 ᴴᴰ
+DAZN MotoGP,ES: DAZN MOTOGP ᴴᴰ
+DAZN 1 HD,ES: DAZN 1 ᴴᴰ
 DAZN 2 HD,ES: DAZN 2 ᴴᴰ
+,#### DAZN ESPAÑA VIP SD ####
+DAZN F1 HD,ES: DAZN F1 SD
+DAZN MotoGP,ES: DAZN MOTOGP SD
+DAZN 1 HD,ES: DAZN 1 SD
 DAZN 2 HD,ES: DAZN 2 SD
-DAZN 2 HD,ES: DAZN 2 SD
-DAZN 3 HD,ES: DAZN 3 ᵁᴴᴰ
 DAZN 3 HD,ES: DAZN 3 SD
-DAZN 4 HD,ES: DAZN 4 ᵁᴴᴰ
 DAZN 4 HD,ES: DAZN 4 SD
+,#### DAZN ESPAÑA VIP ᵁᴴᴰ ####
+DAZN F1 HD,ES: DAZN F1 ʰᵉᵛᶜ
+DAZN F1 HD,ES: DAZN F1 ᵁᴴᴰ
+DAZN MotoGP,ES: DAZN MOTOGP ᵁᴴᴰ
+DAZN 1 HD,ES: DAZN 1 ᵁᴴᴰ
+DAZN 2 HD,ES: DAZN 2 ᵁᴴᴰ
+DAZN 3 HD,ES: DAZN 3 ᵁᴴᴰ
+DAZN 4 HD,ES: DAZN 4 ᵁᴴᴰ
+,####### DAZN PPV ˢᵘᵖᵉʳ #######
+,ES: DAZN PPV 1
+,ES: DAZN PPV 2
+,ES: DAZN PPV 3
+,ES: DAZN PPV 4
+,ES: DAZN PPV 5
+,ES: DAZN PPV 6
+,ES: DAZN PPV 7
+,ES: DAZN PPV 8
+,ES: DAZN PPV 9
+,ES: DAZN PPV 10
+,ES: DAZN PPV 11
+,ES: DAZN PPV 12
+,ES: DAZN PPV 13
+,ES: DAZN PPV 14
+,ES: DAZN PPV 15
+,ES: DAZN PPV 16
+,ES: DAZN PPV 17
+,ES: DAZN PPV 18
+,ES: DAZN PPV 19
+,ES: DAZN PPV 20
+,ES: DAZN PPV 21
+,ES: DAZN PPV 22
+,ES: DAZN PPV 23
+,ES: DAZN PPV 24
+,ES: DAZN PPV 25
+,ES: DAZN PPV 26
+,ES: DAZN PPV 27
+,ES: DAZN PPV 28
+,ES: DAZN PPV 29
+,ES: DAZN PPV 30
+,#### DAZN ACB PPV ####
+DAZN Baloncesto,ES: DAZN BALONCESTO 1 ᴿᴬᵂ
+DAZN Baloncesto 2,ES: DAZN BALONCESTO 2 ᴿᴬᵂ
+DAZN Baloncesto 3,ES: DAZN BALONCESTO 3 ᴿᴬᵂ
+,####### MAX PPV #######
+,:MAX ES  08
+,:MAX ES  09
+,:MAX ES  10
+,:MAX ES  11
+,:MAX ES  12
+,:MAX ES  13
+,:MAX ES  14
+,:MAX ES  15
+,:MAX ES  16
+,:MAX ES  17
+,:MAX ES  18
+,:MAX ES  19
+,:MAX ES  20
+,:MAX ES  21
+,:MAX ES  22
+,:MAX ES  23
+,:MAX ES  24
+,:MAX ES  25
+,:MAX ES  26
+,:MAX ES  27
+,:MAX ES  28
+,:MAX ES  29
+,:MAX ES  30
+,:MAX ES  31
+,:MAX ES  32
+,:MAX ES  33
+,:MAX ES  34
+,:MAX ES  35
+,:MAX ES  36
+,:MAX ES  37
+,:MAX ES  38
+,:MAX ES  39
+,:MAX ES  40
+,:MAX ES  41
+,:MAX ES  42
+,:MAX ES  43
+,:MAX ES  44
+,:MAX ES  45
+,:MAX ES  46
+,:MAX ES  47
+,:MAX ES  48
+,:MAX ES  49
+,:MAX ES  50
+,:MAX ES  51
+,:MAX ES  52
+,:MAX ES  53
+,:MAX ES  54
+,:MAX ES  55
+,:MAX ES  56
+,:MAX ES  57
+,:MAX ES  58
+,:MAX ES  59
+,:MAX ES  60
+,:MAX ES  61
+,:MAX ES  62
+,:MAX ES  63
+,:MAX ES  64
+,:MAX ES  65
+,:MAX ES  66
+,:MAX ES  67
+,:MAX ES  68
+,:MAX ES  69
+,:MAX ES  70
+,:MAX ES  71
+,:MAX ES  72
+,:MAX ES  73
+,:MAX ES  74
+,:MAX ES  75
+,:MAX ES  76
+,:MAX ES  77
+,:MAX ES  78
+,:MAX ES  79
+,:MAX ES  80
+,:MAX ES  81
+,:MAX ES  82
+,:MAX ES  83
+,:MAX ES  84
+,:MAX ES  85
+,:MAX ES  86
+,:MAX ES  87
+,:MAX ES  88
+,:MAX ES  89
+,:MAX ES  90
+,:MAX ES  91
+,:MAX ES  92
+,:MAX ES  93
+,:MAX ES  94
+,:MAX ES  95
+,:MAX ES  96
+,:MAX ES  97
+,:MAX ES  98
+,:MAX ES  99
+,:MAX ES  100
+,#### LALIGA+ PPV VIP ####
+,####### LALIGA+ PPV  #######
+,ES: LALIGA+ ᴴᴰ (LINEAL)
+,ES: LALIGA+ EVENTO 01
+,ES: LALIGA+ EVENTO 02
+,ES: LALIGA+ EVENTO 03
+,ES: LALIGA+ EVENTO 04
+,ES: LALIGA+ EVENTO 05
+,ES: LALIGA+ EVENTO 06
+,ES: LALIGA+ EVENTO 07
+,ES: LALIGA+ EVENTO 08
+,ES: LALIGA+ EVENTO 09
+,ES: LALIGA+ EVENTO 10
+,ES: LALIGA+ EVENTO 11
+,ES: LALIGA+ EVENTO 12
+,ES: LALIGA+ EVENTO 13
+,ES: LALIGA+ EVENTO 14
+,ES: LALIGA+ EVENTO 15
+,ES: LALIGA+ EVENTO 16
+,ES: LALIGA+ EVENTO 17
+,ES: LALIGA+ EVENTO 18
+,ES: LALIGA+ EVENTO 19
+,ES: LALIGA+ EVENTO 20
+,##### TV FOOTBALL PPV #####
+Primera Federación,ES: 1° FEDERACION ᴴᴰ
+Primera Federación,ES: 1° FEDERACION SD
+Primera Federación,ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)
+Primera Federación,ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)
+,#### ES| MOVISTAR DEPORTES VIP ᴴᴰ ####
+M+ Deportes HD,ES: MOVISTAR DEPORTES ᴴᴰ
+,#### ES| MOVISTAR DEPORTES VIP  SD ####
+M+ Deportes HD,ES: MOVISTAR DEPORTES SD
+,#### ES| MOVISTAR DEPORTES VIP ᵁᴴᴰ ####
 M+ Deportes HD,ES: MOVISTAR DEPORTES ʰᵉᵛᶜ
 M+ Deportes HD,ES: MOVISTAR DEPORTES ᵁᴴᴰ
-M+ Deportes HD,ES: MOVISTAR DEPORTES ᴴᴰ
-M+ Deportes HD,ES: MOVISTAR DEPORTES SD
-M+ Deportes 2 HD,ES: MOVISTAR DEPORTES 2 ᵁᴴᴰ (SOLO EVENTOS)
-M+ Deportes 2 HD,ES: MOVISTAR DEPORTES 2 SD (SOLO EVENTOS)
-M+ Deportes 3,ES: MOVISTAR DEPORTES 3 SD (SOLO EVENTOS)
-M+ Deportes 4,ES: MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)
-M+ Deportes 5,ES: MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)
-M+ Deportes 6,ES: MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)
-M+ Deportes 7,ES: MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)
-M+ Deportes 8,ES: MOVISTAR DEPORTES 8 SD (SOLO EVENTOS)
-GOL,ES: GOL PLAY ᵁᴴᴰ
-GOL PLAY,ES: GOL PLAY ᴴᴰ
-GOL PLAY,ES: GOL PLAY SD
-M+ Copa del Rey,ES: MOVISTAR COPA DEL REY ᵁᴴᴰ
-M+ Copa del Rey,ES: MOVISTAR COPA DEL REY ᴴᴰ
-M+ Copa del Rey,ES: MOVISTAR COPA DEL REY SD
-M+ Golf HD,ES: MOVISTAR GOLF ᵁᴴᴰ
+,#### ES| OTROS DEPORTES VIP ᴴᴰ ####
 M+ Golf HD,ES: MOVISTAR GOLF ᴴᴰ
+Eurosport 1 HD,ES: EUROSPORT 1 ᴴᴰ
+Eurosport 2,ES: EUROSPORT 2 ᴴᴰ
+Esport 3,ES: ESPORT 3 ᴴᴰ
+Teledeporte,ES: TELEDEPORTE ᴴᴰ
+,#### ES| OTROS DEPORTES VIP SD ####
 M+ Golf HD,ES: MOVISTAR GOLF SD
 M+ Golf 2 HD,ES: MOVISTAR GOLF 2 SD
-Eurosport 1 HD,ES: EUROSPORT 1 ᵁᴴᴰ
-Eurosport 1 HD,ES: EUROSPORT 1 ᴴᴰ
 Eurosport 1 HD,ES: EUROSPORT 1 SD
-Eurosport 1 HD,M+: EUROSPORT 1 ᴿᴬᵂ
-Eurosport 2,ES: EUROSPORT 2 ᵁᴴᴰ
-Eurosport 2,ES: EUROSPORT 2 ᴴᴰ
 Eurosport 2,ES: EUROSPORT 2 SD
-Eurosport 2,M+: EUROSPORT 2 ᴿᴬᵂ
-Teledeporte,ES: TELEDEPORTE ᵁᴴᴰ
-Teledeporte,ES: TELEDEPORTE ᴴᴰ
 Teledeporte,ES: TELEDEPORTE SD
-Teledeporte,M+: TDP ᴿᴬᵂ
-Esport 3,ES: ESPORT 3 ᴴᴰ
-M+ Vamos HD,ES: #VAMOS ʰᵉᵛᶜ
-M+ Vamos HD,ES: #VAMOS ᵁᴴᴰ
-M+ Vamos HD,ES: #VAMOS ᴴᴰ
-M+ Vamos HD,ES: #VAMOS SD
-M+ Ellas Vamos HD,ES: ELLAS #V ᵁᴴᴰ
-M+ Ellas Vamos HD,ES: ELLAS #V ᴴᴰ
-M+ Ellas Vamos HD,ES: ELLAS #V SD
-Clásicos atresplayer,ES: ATRESPLAYER CLÁSICOS ᵁᴴᴰ
-Clásicos atresplayer,ES: ATRESPLAYER CLÁSICOS ᴴᴰ
-Clásicos atresplayer,ES: ATRESPLAYER CLÁSICOS SD
-Comedia atresplayer,ES: ATRESPLAYER COMEDIA ᵁᴴᴰ
-Comedia atresplayer,ES: ATRESPLAYER COMEDIA ᴴᴰ
-Comedia atresplayer,ES: ATRESPLAYER COMEDIA SD
-Inquietos atresplayer,ES: ATRESPLAYER MENTES INQUIETAS ᵁᴴᴰ
-Inquietos atresplayer,ES: ATRESPLAYER MENTES INQUIETAS ᴴᴰ
-Inquietos atresplayer,ES: ATRESPLAYER MENTES INQUIETAS SD
-El Hormiguero,ES: EL HORMIGUERO ᵁᴴᴰ
-El Hormiguero,ES: EL HORMIGUERO ᴴᴰ
-El Hormiguero,ES: EL HORMIGUERO SD
-Equipo de investigación,ES: EQUIPO DE INVESTIGACION ᵁᴴᴰ
-Equipo de investigación,ES: EQUIPO DE INVESTIGACIÓN ᴴᴰ
-Equipo de investigación,ES: EQUIPO DE INVESTIGACIÓN SD
-FoQ,ES: FÍSICA O QUÍMICA ᵁᴴᴰ
-FoQ,ES: FÍSICA O QUÍMICA ᴴᴰ
-FoQ,ES: FÍSICA O QUÍMICA SD
-Baby TV,ES: BABY TV SD
-Boing,ES: BOING SD
-Boing,ES: BOING ᵁᴴᴰ
-Boing,M+: BOING ᴿᴬᵂ
-Clan,ES: CLAN TVE ᴴᴰ
-Clan,ES: CLAN TVE SD
-Clan,ES: CLAN TVE ᵁᴴᴰ
-Clan,M+: CLAN ᴿᴬᵂ
-Disney Channel HD,ES: DISNEY CHANNEL ᴴᴰ
-Disney Channel HD,ES: DISNEY CHANNEL SD
-Disney Junior,ES: DISNEY JUNIOR SD
-Dreamworks HD,ES: DREAMWORKS ᴴᴰ
-Dreamworks HD,ES: DREAMWORKS SD
-Dreamworks HD,ES: DREAMWORKS ᵁᴴᴰ
-Enfamilia,ES: ENFAMILIA ᴴᴰ
-Enfamilia,ES: ENFAMILIA SD
-Enfamilia,ES: ENFAMILIA ᵁᴴᴰ
-Kidz,ES: KIDZ ᴴᴰ
-Nick JR,ES: NICK JUNIOR ᴴᴰ
-Nick JR,ES: NICK JUNIOR SD
-Nick JR,ES: NICK JUNIOR ᵁᴴᴰ
-Nickelodeon HD,ES: NICKELODEON ᴴᴰ
-Nickelodeon HD,ES: NICKELODEON SD
-Nickelodeon HD,ES: NICKELODEON ᵁᴴᴰ
-AMC Break,ES: AMC BREAK ᴴᴰ
-AMC Break,ES: AMC BREAK SD
-AMC Break,ES: AMC BREAK ᵁᴴᴰ
-AMC Crime,ES: AMC CRIME ᴴᴰ
-AMC Crime,ES: AMC CRIME SD
-AMC Crime,ES: AMC CRIME ᵁᴴᴰ
-SELEKT,ES: AMC SELEKT TV ᴴᴰ
-BuenViaje,ES: BUENVIAJE ᴴᴰ
-BuenViaje,ES: BUENVIAJE SD
-BuenViaje,ES: BUENVIAJE ᵁᴴᴰ
-Discovery,ES: DISCOVERY CHANNEL ᴴᴰ
-Discovery,ES: DISCOVERY CHANNEL SD
-Discovery,ES: DISCOVERY CHANNEL ᵁᴴᴰ
-Discovery,M+: DISCOVERY CHANNEL ᴿᴬᵂ
-DMAX,ES: DMAX ᴴᴰ
-DMAX,ES: DMAX SD
-DMAX,ES: DMAX ᵁᴴᴰ
-Historia,ES: HISTORIA ᴴᴰ
-Historia,ES: HISTORIA SD
-Historia,ES: HISTORIA ᵁᴴᴰ
-Nat Geo Wild HD,ES: NATIONAL GEOGRAPHIC  WILD ᴴᴰ
+,#### ES| OTROS DEPORTES VIP ᵁᴴᴰ ####
+M+ Golf HD,ES: MOVISTAR GOLF ᵁᴴᴰ
+Eurosport 1 HD,ES: EUROSPORT 1 ᵁᴴᴰ
+Eurosport 2,ES: EUROSPORT 2 ᵁᴴᴰ
+Teledeporte,ES: TELEDEPORTE ᵁᴴᴰ
+,#### ES| DOCUMENTALES VIP ᴴᴰ ####
 National Geographic HD,ES: NATIONAL GEOGRAPHIC ᴴᴰ
-National Geographic HD,ES: NATIONAL GEOGRAPHIC SD
-National Geographic HD,ES: NATIONAL GEOGRAPHIC ᵁᴴᴰ
-Nat Geo Wild HD,ES: NATIONAL GEOGRAPHIC WILD SD
-Nat Geo Wild HD,ES: NATIONAL GEOGRAPHIC WILD ᵁᴴᴰ
+Nat Geo Wild HD,ES: NATIONAL GEOGRAPHIC  WILD ᴴᴰ
+Historia,ES: HISTORIA ᴴᴰ
+Discovery,ES: DISCOVERY CHANNEL ᴴᴰ
 Odisea,ES: ODISEA ᴴᴰ
+AMC Crime,ES: AMC CRIME ᴴᴰ
+AMC Break,ES: AMC BREAK ᴴᴰ
+SELEKT,ES: AMC SELEKT TV ᴴᴰ
+DMAX,ES: DMAX ᴴᴰ
+BBC History,ES: BBC HISTORY ᴴᴰ
+BBC Food,ES: BBC FOOD ᴴᴰ
+HBO Max Avances,ES: Max Avances ᴴᴰ
+Escapa TV,ES: ESCAPA TV ᴴᴰ
+,#### ES| DOCUMENTALES VIP SD ####
+National Geographic HD,ES: NATIONAL GEOGRAPHIC SD
+Nat Geo Wild HD,ES: NATIONAL GEOGRAPHIC WILD SD
+Historia,ES: HISTORIA SD
+Discovery,ES: DISCOVERY CHANNEL SD
 Odisea,ES: ODISEA SD
-Odisea,ES: ODISEA ᵁᴴᴰ
+AMC Break,ES: AMC BREAK SD
+AMC Crime,ES: AMC CRIME SD
+DMAX,ES: DMAX SD
+BBC History,ES: BBC HISTORY SD
+BBC Food,ES: BBC FOOD SD
+HBO Max Avances,ES: Max Avances SD
+,#### ES| DOCUMENTALES VIP ᵁᴴᴰ ####
 Odisea,ES: ODISEA ᵁᴴᴰ 3840P
-El Toro TV,ES: EL TORO TV ᴴᴰ
-El Toro TV,M+: EL TORO TV ᴿᴬᵂ
-Onetoro,ES: ONETORO ᴴᴰ
-Onetoro,ES: ONETORO SD
-Onetoro,ES: ONETORO ᵁᴴᴰ
+National Geographic HD,ES: NATIONAL GEOGRAPHIC ᵁᴴᴰ
+Nat Geo Wild HD,ES: NATIONAL GEOGRAPHIC WILD ᵁᴴᴰ
+Historia,ES: HISTORIA ᵁᴴᴰ
+Discovery,ES: DISCOVERY CHANNEL ᵁᴴᴰ
+Odisea,ES: ODISEA ᵁᴴᴰ
+AMC Break,ES: AMC BREAK ᵁᴴᴰ
+AMC Crime,ES: AMC CRIME ᵁᴴᴰ
+DMAX,ES: DMAX ᵁᴴᴰ
+BBC History,ES: BBC HISTORY ᵁᴴᴰ
+BBC Food,ES: BBC FOOD ᵁᴴᴰ
+HBO Max Avances,ES: Max Avances ᵁᴴᴰ
+,#### ES| TOROS VIP ᴴᴰ ####
 Torolé TV,ES: TOROLE ᴴᴰ
+Onetoro,ES: ONETORO ᴴᴰ
+El Toro TV,ES: EL TORO TV ᴴᴰ
+,#### ES| TOROS VIP SD ####
 Torolé TV,ES: TOROLE SD
+Onetoro,ES: ONETORO SD
+,#### ES| TOROS VIP ᵁᴴᴰ ####
 Torolé TV,ES: TOROLE ᵁᴴᴰ
-Torolé TV,M+: TOROLE TV ᴿᴬᵂ
-ES: ¡HOLA! PLAY ᴴᴰ
-ES: ¡HOLA! PLAY SD
-Flooxer,ES: FLOOXER ᴴᴰ
-Flooxer,ES: FLOOXER SD
-Flooxer,ES: FLOOXER ᵁᴴᴰ
-MTV Hits HD,M+: WM HITS ᴿᴬᵂ
-ES: MC VIDEO | 90'S  SD
-ES: MC VIDEO | ALTERNATIVE SD
-ES: MC VIDEO | DANCE/ EDM SD
-ES: MC VIDEO | HIP-HOP AND R&B SD
-ES: MC VIDEO | HIT LIST SD
-ES: MC VIDEO | KIDZ BOP SD
-ES: MC VIDEO | KIDZ ONLY! SD
-ES: MC VIDEO | MEXICANA SD
-ES: MC VIDEO | MUSIC CHOICE MAX SD
-ES: MC VIDEO | MUSICA URBANA SD
-ES: MC VIDEO | POP & COUNTRY SD
-ES: MC VIDEO | POP HITS SD
-ES: MC VIDEO | POP LATINO SD
-ES: MC VIDEO | R&B SOUL SD
-ES: MC VIDEO | RAP 2K SD
-ES: MC VIDEO | RAP SD
-ES: MC VIDEO | ROCK SD
-ES: MC VIDEO | TEEN BEATS SD
-ES: MC VIDEO | THROWBACK JAMZ SD
-ES: MC VIDEO | TODAY'S COUNTRY: CMA AWARDSSD
-ES: MC VIDEO | TODDLER TUNES SD
-ES: MC VIDEO | TROPICALES SD
-ES: MC VIDEO | Y2K SD
-ES: MEZZO LIVE SD
-ES: MEZZO LIVE ᵁᴴᴰ
-ES: MEZZO SD
-ES: MEZZO ᵁᴴᴰ
-ES: MTV 00S SD
-ES: MTV ᴴᴰ
-ES: MTV SD
-ES: MTV ᵁᴴᴰ
-HIT TV,M+: HIT TV ᴿᴬᵂ
+Onetoro,ES: ONETORO ᵁᴴᴰ
+,#### ES| M+ VAMOS VIP ᴴᴰ ####
+M+ Vamos HD,ES: #VAMOS ᴴᴰ
+M+ Vamos 2,ES: #VAMOS 2 ᴴᴰ
+,ES: ELLAS #V ᴴᴰ
+,#### ES| M+ VAMOS VIP  SD ####
+M+ Vamos HD,ES: #VAMOS SD
+M+ Vamos HD,ES: #VAMOS SD
+,ES: ELLAS #V SD
+,#### ES| M+ VAMOS VIP ᵁᴴᴰ ####
+M+ Vamos HD,ES: #VAMOS ʰᵉᵛᶜ
+M+ Vamos 2,ES: #VAMOS 2 ʰᵉᵛᶜ
+M+ Vamos HD,ES: #VAMOS ᵁᴴᴰ
+,ES: ELLAS #V ᵁᴴᴰ
+,#### ES| MUSICA VIP SD ####
+Mezzo,ES: MEZZO SD
+Mezzo Live HD,ES: MEZZO LIVE SD
+MTV España,ES: MTV SD
+,#### ES| MUSICA VIP ᵁᴴᴰ ####
+Mezzo,ES: MEZZO ᵁᴴᴰ
+Mezzo Live HD,ES: MEZZO LIVE ᵁᴴᴰ
+MTV España,ES: MTV ᵁᴴᴰ
