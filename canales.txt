@@ -38,7 +38,6 @@ VinTV,PRIME: VINTV ᴿᴬᵂ
 VinTV,PRIME: VIZNER TV ᴿᴬᵂ
 XTRM,PRIME: XTRM ᴿᴬᵂ
 AMC Western,PRIME: �AMC WESTRN ᴿᴬᵂ
-
 ,#### ATRES PLAYER ᴿᴬᵂ ####
 Antena 3 HD,PLAYER: DIRECTO ANTENA 3 ᴿᴬᵂ
 Aquí no hay quién viva,PLAYER: DIRECTO AQUÍ NO HAY QUIÉN VIVA ᴿᴬᵂ
@@ -57,7 +56,6 @@ Inquietos atresplayer,PLAYER: DIRECTO MENTES INQUIETAS ᴿᴬᵂ
 Multicine atresplayer,PLAYER: DIRECTO MULTICINE ᴿᴬᵂ
 Neox,PLAYER: DIRECTO NEOX ᴿᴬᵂ
 Nova,PLAYER: DIRECTO NOVA ᴿᴬᵂ
-
 ,##### TELEFÓNICA ᴿᴬᵂ #####
 TF: GH 24H 1 + ᴿᴬᵂ
 TF: GH 24H 1 ᴿᴬᵂ
@@ -76,7 +74,6 @@ Infinity+ LQSA,TF: LQSA ᴿᴬᵂ
 M+ Comedia HD,TF: COMEDIA ᴿᴬᵂ
 Infinity Top Series,TF: TOP SERIES ᴿᴬᵂ
 TF: MTMAD ᴿᴬᵂ
-
 ,#### ORANGE ᴿᴬᵂ ####
 La 1 HD,GO: LA 1 ᴿᴬᵂ
 La 2,GO: LA 2 ᴿᴬᵂ
@@ -174,7 +171,6 @@ UBEAT,GO: UBEAT ᴿᴬᵂ
 Warner TV HD,GO: WARNER TV ᴿᴬᵂ
 À Punt,GO: À PUNT ᴿᴬᵂ
 Veo7,GO: VEO 7 ᴿᴬᵂ
-
 ,#### ORANGE SPORTS ᴿᴬᵂ ####
 M+ LaLiga HDR,GO: M+ LALIGA ᴴᴰᴿ ³⁸⁴⁰ᴾ
 M+ LaLiga HDR,GO: M+ LALIGA TV ᴴᴰᴿ ³⁸⁴⁰ᴾ
@@ -225,7 +221,6 @@ FOX SPORTS 3,GO: FOX SPORT 3 ᴿᴬᵂ
 Fight Time,GO: FIGHT TIME ᴿᴬᵂ
 Eurosport 1 HD,GO: EURO SPORT 1 ᴿᴬᵂ
 Eurosport 2,GO: EURO SPORT 2 ᴿᴬᵂ
-
 ##### VODAFONE #####
 La 1 HD,VO: LA 1 ᴿᴬᵂ
 La 1 HD,VO: LA 1 ᴴᴰ
@@ -326,8 +321,6 @@ TCM HD,VO: TCM ᴴᴰ
 ,VO: TELECINE PREMIUM ᴴᴰ
 ,VO: ANTENA 3 ARG ᴴᴰ
 ,VO: ANTENA 3 MX ᴴᴰ
-
-
 ,### VODAFONE SPORTS ᴿᴬᵂ ###
 DAZN LaLiga HD,VO: DAZN LALIGA ᴿᴬᵂ
 DAZN LaLiga HD,VO: DAZN LALIGA ᴴᴰ
@@ -397,8 +390,6 @@ FOX SPORTS 3,VO: FOX SPORTS 3 MX ᴴᴰ
 FOX SPORTS,VO: FOX SPORTS 1 ARG ᴴᴰ
 ,VO: AYM SPORTS MX ᴴᴰ
 ,VO: TNT SPORTS ARG ᴴᴰ
-
-
 ,#### MOVISTAR ᴿᴬᵂ ####
 La 1 HD,M+: LA 1 ᴿᴬᵂ
 La 2,M+: LA 2 ᴿᴬᵂ
@@ -493,8 +484,6 @@ MTV España,M+: MTV ESPANA ᴿᴬᵂ
 À Punt,M+: A PUNT ᴿᴬᵂ
 Canal de las Estrellas,M+: CANAL ESTRELLAS ᴿᴬᵂ
 AMC Western,M+: BUEN VIAJE ᴿᴬᵂ
-
-
 ,#### MOVISTAR SPORT ᴿᴬᵂ ####
 DAZN LaLiga HD,M+: DAZN LA LIGA ᴿᴬᵂ
 DAZN LaLiga 2 HD,M+: DAZN LA LIGA 2 ᴿᴬᵂ
@@ -633,8 +622,6 @@ Vivir con perros,TY: VIVIR CON PERROS ᴿᴬᵂ
 ,TY: ALCARRIA TV ᴿᴬᵂ
 Aragón TV,TY: ARAGÓN TV INT ᴿᴬᵂ
 ,TY: ARIRANG INTERNACIONAL ᴿᴬᵂ
-
-
 ,#### ES| TDT ESPAÑA VIP ᴴᴰ ####
 24 Horas,ES: 24H TVE ᴴᴰ
 La 1 HD,ES: LA 1 ᴴᴰ
@@ -695,7 +682,6 @@ France 24,ES: FRANCE 24 ES ᵁᴴᴰ
 DBike,ES: DBIKE ᵁᴴᴰ
 PTV Granada,ES: PTV GRANADA ᵁᴴᴰ
 PTV Córdoba,ES: PTV CORDOBA ᵁᴴᴰ
-
 #### TDT PREMIUM ####
 Iberalia TV,ES: IBERALIA TV ᴴᴰ
 Iberalia caza,ES: IBERALIA CAZA ᴴᴰ
@@ -718,7 +704,6 @@ Caza y Pesca HD,ES: CAZA Y PESCA ᵁᴴᴰ
 Cazavisión,ES: CAZAVISION ᵁᴴᴰ
 Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ
 AMC Living,ES: CANAL DECASA ᵁᴴᴰ 3840P
-
 ,##### ES| M+ CINE VIP ᴴᴰ #####
 M+ Acción HD,ES: MOVISTAR ACCION ᴴᴰ
 M+ Drama HD,ES: MOVISTAR DRAMA ᴴᴰ
@@ -806,7 +791,6 @@ Veo7,ES: VEO7 ᵁᴴᴰ
 Canal Hollywood HD,ES: HOLLYWOOD ᵁᴴᴰ
 Sundance TV,ES: SUNDANCE TV ᵁᴴᴰ
 M+ Oscars,ES: MOVISTAR EN JUEGO ᵁᴴᴰ
-
 ,#### ES| MOVISTAR PLUS+ VIP ᴴᴰ ####
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᴴᴰ
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ 2 ᴴᴰ
@@ -822,7 +806,6 @@ Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᵁᴴᴰ
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ 2 ᵁᴴᴰ
 M+ Hits HD,ES: MOVISTAR HITS ᵁᴴᴰ
 M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᵁᴴᴰ
-
 ,#### TDT SERIES VIP ᴴᴰ ####
 Atreseries,ES: A3SERIES ᴴᴰ
 Mega,ES: MEGA ᴴᴰ
@@ -942,8 +925,6 @@ ES: RAKUTEN TV ROMANCE MOVIES ᴿᴬᵂ
 ES: RAKUTEN TV SCI-FI MOVIES ᴿᴬᵂ
 ES: RAKUTEN TV THRILLER MOVIES ᴿᴬᵂ
 ES: RAKUTEN TV TOP MOVIES ᴿᴬᵂ
-
-
 #### INFANTIL VIP####
 Clan,ES: CLAN TVE ᴴᴰ
 Dreamworks HD,ES: DREAMWORKS ᴴᴰ
@@ -961,8 +942,6 @@ Boing,ES: BOING ᵁᴴᴰ
 Dreamworks HD,ES: DREAMWORKS ᵁᴴᴰ
 Nickelodeon HD,ES: NICKELODEON ᵁᴴᴰ
 Nick JR,ES: NICK JUNIOR ᵁᴴᴰ
-
-
 ,#### ES| M+ LALIGA VIP ᴴᴰ ####
 LaLiga TV Hypermotion HD,ES: LALIGA TV HYPERMOTION ᴴᴰ
 M+ LaLiga HD,ES: MOVISTAR LA LIGA ᴴᴰ
@@ -1268,7 +1247,6 @@ Primera Federación,ES: 1° FEDERACION ᴴᴰ
 Primera Federación,ES: 1° FEDERACION SD
 Primera Federación,ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)
 Primera Federación,ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)
-
 ,#### ES| MOVISTAR DEPORTES VIP ᴴᴰ ####
 M+ Deportes HD,ES: MOVISTAR DEPORTES ᴴᴰ
 ,#### ES| MOVISTAR DEPORTES VIP  SD ####
@@ -1283,7 +1261,6 @@ M+ Deportes 4,ES: MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)
 M+ Deportes 5,ES: MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)
 M+ Deportes 6,ES: MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)
 M+ Deportes 7,ES: MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)
-
 ,#### ES| OTROS DEPORTES VIP ᴴᴰ ####
 GOL,ES: GOL PLAY ᴴᴰ
 ES: COPA DEL REY ᴴᴰ
