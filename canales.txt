@@ -1355,6 +1355,9 @@ MTV España,ES: MTV SD
 Mezzo,ES: MEZZO ᵁᴴᴰ
 Mezzo Live HD,ES: MEZZO LIVE ᵁᴴᴰ
 MTV España,ES: MTV ᵁᴴᴰ
+
+
+
 ##### NEXON ####
 1+1 International,1+1 Internacional
 AMC Break,amcbreak.es
@@ -1377,6 +1380,15 @@ DAZN 3 HD,dazn3.es
 DAZN 4 HD,dazn4.es
 DAZN F1 HD,daznf1.es
 DAZN LALIGA EA SPORTS,LALIGA+
+DAZN LaLiga HD,ES- DAZN 1 LIGA FHD (backup 1)
+DAZN LaLiga HD,ES- DAZN 1 LIGA FHD (backup 2)
+DAZN LaLiga HD,ES- DAZN 1 LIGA HD (backup 1)
+DAZN LaLiga HD,ES- DAZN 1 LIGA HD (backup 2)
+DAZN LaLiga HD,ES- DAZN 1 LIGA SD (backup 1)
+DAZN LaLiga HD,ES- DAZN 1 LIGA SD (backup 2)
+DAZN Liga F 2,Dazn Liga F 2 HD (ES)
+DAZN Liga F 3,Dazn Liga F 3 HD (ES)
+DAZN Liga F,Dazn Liga F 1 HD (ES)
 DE | Rally TV,sporttv2.pt
 DKISS,dkiss.es
 DMAX,dmax.es
@@ -1393,6 +1405,15 @@ Historia,historia.es
 Iberalia TV,iberaliatv.es
 La 1 HD,la1.es
 La 2,la2.es
+LaLiga TV Hypermotion 2,ES- M L HYPERMOTION  2 SD
+LaLiga TV Hypermotion 2,ES- M L HYPERMOTION 2 FHD
+LaLiga TV Hypermotion 2,ES- M L HYPERMOTION 2 HD
+LaLiga TV Hypermotion 3,ES- M L HYPERMOTION  3 SD
+LaLiga TV Hypermotion 3,ES- M L HYPERMOTION 3 FHD
+LaLiga TV Hypermotion 3,ES- M L HYPERMOTION 3 HD
+LaLiga TV Hypermotion HD,ES- M L HYPERMOTION FHD
+LaLiga TV Hypermotion HD,ES- M L HYPERMOTION HD
+LaLiga TV Hypermotion HD,ES- M L HYPERMOTION SD
 Liga de Campeones BAR 2,mligadecampeones1.es
 Liga de Campeones BAR 2,mligadecampeones2.es
 M+ Deportes HD,movistardeportes.es
@@ -1400,7 +1421,29 @@ M+ Estrenos HD,M+ Cine HD
 M+ LaLiga 2 HD,M+ LaLiga TV 2 HD
 M+ LaLiga 3 HD,M+ LaLiga TV 3 HD
 M+ LaLiga 4,M+ LaLiga TV 4
+M+ LaLiga HD,ES- M LA LIGA  FHD Multiaudio
+M+ LaLiga HD,ES- M LA LIGA  SD Multiaudio
+M+ LaLiga HD,ES- M LA LIGA FHD (backup 1)
+M+ LaLiga HD,ES- M LA LIGA FHD (backup 2)
+M+ LaLiga HD,ES- M LA LIGA HD (backup 1)
+M+ LaLiga HD,ES- M LA LIGA HD (backup 2)
+M+ LaLiga HD,ES- M LA LIGA SD (backup 1)
+M+ LaLiga HD,ES- M LA LIGA SD (backup 2)
 M+ LaLiga HD,M+ LaLiga TV HD
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 FHD (backup 1)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 FHD (backup 2)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 HD (backup 1)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 HD (backup 2)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 SD (backup 1)
+M+ Liga de Campeones 2 HD,ES- M L CAMPEONES  2 SD (backup 2)
+M+ Liga de Campeones HD,ES- M L CAMPEONES FHD (backup 1)
+M+ Liga de Campeones HD,ES- M L CAMPEONES FHD (backup 2)
+M+ Liga de Campeones HD,ES- M L CAMPEONES FHD Multiaudio
+M+ Liga de Campeones HD,ES- M L CAMPEONES HD (backup 1)
+M+ Liga de Campeones HD,ES- M L CAMPEONES HD (backup 2)
+M+ Liga de Campeones HD,ES- M L CAMPEONES SD (BACKUP 1)
+M+ Liga de Campeones HD,ES- M L CAMPEONES SD (BACKUP 2)
+M+ Liga de Campeones HD,ES- M L CAMPEONES SD Multiaudio
 M+ Liga de Campeones HD,mligadecampeones.es
 M+ Vamos HD,vamos.es
 MTV EspaÃ±a,mtv.es
