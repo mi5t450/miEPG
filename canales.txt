@@ -1355,6 +1355,13 @@ MTV España,ES: MTV SD
 Mezzo,ES: MEZZO ᵁᴴᴰ
 Mezzo Live HD,ES: MEZZO LIVE ᵁᴴᴰ
 MTV España,ES: MTV ᵁᴴᴰ
+
+
+
+
+
+
+
 ##### NEXON ####
 1+1 International,1+1 Internacional
 AMC Break,amcbreak.es
@@ -1365,7 +1372,7 @@ Baby TV,babytv.es
 Be Mad,bemad.es
 Boing,boing.es
 Canal Cocina,canalcocina.es
-Canal Sur Andalucía,canalsurandalucia.es
+Canal Sur AndalucÃ­a,canalsurandalucia.es
 Canal de las Estrellas,canalestrellas.es
 Caza y Pesca HD,cazapesca.es
 Clan,clan.es
@@ -1376,6 +1383,7 @@ DAZN 2 HD,dazn2.es
 DAZN 3 HD,dazn3.es
 DAZN 4 HD,dazn4.es
 DAZN F1 HD,daznf1.es
+DAZN LALIGA EA SPORTS,LALIGA+
 DE | Rally TV,sporttv2.pt
 DKISS,dkiss.es
 DMAX,dmax.es
@@ -1397,11 +1405,12 @@ Liga de Campeones BAR 2,mligadecampeones2.es
 M+ Deportes HD,movistardeportes.es
 M+ Estrenos HD,M+ Cine HD
 M+ LaLiga 2 HD,M+ LaLiga TV 2 HD
-M+ LaLiga HD,LALIGA+
+M+ LaLiga 3 HD,M+ LaLiga TV 3 HD
+M+ LaLiga 4,M+ LaLiga TV 4
 M+ LaLiga HD,M+ LaLiga TV HD
 M+ Liga de Campeones HD,mligadecampeones.es
 M+ Vamos HD,vamos.es
-MTV España,mtv.es
+MTV EspaÃ±a,mtv.es
 Mega,mega.es
 Mezzo,mezzo.es
 Nat Geo Wild HD,natgeowild.es
@@ -1411,7 +1420,7 @@ Nickelodeon HD,nickelodeon.es
 Nova,nova.es
 Odisea,odisea.es
 Real Madrid TV,realmadridtv.es
-RunTime Clásicos,Runtime Clásicos
+RunTime ClÃ¡sicos,Runtime ClÃ¡sicos
 Squirrel 2,Paramount Network
 Squirrel TV,disneychannel.es
 Telecinco HD,telecinco.es
