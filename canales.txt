@@ -1355,3 +1355,154 @@ MTV España,ES: MTV SD
 Mezzo,ES: MEZZO ᵁᴴᴰ
 Mezzo Live HD,ES: MEZZO LIVE ᵁᴴᴰ
 MTV España,ES: MTV ᵁᴴᴰ
+#### CABEL TV ᴿᴬᵂ ####
+La 1 HD,TV: LA 1 ᴿᴬᵂ
+La 2,TV: LA 2 ᴿᴬᵂ
+La 1 HD,TV: LA 1 ᴿᴬᵂ
+,TV: LA RESISTENCIA ᴿᴬᵂ
+La Sexta HD,TV: LA SEXTA ᴿᴬᵂ
+M+ Acción HD,TV: M+ ACCIÓN ᴿᴬᵂ
+M+ Cine Español,TV: M+ CINE ESPAÑOL ᴿᴬᵂ
+M+ Clásicos HD,TV: M+ CLÁSICOS ᴿᴬᵂ
+M+ Comedia HD,TV: M+ COMEDIA ᴿᴬᵂ
+M+ Documentales HD,TV: M+ DOCUMENTALES ᴿᴬᵂ
+M+ Drama HD,TV: M+ DRAMA ᴿᴬᵂ
+,TV: M+ ELLAS V ᴿᴬᵂ
+M+ Estrenos HD,TV: M+ ESTRENOS ᴿᴬᵂ
+M+ Hits HD,TV: M+ HITS ᴿᴬᵂ
+M+ Indie HD,TV: M+ INDIE ᴿᴬᵂ
+M+ Los 2000,TV: M+ LOS GOYA ᴿᴬᵂ
+M+ Originales HD,TV: M+ ORIGINALES ᴿᴬᵂ
+M+ Vamos HD,TV: M+ VAMOS ᴿᴬᵂ
+,TV: M+E: DEMI MOORE ᴿᴬᵂ
+1+1 International,TV: 1+1 INTERNACIONAL ᴿᴬᵂ
+24 Horas,TV: 24 HORAS ᴿᴬᵂ
+Popular TV Región de Murcia,TV: 7 TV REGIÓN MURCIA ᴿᴬᵂ
+AXN HD,TV: AXN ᴿᴬᵂ
+AXN Movies HD,TV: AXN MOVIES ᴿᴬᵂ
+Al Jazeera English HD,TV: AL JAZEERA ENGLISH ᴿᴬᵂ
+Antena 3 HD,TV: ANTENA 3 ᴿᴬᵂ
+Aragón TV,TV: ARAGÓN TV ᴿᴬᵂ
+Aragón TV Internacional,TV: ARAGÓN TV INT ᴿᴬᵂ
+Atreseries,TV: ATRESERIES ᴿᴬᵂ
+M+ Drama HD,TV: M+ DRAMA ᴿᴬᵂ
+BBC Food,TV: BBC FOOD ᴿᴬᵂ
+BBC History,TV: BBC HISTORY ᴿᴬᵂ
+BBC Top Gear,TV: BBC TOP GEAR ᴿᴬᵂ
+BBC World News Europe HD,TV: BBC WORLD ᴿᴬᵂ
+Be Mad,TV: BE MAD ᴿᴬᵂ
+Baby TV,TV: BABY TV ᴿᴬᵂ
+Bloomberg TV Europe,TV: BLOOMBERG ᴿᴬᵂ
+Boing,TV: BOING ᴿᴬᵂ
+CGTN Español,TV: CGTN ESPAÑOL ᴿᴬᵂ
+CNBC Europe HD,TV: CNBC ᴿᴬᵂ
+,TV: CNN INT ᴿᴬᵂ
+Cosmo HD,TV: COSMO ᴿᴬᵂ
+Calle 13 HD,TV: CALLE 13 ᴿᴬᵂ
+Canal Extremadura,TV: CANAL EXTREMADURA ᴿᴬᵂ
+Canal Extremadura SAT,TV: CANAL EXTREMADURA SAT ᴿᴬᵂ
+Canal Sur HD,TV: CANAL SUR ᴿᴬᵂ
+Canal Sur Andalucía,TV: CANAL SUR ANDALUCÍA ᴿᴬᵂ
+CMM TV,TV: CASTILLA LA MANCHA TV ᴿᴬᵂ
+Caza y Pesca HD,TV: CAZA Y PESCA ᴿᴬᵂ
+Clan,TV: CLAN TVE ᴿᴬᵂ
+Classica HD,TV: CLASSICA ᴿᴬᵂ
+Comedy Central HD,TV: COMEDY CENTRAL ᴿᴬᵂ
+Cuatro HD,TV: CUATRO ᴿᴬᵂ
+DKISS,TV: DKISS ᴿᴬᵂ
+DMAX,TV: DMAX ᴿᴬᵂ
+Discovery,TV: DISCOVERY ᴿᴬᵂ
+Disney Channel,TV: DISNEY JUNIOR ᴿᴬᵂ
+Divinity,TV: DIVINITY ᴿᴬᵂ
+Dreamworks HD,TV: DREAMWORKS ᴿᴬᵂ
+,TV: EITB BASQUE ᴿᴬᵂ
+etb1,TV: ETB 1 ᴿᴬᵂ
+El Toro TV,TV: EL TORO TV ᴿᴬᵂ
+Energy,TV: ENERGY ᴿᴬᵂ
+EuroNews,TV: EURONEWS ᴿᴬᵂ
+France 24 (en Francais),TV: FRANCE24 (FR) ᴿᴬᵂ
+Factoría de Ficción,TV: FACTORÍA DE FICCIÓN ᴿᴬᵂ
+GOL,TV: GOL PLAY ᴿᴬᵂ
+IB3 TV Illes Balears,TV: IB3 ᴿᴬᵂ
+MTV España,TV: MTV ᴿᴬᵂ
+,TV: MTV 00S ᴿᴬᵂ
+HBO Max Avances,TV: MAX AVANCES ᴿᴬᵂ
+Mega,TV: MEGA ᴿᴬᵂ
+Mezzo,TV: MEZZO ᴿᴬᵂ
+Mezzo Live HD,TV: MEZZO LIVE ᴿᴬᵂ
+Movistar Plus+ HD,TV: MOVISTAR PLUS+ ᴿᴬᵂ
+,TV: MOVISTAR PLUS+ 2 ᴿᴬᵂ
+Nick JR,TV: NICK JR ᴿᴬᵂ
+Nat Geo Wild HD,TV: NAT GEO WILD ᴿᴬᵂ
+National Geographic HD,TV: NATIONAL GEOGRAPHIC ᴿᴬᵂ
+Navarra TV,TV: NAVARRA TV ᴿᴬᵂ
+Negocios TV,TV: NEGOCIOS TV ᴿᴬᵂ
+Neox,TV: NEOX ᴿᴬᵂ
+Nickelodeon HD,TV: NICKELODEON ᴿᴬᵂ
+Nova,TV: NOVA ᴿᴬᵂ
+,TV: PARAMOUNT NETWORK ᴿᴬᵂ
+STAR Channel HD,TV: STAR CHANNEL ᴿᴬᵂ
+SyFy HD,TV: SYFY ᴿᴬᵂ
+SkyShowtime,TV: SKY SHOWTIME 1 ᴿᴬᵂ
+TCM HD,TV: TCM ᴿᴬᵂ
+TRECE,TV: TRECE ᴿᴬᵂ
+TV Canaria,TV: TV CANARIA ᴿᴬᵂ
+TV3,TV: TV3 ᴿᴬᵂ
+TV3 Catalunya,TV: TV3 CAT ᴿᴬᵂ
+TV5 Monde Europe HD,TV: TV5MONDE ᴿᴬᵂ
+TVG,TV: TVG -TV GALICIA ᴿᴬᵂ
+TVG Europa HD,TV: TVG EUROPA ᴿᴬᵂ
+Telecinco HD,TV: TELECINCO ᴿᴬᵂ
+Teledeporte,TV: TELEDEPORTE ᴿᴬᵂ
+Telemadrid,TV: TELEMADRID ᴿᴬᵂ
+Telemadrid Internacional,TV: TELEMADRID INT. ᴿᴬᵂ
+Ten,TV: TEN ᴿᴬᵂ
+UBEAT,TV: UBEAT ᴿᴬᵂ
+Warner TV HD,TV: WARNER TV ᴿᴬᵂ
+À Punt,TV: À PUNT ᴿᴬᵂ
+Veo7,TV: VEO7 ᴿᴬᵂ
+#### CABEL TV SPORTS ᴿᴬᵂ ####
+DAZN LaLiga HD,TV: DAZN LALIGA ᴿᴬᵂ
+DAZN LaLiga 2 HD,TV: DAZN LALIGA 2 ᴿᴬᵂ
+DAZN 1 BAR,TV: DAZN 1 ᴿᴬᵂ
+DAZN 2 BAR,TV: DAZN 2 ᴿᴬᵂ
+DAZN 3 HD,TV: DAZN 3 ᴿᴬᵂ
+DAZN 4 HD,TV: DAZN 4 ᴿᴬᵂ
+DAZN F1 BAR,TV: DAZN F1 ᴿᴬᵂ
+M+ LaLiga HD,TV: M+ LALIGA TV ᵁᴴᴰ ³⁸⁴⁰ᴾ
+M+ LaLiga 2 HD,TV: M+ LALIGA TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+M+ LaLiga HD,TV: M+ LALIGA TV ᴿᴬᵂ
+M+ LaLiga 2 HD,TV: M+ LALIGA TV 2 ᴿᴬᵂ
+M+ LaLiga 3 HD,TV: M+ LALIGA TV 3 ᴿᴬᵂ
+M+ LaLiga 4,TV: M+ LALIGA TV 4 ᴿᴬᵂ
+LaLiga TV Hypermotion HD,TV: LALIGA TV HYPERMOTION ᴿᴬᵂ
+LaLiga TV Hypermotion 2,TV: LALIGA TV HYPERMOTION 2 ᴿᴬᵂ
+LaLiga TV Hypermotion 3,TV: LALIGA TV HYPERMOTION 3 ᴿᴬᵂ
+M+ Deportes HD,TV: M+ DEPORTES ᴿᴬᵂ
+M+ Deportes 2 HD,TV: M+ DEPORTES 2 ᴿᴬᵂ
+M+ Deportes 3,TV: M+ DEPORTES 3 ᴿᴬᵂ
+M+ Deportes 4,TV: M+ DEPORTES 4 ᴿᴬᵂ
+M+ Deportes 5,TV: M+ DEPORTES 5 ᴿᴬᵂ
+M+ Deportes 6,TV: M+ DEPORTES 6 ᴿᴬᵂ
+M+ Deportes 7,TV: M+ DEPORTES 7 ᴿᴬᵂ
+M+ Deportes 8,TV: M+ DEPORTES 8 ᴿᴬᵂ
+M+ Liga de Campeones HD,TV: M+ LIGA DE CAMPEONES ᴿᴬᵂ
+M+ Liga de Campeones 2 HD,TV: M+ LIGA DE CAMPEONES 2 ᴿᴬᵂ
+M+ Liga de Campeones 3 HD,TV: M+ LIGA DE CAMPEONES 3 ᴿᴬᵂ
+M+ Liga de Campeones 4,TV: M+ LIGA DE CAMPEONES 4 ᴿᴬᵂ
+M+ Liga de Campeones 5,TV: M+ LIGA DE CAMPEONES 5 ᴿᴬᵂ
+M+ Liga de Campeones 6,TV: M+ LIGA DE CAMPEONES 6 ᴿᴬᵂ
+M+ Liga de Campeones 7,TV: M+ LIGA DE CAMPEONES 7 ᴿᴬᵂ
+M+ Liga de Campeones 8,TV: M+ LIGA DE CAMPEONES 8 ᴿᴬᵂ
+M+ Liga de Campeones 9,TV: M+ LIGA DE CAMPEONES 9 ᴿᴬᵂ
+M+ Liga de Campeones 10,TV: M+ LIGA DE CAMPEONES 10 ᴿᴬᵂ
+M+ Liga de Campeones 11,TV: M+ LIGA DE CAMPEONES 11 ᴿᴬᵂ
+M+ Liga de Campeones 12,TV: M+ LIGA DE CAMPEONES 12 ᴿᴬᵂ
+M+ Liga de Campeones 13,TV: M+ LIGA DE CAMPEONES 13 ᴿᴬᵂ
+,TV: M+ COPA DEL REY ᴿᴬᵂ
+M+ Golf HD,TV: M+ GOLF ᴿᴬᵂ
+M+ Golf 2 HD,TV: M+ GOLF 2 ᴿᴬᵂ
+Real Madrid TV,TV: REAL MADRID TV ᴿᴬᵂ
+Eurosport 1 HD,TV: EUROSPORT 1 ᴿᴬᵂ
+Eurosport 2,TV: EUROSPORT 2 ᴿᴬᵂ
+
